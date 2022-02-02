@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "869118c9-1ebb-42a5-8020-d043ec653241",
+  "oracle_id": "659dfdbf-5e9d-4828-a967-348cb3bcf05a",
+  "multiverse_ids": [
+    509337
+  ],
+  "tcgplayer_id": 221304,
+  "cardmarket_id": 491969,
+  "name": "Freyalise, Llanowar's Fury",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/869118c9-1ebb-42a5-8020-d043ec653241",
+  "scryfall_uri": "https://scryfall.com/card/cc1/1/freyalise-llanowars-fury?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.jpg?1610161577",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.jpg?1610161577",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.jpg?1610161577",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.png?1610161577",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.jpg?1610161577",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/869118c9-1ebb-42a5-8020-d043ec653241.jpg?1610161577"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Legendary Planeswalker — Freyalise",
+  "oracle_text": "+2: Create a 1/1 green Elf Druid creature token with \"{T}: Add {G}.\"\n−2: Destroy target artifact or enchantment.\n−6: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander.",
+  "loyalty": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/869118c9-1ebb-42a5-8020-d043ec653241/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A659dfdbf-5e9d-4828-a967-348cb3bcf05a&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kieran Yanner",
+  "artist_ids": [
+    "aa7e89ed-d294-4633-9057-ce04dacfcfa4"
+  ],
+  "illustration_id": "4383428f-5bdf-4b05-b764-997f7e9f7638",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1596,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "6.24",
+    "usd_foil": "8.86",
+    "usd_etched": null,
+    "eur": "3.07",
+    "eur_foil": "4.39",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509337",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Freyalise%2C+Llanowar%27s+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Freyalise%2C+Llanowar%27s+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Freyalise%2C+Llanowar%27s+Fury",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Freyalise%2C+Llanowar%27s+Fury"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221304&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Freyalise%2C+Llanowar%27s+Fury&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Freyalise%2C+Llanowar%27s+Fury&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

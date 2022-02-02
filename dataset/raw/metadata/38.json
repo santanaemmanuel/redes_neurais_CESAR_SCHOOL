@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "caccbba0-80b1-461c-b548-33d7f3a48342",
+  "oracle_id": "550abd9b-9aae-4812-9bc0-7f131d6dcde8",
+  "multiverse_ids": [
+    429909
+  ],
+  "mtgo_id": 64334,
+  "mtgo_foil_id": 64335,
+  "tcgplayer_id": 131408,
+  "cardmarket_id": 297412,
+  "name": "Untamed Hunger",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/caccbba0-80b1-461c-b548-33d7f3a48342",
+  "scryfall_uri": "https://scryfall.com/card/w17/20/untamed-hunger?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.jpg?1562200901",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.jpg?1562200901",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.jpg?1562200901",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.png?1562200901",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.jpg?1562200901",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/caccbba0-80b1-461c-b548-33d7f3a48342.jpg?1562200901"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/caccbba0-80b1-461c-b548-33d7f3a48342/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A550abd9b-9aae-4812-9bc0-7f131d6dcde8&unique=prints",
+  "collector_number": "20",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Mindlessness is not weakness. When we are lost to hunger we are unstoppable.\"\n—Drana, Kalastria bloodchief",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Willian Murai",
+  "artist_ids": [
+    "5a553c8e-e3b9-40e0-bde5-1db621c53939"
+  ],
+  "illustration_id": "d11a8e78-db77-406e-b4e3-856e118c79e7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 14246,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.01",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429909",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Untamed+Hunger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Untamed+Hunger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Untamed+Hunger",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Untamed+Hunger"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131408&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Untamed+Hunger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64334?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

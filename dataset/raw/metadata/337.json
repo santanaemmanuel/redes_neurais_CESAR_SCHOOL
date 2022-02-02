@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "12030927-7af2-448f-bc6b-c2035e0b799d",
+  "oracle_id": "8dcfa697-5350-43b9-896f-c5eefcc3893a",
+  "multiverse_ids": [
+    159413
+  ],
+  "mtgo_id": 29877,
+  "mtgo_foil_id": 29878,
+  "tcgplayer_id": 18651,
+  "cardmarket_id": 19020,
+  "name": "Goldenglow Moth",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/12030927-7af2-448f-bc6b-c2035e0b799d",
+  "scryfall_uri": "https://scryfall.com/card/shm/6/goldenglow-moth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.jpg?1562826946",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.jpg?1562826946",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.jpg?1562826946",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.png?1562826946",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.jpg?1562826946",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/12030927-7af2-448f-bc6b-c2035e0b799d.jpg?1562826946"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Creature — Insect",
+  "oracle_text": "Flying\nWhenever Goldenglow Moth blocks, you may gain 4 life.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/12030927-7af2-448f-bc6b-c2035e0b799d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8dcfa697-5350-43b9-896f-c5eefcc3893a&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Ordinary moths follow it, drawn to its light.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Howard Lyon",
+  "artist_ids": [
+    "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+  ],
+  "illustration_id": "624fe378-4ad6-4fb4-8390-a0ed8b331b69",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11554,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "1.65",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.32",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159413",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goldenglow+Moth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goldenglow+Moth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Goldenglow+Moth",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Goldenglow+Moth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18651&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goldenglow+Moth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29877?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

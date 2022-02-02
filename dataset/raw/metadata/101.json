@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "4ae9da8c-0189-4474-ae3c-aca3fae6bea3",
+  "oracle_id": "4e658c56-ebf7-449c-909c-86053f8eaba6",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 236530,
+  "name": "Champions of Archery // Join the Group",
+  "lang": "en",
+  "released_at": "2020-08-01",
+  "uri": "https://api.scryfall.com/cards/4ae9da8c-0189-4474-ae3c-aca3fae6bea3",
+  "scryfall_uri": "https://scryfall.com/card/htr19/4/champions-of-archery-join-the-group?utm_source=api",
+  "layout": "adventure",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.jpg?1619720422",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.jpg?1619720422",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.jpg?1619720422",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.png?1619720422",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.jpg?1619720422",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/a/4ae9da8c-0189-4474-ae3c-aca3fae6bea3.jpg?1619720422"
+  },
+  "mana_cost": "{3}{R} // {2}{R}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Human Archer // Sorcery — Adventure",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Champions of Archery",
+      "mana_cost": "{3}{R}",
+      "type_line": "Legendary Creature — Human Archer",
+      "oracle_text": "Reach\nCommanders you control get +X/+0, where X is the number of Commanders you control.",
+      "power": "1",
+      "toughness": "4",
+      "artist": "Donato Giancola",
+      "artist_id": "90332db2-aecb-4d79-917b-95cbeb8d0cb6",
+      "illustration_id": "7f9722b8-fe93-4414-8eb4-b6dcb8eddd9b"
+    },
+    {
+      "object": "card_face",
+      "name": "Join the Group",
+      "flavor_name": "",
+      "mana_cost": "{2}{R}",
+      "type_line": "Sorcery — Adventure",
+      "oracle_text": "You may put a legendary creature card from your hand into the command zone. It's also your commander.",
+      "artist": "Donato Giancola",
+      "artist_id": "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "dea849fc-18c3-4327-8c1e-72583d6f08e8",
+  "set": "htr19",
+  "set_name": "2019 Heroes of the Realm",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/dea849fc-18c3-4327-8c1e-72583d6f08e8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/htr19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ae9da8c-0189-4474-ae3c-aca3fae6bea3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4e658c56-ebf7-449c-909c-86053f8eaba6&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "7f9722b8-fe93-4414-8eb4-b6dcb8eddd9b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Champions+of+Archery+%2F%2F+Join+the+Group&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Champions+of+Archery+%2F%2F+Join+the+Group&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Champions+of+Archery",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Champions+of+Archery"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=236530&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Champions+of+Archery&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Champions+of+Archery&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

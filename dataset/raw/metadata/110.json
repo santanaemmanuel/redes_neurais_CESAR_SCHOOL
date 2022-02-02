@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "b2a646c9-8347-4b62-829e-6af6b275346a",
+  "oracle_id": "bc71ebf6-2056-41f7-be35-b2e5c34afa99",
+  "multiverse_ids": [
+    158236
+  ],
+  "mtgo_id": 29755,
+  "mtgo_foil_id": 29756,
+  "tcgplayer_id": 18738,
+  "cardmarket_id": 19297,
+  "name": "Plains",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/b2a646c9-8347-4b62-829e-6af6b275346a",
+  "scryfall_uri": "https://scryfall.com/card/shm/283/plains?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.jpg?1562834841",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.jpg?1562834841",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.jpg?1562834841",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.png?1562834841",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.jpg?1562834841",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2a646c9-8347-4b62-829e-6af6b275346a.jpg?1562834841"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land — Plains",
+  "oracle_text": "({T}: Add {W}.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "legal",
+    "historicbrawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b2a646c9-8347-4b62-829e-6af6b275346a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints",
+  "collector_number": "283",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "22cf5e61-86f6-4833-8346-c649ac1a3579",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "1.02",
+    "usd_etched": null,
+    "eur": "0.28",
+    "eur_foil": "0.54",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158236",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Plains",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Plains"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18738&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29755?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

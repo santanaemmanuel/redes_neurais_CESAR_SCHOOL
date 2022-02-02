@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "7cf3188c-879b-4b18-88b4-6237d7162271",
+  "oracle_id": "a2193302-402a-4cf0-8014-5facecad647b",
+  "multiverse_ids": [
+    464137
+  ],
+  "mtgo_id": 72748,
+  "tcgplayer_id": 191773,
+  "cardmarket_id": 375711,
+  "name": "Twin-Silk Spider",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/7cf3188c-879b-4b18-88b4-6237d7162271",
+  "scryfall_uri": "https://scryfall.com/card/mh1/188/twin-silk-spider?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1562202246",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1562202246",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1562202246",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.png?1562202246",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1562202246",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/c/7cf3188c-879b-4b18-88b4-6237d7162271.jpg?1562202246"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Spider",
+  "oracle_text": "Reach\nWhen Twin-Silk Spider enters the battlefield, create a 1/2 green Spider creature token with reach.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7cf3188c-879b-4b18-88b4-6237d7162271",
+      "component": "combo_piece",
+      "name": "Twin-Silk Spider",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/7cf3188c-879b-4b18-88b4-6237d7162271"
+    },
+    {
+      "object": "related_card",
+      "id": "01591603-d903-419d-9957-cf0ae7f79240",
+      "component": "token",
+      "name": "Spider",
+      "type_line": "Token Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/01591603-d903-419d-9957-cf0ae7f79240"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7cf3188c-879b-4b18-88b4-6237d7162271/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa2193302-402a-4cf0-8014-5facecad647b&unique=prints",
+  "collector_number": "188",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A forest-wide network of webs brings a hungry couple to captured prey.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ben Maier",
+  "artist_ids": [
+    "7bc582c5-4733-4022-8cef-844b800be9f7"
+  ],
+  "illustration_id": "9e78261d-edf9-47a0-a063-f882808e9595",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8313,
+  "prices": {
+    "usd": "0.02",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.15",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464137",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Twin-Silk+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Twin-Silk+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Twin-Silk+Spider",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Twin-Silk+Spider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191773&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Twin-Silk+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72748?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

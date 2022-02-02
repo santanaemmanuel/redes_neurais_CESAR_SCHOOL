@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "29d32427-da4d-4906-8c61-13054c87b349",
+  "oracle_id": "15692698-ef57-4672-bf76-5fe4a00c693a",
+  "multiverse_ids": [
+    425973
+  ],
+  "mtgo_id": 63077,
+  "mtgo_foil_id": 63078,
+  "tcgplayer_id": 128829,
+  "cardmarket_id": 296000,
+  "name": "Aethermage's Touch",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/29d32427-da4d-4906-8c61-13054c87b349",
+  "scryfall_uri": "https://scryfall.com/card/mm3/148/aethermages-touch?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.jpg?1593814062",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.jpg?1593814062",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.jpg?1593814062",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.png?1593814062",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.jpg?1593814062",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29d32427-da4d-4906-8c61-13054c87b349.jpg?1593814062"
+  },
+  "mana_cost": "{2}{W}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "Reveal the top four cards of your library. You may put a creature card from among them onto the battlefield. It gains \"At the beginning of your end step, return this creature to its owner's hand.\" Then put the rest of the cards revealed this way on the bottom of your library in any order.",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/29d32427-da4d-4906-8c61-13054c87b349/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A15692698-ef57-4672-bf76-5fe4a00c693a&unique=prints",
+  "collector_number": "148",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "39818825-411d-45f2-b053-9abee9480b72",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10913,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.50",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425973",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aethermage%27s+Touch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aethermage%27s+Touch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Aethermage%27s+Touch",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Aethermage%27s+Touch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128829&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aethermage%27s+Touch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63077?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

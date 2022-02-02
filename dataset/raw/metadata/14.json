@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "c2e03297-3124-4f83-98ef-772fa213a422",
+  "oracle_id": "b35c1b30-c1dc-489f-bd79-ad6566fb9389",
+  "multiverse_ids": [
+    429894
+  ],
+  "mtgo_id": 64304,
+  "mtgo_foil_id": 64305,
+  "tcgplayer_id": 131405,
+  "cardmarket_id": 297397,
+  "name": "Stormfront Pegasus",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/c2e03297-3124-4f83-98ef-772fa213a422",
+  "scryfall_uri": "https://scryfall.com/card/w17/5/stormfront-pegasus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.jpg?1562200869",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.jpg?1562200869",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.jpg?1562200869",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.png?1562200869",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.jpg?1562200869",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/2/c2e03297-3124-4f83-98ef-772fa213a422.jpg?1562200869"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Pegasus",
+  "oracle_text": "Flying",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c2e03297-3124-4f83-98ef-772fa213a422/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab35c1b30-c1dc-489f-bd79-ad6566fb9389&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Its hooves touch the earth only when a hero must rise.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "rk post",
+  "artist_ids": [
+    "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+  ],
+  "illustration_id": "5458247f-0a2b-4d3a-9168-cf77d925bca5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 17089,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429894",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stormfront+Pegasus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stormfront+Pegasus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Stormfront+Pegasus",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Stormfront+Pegasus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131405&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stormfront+Pegasus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64304?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

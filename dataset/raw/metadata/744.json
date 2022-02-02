@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f",
+  "oracle_id": "bae86bb0-5a97-4f6a-8a3f-4e6848bfacc0",
+  "multiverse_ids": [
+    425832
+  ],
+  "mtgo_id": 63269,
+  "mtgo_foil_id": 63270,
+  "tcgplayer_id": 128879,
+  "cardmarket_id": 295910,
+  "name": "Gideon's Lawkeeper",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f",
+  "scryfall_uri": "https://scryfall.com/card/mm3/7/gideons-lawkeeper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.jpg?1593812805",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.jpg?1593812805",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.jpg?1593812805",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.png?1593812805",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.jpg?1593812805",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f.jpg?1593812805"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Creature — Human Soldier",
+  "oracle_text": "{W}, {T}: Tap target creature.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df30f49a-32a2-4e9f-8f2a-1b9fab98dc3f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abae86bb0-5a97-4f6a-8a3f-4e6848bfacc0&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The essence of a lawful society is swift deterrence.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "29373b91-f7bc-4e67-ab12-3eb0ce86d0c6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11919,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.58",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425832",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gideon%27s+Lawkeeper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gideon%27s+Lawkeeper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Gideon%27s+Lawkeeper",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Gideon%27s+Lawkeeper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128879&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gideon%27s+Lawkeeper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63269?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

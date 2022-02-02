@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "4206d5f8-edeb-4e0b-8e98-736f6ccdcf99",
+  "oracle_id": "a3ec6b5d-08ec-4ae0-b1db-c4b87a1849c7",
+  "multiverse_ids": [
+    425841
+  ],
+  "mtgo_id": 63499,
+  "mtgo_foil_id": 63500,
+  "tcgplayer_id": 128591,
+  "cardmarket_id": 295854,
+  "name": "Momentary Blink",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99",
+  "scryfall_uri": "https://scryfall.com/card/mm3/16/momentary-blink?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.jpg?1593812872",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.jpg?1593812872",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.jpg?1593812872",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.png?1593812872",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.jpg?1593812872",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/2/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99.jpg?1593812872"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Exile target creature you control, then return it to the battlefield under its owner's control.\nFlashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4206d5f8-edeb-4e0b-8e98-736f6ccdcf99/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3ec6b5d-08ec-4ae0-b1db-c4b87a1849c7&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Evan Shipard",
+  "artist_ids": [
+    "eea284ce-9377-49c1-9d96-f34b7d487cdf"
+  ],
+  "illustration_id": "57e7e377-876b-4908-ba40-629beb8a56aa",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2289,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425841",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Momentary+Blink&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Momentary+Blink&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Momentary+Blink",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Momentary+Blink"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128591&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Momentary+Blink&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63499?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

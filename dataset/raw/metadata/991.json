@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "7a483778-b88b-473f-9217-7583e69b3e70",
+  "oracle_id": "92eed395-62ca-4293-882b-8565c40daab5",
+  "multiverse_ids": [
+    509341
+  ],
+  "tcgplayer_id": 221308,
+  "cardmarket_id": 491949,
+  "name": "Sylvan Library",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/7a483778-b88b-473f-9217-7583e69b3e70",
+  "scryfall_uri": "https://scryfall.com/card/cc1/5/sylvan-library?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.jpg?1610161812",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.jpg?1610161812",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.jpg?1610161812",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.png?1610161812",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.jpg?1610161812",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/a/7a483778-b88b-473f-9217-7583e69b3e70.jpg?1610161812"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7a483778-b88b-473f-9217-7583e69b3e70/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92eed395-62ca-4293-882b-8565c40daab5&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bryan Sola",
+  "artist_ids": [
+    "e6879299-a28b-48bc-8db1-9cafcf36de09"
+  ],
+  "illustration_id": "14542441-7742-46a1-baa0-9159e0cba8a2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 90,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "46.69",
+    "usd_foil": "62.94",
+    "usd_etched": null,
+    "eur": "28.44",
+    "eur_foil": "44.99",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509341",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sylvan+Library&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sylvan+Library&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sylvan+Library",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sylvan+Library"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221308&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sylvan+Library&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvan+Library&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

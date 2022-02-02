@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "92eaac2e-51ff-45cb-a554-fdb724ddbb91",
+  "oracle_id": "f263f9d0-2ca9-4d3f-9b41-c67bdc73281a",
+  "multiverse_ids": [
+    146773
+  ],
+  "mtgo_id": 29517,
+  "mtgo_foil_id": 29518,
+  "tcgplayer_id": 18606,
+  "cardmarket_id": 19218,
+  "name": "Deus of Calamity",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/92eaac2e-51ff-45cb-a554-fdb724ddbb91",
+  "scryfall_uri": "https://scryfall.com/card/shm/204/deus-of-calamity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.jpg?1562833214",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.jpg?1562833214",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.jpg?1562833214",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.png?1562833214",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.jpg?1562833214",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92eaac2e-51ff-45cb-a554-fdb724ddbb91.jpg?1562833214"
+  },
+  "mana_cost": "{R/G}{R/G}{R/G}{R/G}{R/G}",
+  "cmc": 5.0,
+  "type_line": "Creature — Spirit Avatar",
+  "oracle_text": "Trample\nWhenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/92eaac2e-51ff-45cb-a554-fdb724ddbb91/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af263f9d0-2ca9-4d3f-9b41-c67bdc73281a&unique=prints",
+  "collector_number": "204",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"He bears the marks of ages upon his skin, memories of dreams long dead and best left buried.\"\n—*The Seer's Parables*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "537c7bcd-274f-456d-a3b3-64980e88360e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8912,
+  "prices": {
+    "usd": "1.20",
+    "usd_foil": "12.72",
+    "usd_etched": null,
+    "eur": "1.50",
+    "eur_foil": "6.99",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146773",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deus+of+Calamity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deus+of+Calamity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Deus+of+Calamity",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Deus+of+Calamity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18606&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deus+of+Calamity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29517?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "723d3d8d-e78b-40b8-aed5-888a2d0baa60",
+  "oracle_id": "cfd0f0e6-1bbf-4450-97d2-c54907abb7e4",
+  "multiverse_ids": [
+    464119
+  ],
+  "mtgo_id": 72712,
+  "tcgplayer_id": 191209,
+  "cardmarket_id": 375276,
+  "name": "Llanowar Tribe",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/723d3d8d-e78b-40b8-aed5-888a2d0baa60",
+  "scryfall_uri": "https://scryfall.com/card/mh1/170/llanowar-tribe?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.png?1562202119",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/723d3d8d-e78b-40b8-aed5-888a2d0baa60.jpg?1562202119"
+  },
+  "mana_cost": "{G}{G}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Elf Druid",
+  "oracle_text": "{T}: Add {G}{G}{G}.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/723d3d8d-e78b-40b8-aed5-888a2d0baa60/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acfd0f0e6-1bbf-4450-97d2-c54907abb7e4&unique=prints",
+  "collector_number": "170",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Llanowar remembers the Ice Age, the Phyrexian Invasion, and the Rift Era. So long as we draw breath, we will ensure such disasters never threaten our world again.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Murphy",
+  "artist_ids": [
+    "07c7ac65-dfa6-4273-9c66-ec9d8f3e2226"
+  ],
+  "illustration_id": "d0929099-53bb-446b-8abc-0ee46b97cdbf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1223,
+  "preview": {
+    "source": "Dana Fischer",
+    "source_uri": "https://twitter.com/DanaFischerMTG/status/1133493662300590080",
+    "previewed_at": "2019-05-28"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "2.53",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "2.45",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464119",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Llanowar+Tribe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Llanowar+Tribe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Llanowar+Tribe",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Llanowar+Tribe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191209&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Llanowar+Tribe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72712?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

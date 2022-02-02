@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "7d114268-7768-4a7c-a6fb-78fec7d4495a",
+  "oracle_id": "2f6a5278-23bf-47b2-a2b9-dfff7d96f3dd",
+  "multiverse_ids": [
+    425951
+  ],
+  "mtgo_id": 63059,
+  "mtgo_foil_id": 63060,
+  "tcgplayer_id": 128873,
+  "cardmarket_id": 295985,
+  "name": "Fists of Ironwood",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/7d114268-7768-4a7c-a6fb-78fec7d4495a",
+  "scryfall_uri": "https://scryfall.com/card/mm3/126/fists-of-ironwood?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.jpg?1593813795",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.jpg?1593813795",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.jpg?1593813795",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.png?1593813795",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.jpg?1593813795",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7d114268-7768-4a7c-a6fb-78fec7d4495a.jpg?1593813795"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nWhen Fists of Ironwood enters the battlefield, create two 1/1 green Saproling creature tokens.\nEnchanted creature has trample.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7d114268-7768-4a7c-a6fb-78fec7d4495a",
+      "component": "combo_piece",
+      "name": "Fists of Ironwood",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/7d114268-7768-4a7c-a6fb-78fec7d4495a"
+    },
+    {
+      "object": "related_card",
+      "id": "0e78d072-183d-4272-9d9f-6801dced729d",
+      "component": "token",
+      "name": "Saproling",
+      "type_line": "Token Creature — Saproling",
+      "uri": "https://api.scryfall.com/cards/0e78d072-183d-4272-9d9f-6801dced729d"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7d114268-7768-4a7c-a6fb-78fec7d4495a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2f6a5278-23bf-47b2-a2b9-dfff7d96f3dd&unique=prints",
+  "collector_number": "126",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Glen Angus",
+  "artist_ids": [
+    "7be3b9e4-de9b-4a3d-884e-e67b9681d409"
+  ],
+  "illustration_id": "46a78e25-f5fb-4d47-b043-78a1927a2618",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7798,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425951",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fists+of+Ironwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fists+of+Ironwood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Fists+of+Ironwood",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Fists+of+Ironwood"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128873&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fists+of+Ironwood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63059?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

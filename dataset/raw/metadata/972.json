@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "ef60e595-c1fc-4d03-a4f0-e3ae24dd6556",
+  "oracle_id": "185db9c7-3936-473c-9220-ae255527aaf9",
+  "multiverse_ids": [
+    425934
+  ],
+  "mtgo_id": 63433,
+  "mtgo_foil_id": 63434,
+  "tcgplayer_id": 128923,
+  "cardmarket_id": 295970,
+  "name": "Rubblebelt Maaka",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556",
+  "scryfall_uri": "https://scryfall.com/card/mm3/109/rubblebelt-maaka?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.jpg?1593813560",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.jpg?1593813560",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.jpg?1593813560",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.png?1593813560",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.jpg?1593813560",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556.jpg?1593813560"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Creature — Cat",
+  "oracle_text": "Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Bloodrush"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef60e595-c1fc-4d03-a4f0-e3ae24dd6556/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A185db9c7-3936-473c-9220-ae255527aaf9&unique=prints",
+  "collector_number": "109",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The maaka remain loyal to us in this time of strife. We don't even have to feed them—our enemies do.\"\n—Nedja, Gruul shaman",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Velhagen",
+  "artist_ids": [
+    "9f85c6c1-5cf4-4092-bb65-006eaca188d4"
+  ],
+  "illustration_id": "cc13cc1b-cf29-4be2-b0d0-5fa47b7a610e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14367,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.08",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.07",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425934",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rubblebelt+Maaka&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rubblebelt+Maaka&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Rubblebelt+Maaka",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Rubblebelt+Maaka"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128923&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rubblebelt+Maaka&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63433?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

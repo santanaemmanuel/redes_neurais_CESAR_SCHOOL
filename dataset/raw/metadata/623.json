@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b73571bd-b6e5-4338-a9b1-d847a8ad43d1",
+  "oracle_id": "9f8fe514-77ed-41b4-a6f3-c6f095bb97be",
+  "multiverse_ids": [
+    464197
+  ],
+  "mtgo_id": 72868,
+  "tcgplayer_id": 191289,
+  "cardmarket_id": 375351,
+  "name": "Tranquil Thicket",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/b73571bd-b6e5-4338-a9b1-d847a8ad43d1",
+  "scryfall_uri": "https://scryfall.com/card/mh1/248/tranquil-thicket?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1562202609",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1562202609",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1562202609",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.png?1562202609",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1562202609",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/7/b73571bd-b6e5-4338-a9b1-d847a8ad43d1.jpg?1562202609"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Tranquil Thicket enters the battlefield tapped.\n{T}: Add {G}.\nCycling {G} ({G}, Discard this card: Draw a card.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b73571bd-b6e5-4338-a9b1-d847a8ad43d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9f8fe514-77ed-41b4-a6f3-c6f095bb97be&unique=prints",
+  "collector_number": "248",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "illustration_id": "0f9b3a07-8362-41b6-99a4-3a9e22670ce3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 490,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/hitting-cycle-2019-05-29?",
+    "previewed_at": "2019-05-29"
+  },
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "2.68",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.93",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464197",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tranquil+Thicket&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tranquil+Thicket&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Tranquil+Thicket",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Tranquil+Thicket"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191289&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquil+Thicket&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72868?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

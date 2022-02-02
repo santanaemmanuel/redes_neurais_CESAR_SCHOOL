@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "f627e521-2b8f-4d0f-a9d3-cc4e331ce57d",
+  "oracle_id": "6f6e0abb-18d0-4a15-9b21-0a72542998ac",
+  "multiverse_ids": [
+    464028
+  ],
+  "mtgo_id": 72530,
+  "tcgplayer_id": 191730,
+  "cardmarket_id": 375621,
+  "name": "Azra Smokeshaper",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d",
+  "scryfall_uri": "https://scryfall.com/card/mh1/79/azra-smokeshaper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.png?1562201565",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d.jpg?1562201565"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Azra Ninja",
+  "oracle_text": "Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhen Azra Smokeshaper enters the battlefield, target creature you control gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Ninjutsu"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f627e521-2b8f-4d0f-a9d3-cc4e331ce57d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6f6e0abb-18d0-4a15-9b21-0a72542998ac&unique=prints",
+  "collector_number": "79",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron Miller",
+  "artist_ids": [
+    "fc021f3d-773a-4706-bbe7-f602324f511f"
+  ],
+  "illustration_id": "7d199f0f-64fe-4ed8-8cec-bfea09ab426b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5314,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.09",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464028",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Azra+Smokeshaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Azra+Smokeshaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Azra+Smokeshaper",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Azra+Smokeshaper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191730&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Azra+Smokeshaper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72530?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

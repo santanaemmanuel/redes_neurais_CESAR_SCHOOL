@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766",
+  "oracle_id": "674b9469-3213-4cb0-be7e-db209bc09f92",
+  "multiverse_ids": [
+    158754
+  ],
+  "mtgo_id": 29811,
+  "mtgo_foil_id": 29812,
+  "tcgplayer_id": 18772,
+  "cardmarket_id": 19229,
+  "name": "Runes of the Deus",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766",
+  "scryfall_uri": "https://scryfall.com/card/shm/215/runes-of-the-deus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.jpg?1562826573",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.jpg?1562826573",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.jpg?1562826573",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.png?1562826573",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.jpg?1562826573",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/a/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766.jpg?1562826573"
+  },
+  "mana_cost": "{4}{R/G}",
+  "cmc": 5.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nAs long as enchanted creature is red, it gets +1/+1 and has double strike. (It deals both first-strike and regular combat damage.)\nAs long as enchanted creature is green, it gets +1/+1 and has trample.",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0a5a84c7-c27f-49a2-8ae8-cb8e34ce0766/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A674b9469-3213-4cb0-be7e-db209bc09f92&unique=prints",
+  "collector_number": "215",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Warren Mahy",
+  "artist_ids": [
+    "002c739e-aa1f-4c1d-921b-37cb2d1b1c5b"
+  ],
+  "illustration_id": "700492c1-c513-44dd-89a1-cd2b7e503129",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7416,
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": "2.76",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "1.40",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158754",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Runes+of+the+Deus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Runes+of+the+Deus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Runes+of+the+Deus",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Runes+of+the+Deus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18772&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Runes+of+the+Deus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29811?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

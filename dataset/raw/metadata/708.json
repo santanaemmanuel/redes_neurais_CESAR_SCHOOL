@@ -1,0 +1,148 @@
+{
+  "object": "card",
+  "id": "1afd2ad0-2721-4434-96dc-4271c759a13a",
+  "oracle_id": "688e5e19-8f28-45c4-ace4-a38144f494f1",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111267,
+  "cardmarket_id": 287602,
+  "name": "Sifter of Skulls",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/1afd2ad0-2721-4434-96dc-4271c759a13a",
+  "scryfall_uri": "https://scryfall.com/card/pogw/77s/sifter-of-skulls?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.jpg?1562871444",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.jpg?1562871444",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.jpg?1562871444",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.png?1562871444",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.jpg?1562871444",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1afd2ad0-2721-4434-96dc-4271c759a13a.jpg?1562871444"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nWhenever another nontoken creature you control dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C}.\" ({C} represents colorless mana.)",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Devoid"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "be57a5aa-44f1-483f-9274-aa68f5a2bf1f",
+      "component": "combo_piece",
+      "name": "Sifter of Skulls",
+      "type_line": "Creature — Eldrazi",
+      "uri": "https://api.scryfall.com/cards/be57a5aa-44f1-483f-9274-aa68f5a2bf1f"
+    },
+    {
+      "object": "related_card",
+      "id": "a03edf14-3495-4f61-ad73-f16e9456472c",
+      "component": "token",
+      "name": "Eldrazi Scion",
+      "type_line": "Token Creature — Eldrazi Scion",
+      "uri": "https://api.scryfall.com/cards/a03edf14-3495-4f61-ad73-f16e9456472c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1afd2ad0-2721-4434-96dc-4271c759a13a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A688e5e19-8f28-45c4-ace4-a38144f494f1&unique=prints",
+  "collector_number": "77s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "ebe93426-0ddc-4875-b453-12eea3a7ad6a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1597,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.02",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.90",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sifter+of+Skulls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sifter+of+Skulls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sifter+of+Skulls",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sifter+of+Skulls"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111267&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sifter+of+Skulls&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sifter+of+Skulls&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

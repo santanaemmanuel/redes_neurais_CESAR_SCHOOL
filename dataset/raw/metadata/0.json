@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "9e2b5361-ff9a-485c-8ae2-52bf376fd9ad",
+  "oracle_id": "ff86d8fc-5242-405e-b5e3-f9ff73296794",
+  "multiverse_ids": [
+
+  ],
+  "name": "Bat",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad",
+  "scryfall_uri": "https://scryfall.com/card/tgk2/3/bat?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.jpg?1552078403",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.jpg?1552078403",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.jpg?1552078403",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.png?1552078403",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.jpg?1552078403",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/e/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad.jpg?1552078403"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Bat",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f2d2a19b-169a-456f-9fbc-7820aa2ada20",
+      "component": "combo_piece",
+      "name": "Belfry Spirit",
+      "type_line": "Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/f2d2a19b-169a-456f-9fbc-7820aa2ada20"
+    },
+    {
+      "object": "related_card",
+      "id": "ae4c16a5-993d-4f4f-a702-7c71923abae2",
+      "component": "combo_piece",
+      "name": "Skeletal Vampire",
+      "type_line": "Creature — Vampire Skeleton",
+      "uri": "https://api.scryfall.com/cards/ae4c16a5-993d-4f4f-a702-7c71923abae2"
+    },
+    {
+      "object": "related_card",
+      "id": "9e2b5361-ff9a-485c-8ae2-52bf376fd9ad",
+      "component": "token",
+      "name": "Bat",
+      "type_line": "Token Creature — Bat",
+      "uri": "https://api.scryfall.com/cards/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set": "tgk2",
+  "set_name": "RNA Guild Kit Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tgk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9e2b5361-ff9a-485c-8ae2-52bf376fd9ad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff86d8fc-5242-405e-b5e3-f9ff73296794&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "orzhov",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "23fa4c20-35ff-4b4f-8fcd-a14eaf4551c5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Bat",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Bat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

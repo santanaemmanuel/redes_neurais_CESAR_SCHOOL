@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "55ae93d4-c72d-47f6-9e15-fc7edf88a6c0",
+  "oracle_id": "6caafe5a-884d-49e8-a62a-7bf609f0ce53",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111250,
+  "cardmarket_id": 287633,
+  "name": "Kozilek's Return",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0",
+  "scryfall_uri": "https://scryfall.com/card/pogw/98s/kozileks-return?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.jpg?1562871511",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.jpg?1562871511",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.jpg?1562871511",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.png?1562871511",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.jpg?1562871511",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0.jpg?1562871511"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Devoid (This card has no color.)\nKozilek's Return deals 2 damage to each creature.\nWhenever you cast an Eldrazi creature spell with mana value 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Devoid"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/55ae93d4-c72d-47f6-9e15-fc7edf88a6c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6caafe5a-884d-49e8-a62a-7bf609f0ce53&unique=prints",
+  "collector_number": "98s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lius Lasahido",
+  "artist_ids": [
+    "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+  ],
+  "illustration_id": "54a50c67-1fa4-481b-a583-922546bc4f2e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 10293,
+  "prices": {
+    "usd": null,
+    "usd_foil": "31.98",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "14.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kozilek%27s+Return&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kozilek%27s+Return&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Kozilek%27s+Return",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kozilek%27s+Return"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111250&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kozilek%27s+Return&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kozilek%27s+Return&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

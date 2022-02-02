@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "c3c2249a-a623-4dc5-8483-6774c9f3ea27",
+  "oracle_id": "cddb3ec4-01a2-4f4d-a690-3486c73c3df8",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111237,
+  "cardmarket_id": 287585,
+  "name": "Eldrazi Mimic",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/c3c2249a-a623-4dc5-8483-6774c9f3ea27",
+  "scryfall_uri": "https://scryfall.com/card/pogw/2s/eldrazi-mimic?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.jpg?1562871728",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.jpg?1562871728",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.jpg?1562871728",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.png?1562871728",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.jpg?1562871728",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c3c2249a-a623-4dc5-8483-6774c9f3ea27.jpg?1562871728"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c3c2249a-a623-4dc5-8483-6774c9f3ea27/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acddb3ec4-01a2-4f4d-a690-3486c73c3df8&unique=prints",
+  "collector_number": "2s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "It is consistently inconsistent.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "e23c2742-6759-42e2-9c0d-d7a6963e8044",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 5769,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.68",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eldrazi+Mimic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eldrazi+Mimic&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Eldrazi+Mimic",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Eldrazi+Mimic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111237&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eldrazi+Mimic&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Eldrazi+Mimic&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

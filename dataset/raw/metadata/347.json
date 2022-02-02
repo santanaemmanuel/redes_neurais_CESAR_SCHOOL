@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "2a48062c-faac-4183-830f-919ab255b907",
+  "oracle_id": "60b6e96a-63e6-4520-b2dd-b20b7dfbcd57",
+  "multiverse_ids": [
+    157879
+  ],
+  "mtgo_id": 29729,
+  "mtgo_foil_id": 29730,
+  "tcgplayer_id": 18672,
+  "cardmarket_id": 19182,
+  "name": "Inkfathom Witch",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/2a48062c-faac-4183-830f-919ab255b907",
+  "scryfall_uri": "https://scryfall.com/card/shm/168/inkfathom-witch?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/a/2a48062c-faac-4183-830f-919ab255b907.jpg?1562828150",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/a/2a48062c-faac-4183-830f-919ab255b907.jpg?1562828150",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/a/2a48062c-faac-4183-830f-919ab255b907.jpg?1562828150",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2a48062c-faac-4183-830f-919ab255b907.png?1562828150",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/a/2a48062c-faac-4183-830f-919ab255b907.jpg?1562828150",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/a/2a48062c-faac-4183-830f-919ab255b907.jpg?1562828150"
+  },
+  "mana_cost": "{1}{U/B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Merfolk Wizard",
+  "oracle_text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{2}{U}{B}: Each unblocked creature has base power and toughness 4/1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Fear"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2a48062c-faac-4183-830f-919ab255b907/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60b6e96a-63e6-4520-b2dd-b20b7dfbcd57&unique=prints",
+  "collector_number": "168",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The murk of the Wanderbrine concealed unseemly rituals designed to bring out the worst in merrowkind.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Larry MacDougall",
+  "artist_ids": [
+    "73932957-e76e-4ff0-8f0a-b3ad2d8dfae2"
+  ],
+  "illustration_id": "1f5cb13b-01d1-4330-aa2c-d8726d1c389b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6811,
+  "prices": {
+    "usd": "0.43",
+    "usd_foil": "7.20",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "3.56",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157879",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inkfathom+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inkfathom+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Inkfathom+Witch",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inkfathom+Witch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18672&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inkfathom+Witch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29729?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

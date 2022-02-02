@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "c94079dd-023a-41b2-9004-95bbb0e41267",
+  "oracle_id": "16f03175-9c57-4058-9c9d-9c4936e4c324",
+  "multiverse_ids": [
+    425977
+  ],
+  "mtgo_id": 63441,
+  "mtgo_foil_id": 63442,
+  "tcgplayer_id": 128844,
+  "cardmarket_id": 296004,
+  "name": "Bronzebeak Moa",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/c94079dd-023a-41b2-9004-95bbb0e41267",
+  "scryfall_uri": "https://scryfall.com/card/mm3/152/bronzebeak-moa?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.jpg?1593814137",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.jpg?1593814137",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.jpg?1593814137",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.png?1593814137",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.jpg?1593814137",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c94079dd-023a-41b2-9004-95bbb0e41267.jpg?1593814137"
+  },
+  "mana_cost": "{2}{G}{W}",
+  "cmc": 4.0,
+  "type_line": "Creature — Bird",
+  "oracle_text": "Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c94079dd-023a-41b2-9004-95bbb0e41267/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16f03175-9c57-4058-9c9d-9c4936e4c324&unique=prints",
+  "collector_number": "152",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "They fight for their home with more loyalty than any conscript.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Ryman",
+  "artist_ids": [
+    "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+  ],
+  "illustration_id": "a04a615c-343e-4391-bf7e-e0f6156e4bd2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16001,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425977",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bronzebeak+Moa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bronzebeak+Moa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Bronzebeak+Moa",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bronzebeak+Moa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128844&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bronzebeak+Moa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63441?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

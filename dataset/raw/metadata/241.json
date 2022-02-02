@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "9951214b-43a9-4c51-bbb4-05bac81b9866",
+  "oracle_id": "508fdfb1-87d6-4342-a05a-01158f253896",
+  "multiverse_ids": [
+    142028
+  ],
+  "mtgo_id": 29371,
+  "mtgo_foil_id": 29372,
+  "tcgplayer_id": 18853,
+  "cardmarket_id": 19171,
+  "name": "Zealous Guardian",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/9951214b-43a9-4c51-bbb4-05bac81b9866",
+  "scryfall_uri": "https://scryfall.com/card/shm/157/zealous-guardian?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.jpg?1562833589",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.jpg?1562833589",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.jpg?1562833589",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.png?1562833589",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.jpg?1562833589",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9951214b-43a9-4c51-bbb4-05bac81b9866.jpg?1562833589"
+  },
+  "mana_cost": "{W/U}",
+  "cmc": 1.0,
+  "type_line": "Creature — Kithkin Soldier",
+  "oracle_text": "Flash",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9951214b-43a9-4c51-bbb4-05bac81b9866/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A508fdfb1-87d6-4342-a05a-01158f253896&unique=prints",
+  "collector_number": "157",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Parapet watchers patrol the outer edges of the doun, signaling to others who wait patiently in shadow.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "b3554340-5b52-4710-a69c-9a97e4aba96e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18563,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.21",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142028",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zealous+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zealous+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Zealous+Guardian",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Zealous+Guardian"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18853&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zealous+Guardian&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29371?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "a90a1c44-ee0f-4c12-bfaf-6f371bcce167",
+  "oracle_id": "d61fb9e8-d05a-481a-a90f-5def300c9abb",
+  "multiverse_ids": [
+    464032
+  ],
+  "mtgo_id": 72538,
+  "tcgplayer_id": 191579,
+  "cardmarket_id": 375453,
+  "name": "Cordial Vampire",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/a90a1c44-ee0f-4c12-bfaf-6f371bcce167",
+  "scryfall_uri": "https://scryfall.com/card/mh1/83/cordial-vampire?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.png?1562201588",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/9/a90a1c44-ee0f-4c12-bfaf-6f371bcce167.jpg?1562201588"
+  },
+  "mana_cost": "{B}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Vampire",
+  "oracle_text": "Whenever Cordial Vampire or another creature dies, put a +1/+1 counter on each Vampire you control.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a90a1c44-ee0f-4c12-bfaf-6f371bcce167/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad61fb9e8-d05a-481a-a90f-5def300c9abb&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Please, come in! Hors d'oeuvres are on the table.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "f13f9914-0976-4e8b-9418-0279a75eb679",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1680,
+  "preview": {
+    "source": "Robbie Yoon",
+    "source_uri": "https://www.twitch.tv/videos/431495310",
+    "previewed_at": "2019-05-29"
+  },
+  "prices": {
+    "usd": "1.12",
+    "usd_foil": "12.85",
+    "usd_etched": null,
+    "eur": "1.39",
+    "eur_foil": "8.00",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464032",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cordial+Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cordial+Vampire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cordial+Vampire",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cordial+Vampire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191579&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cordial+Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72538?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

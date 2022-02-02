@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "5e26bd0c-5ec7-4653-8e63-747157c20af1",
+  "oracle_id": "376271a6-80f0-47a6-990a-5ec5517aae42",
+  "multiverse_ids": [
+    152070
+  ],
+  "mtgo_id": 29605,
+  "mtgo_foil_id": 29606,
+  "tcgplayer_id": 18798,
+  "cardmarket_id": 19037,
+  "name": "Spectral Procession",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/5e26bd0c-5ec7-4653-8e63-747157c20af1",
+  "scryfall_uri": "https://scryfall.com/card/shm/23/spectral-procession?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.jpg?1562830693",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.jpg?1562830693",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.jpg?1562830693",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.png?1562830693",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.jpg?1562830693",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e26bd0c-5ec7-4653-8e63-747157c20af1.jpg?1562830693"
+  },
+  "mana_cost": "{2/W}{2/W}{2/W}",
+  "cmc": 6.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create three 1/1 white Spirit creature tokens with flying.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5e26bd0c-5ec7-4653-8e63-747157c20af1",
+      "component": "combo_piece",
+      "name": "Spectral Procession",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/5e26bd0c-5ec7-4653-8e63-747157c20af1"
+    },
+    {
+      "object": "related_card",
+      "id": "cba50f25-ad8c-4244-8dc1-f8656f4c8c0b",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/cba50f25-ad8c-4244-8dc1-f8656f4c8c0b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5e26bd0c-5ec7-4653-8e63-747157c20af1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A376271a6-80f0-47a6-990a-5ec5517aae42&unique=prints",
+  "collector_number": "23",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The dead have it easy. They suffer no more. If breaking their rest helps the living, so be it.\"\n—Olka, mistmeadow witch",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeremy Enecio",
+  "artist_ids": [
+    "f9e1fab6-f366-4dae-a5c7-736d475312b8"
+  ],
+  "illustration_id": "589b5f85-297b-47cc-b700-d63ef36bafcf",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5691,
+  "prices": {
+    "usd": "0.48",
+    "usd_foil": "7.98",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.90",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152070",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spectral+Procession&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spectral+Procession&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Spectral+Procession",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Spectral+Procession"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18798&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spectral+Procession&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29605?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

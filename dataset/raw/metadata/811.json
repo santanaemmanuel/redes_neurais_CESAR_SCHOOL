@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "d286f930-28ca-4c59-8a53-99686ac6030e",
+  "oracle_id": "8d4d6806-cb01-49e3-91cc-fb0e7f7a8684",
+  "multiverse_ids": [
+    425967
+  ],
+  "mtgo_id": 63045,
+  "mtgo_foil_id": 63046,
+  "tcgplayer_id": 128967,
+  "cardmarket_id": 295996,
+  "name": "Thornscape Battlemage",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/d286f930-28ca-4c59-8a53-99686ac6030e",
+  "scryfall_uri": "https://scryfall.com/card/mm3/142/thornscape-battlemage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.jpg?1593813990",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.jpg?1593813990",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.jpg?1593813990",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.png?1593813990",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.jpg?1593813990",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/2/d286f930-28ca-4c59-8a53-99686ac6030e.jpg?1593813990"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Elf Wizard",
+  "oracle_text": "Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target.\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Kicker"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d286f930-28ca-4c59-8a53-99686ac6030e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8d4d6806-cb01-49e3-91cc-fb0e7f7a8684&unique=prints",
+  "collector_number": "142",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Cavotta",
+  "artist_ids": [
+    "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+  ],
+  "illustration_id": "c268b9d4-a431-420d-b015-e49d96eead24",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17836,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.20",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425967",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Thornscape+Battlemage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Thornscape+Battlemage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Thornscape+Battlemage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Thornscape+Battlemage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128967&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thornscape+Battlemage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63045?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

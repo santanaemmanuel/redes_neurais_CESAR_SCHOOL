@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "02acbe9b-fac7-4135-8318-5f3dc93a9e58",
+  "oracle_id": "8f9535f2-f00c-40d3-9997-d1c0ece15f9f",
+  "multiverse_ids": [
+    429902
+  ],
+  "mtgo_id": 64320,
+  "mtgo_foil_id": 64321,
+  "tcgplayer_id": 131404,
+  "cardmarket_id": 297405,
+  "name": "Stealer of Secrets",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/02acbe9b-fac7-4135-8318-5f3dc93a9e58",
+  "scryfall_uri": "https://scryfall.com/card/w17/13/stealer-of-secrets?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.jpg?1562197272",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.jpg?1562197272",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.jpg?1562197272",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.png?1562197272",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.jpg?1562197272",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/2/02acbe9b-fac7-4135-8318-5f3dc93a9e58.jpg?1562197272"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature — Human Rogue",
+  "oracle_text": "Whenever Stealer of Secrets deals combat damage to a player, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/02acbe9b-fac7-4135-8318-5f3dc93a9e58/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f9535f2-f00c-40d3-9997-d1c0ece15f9f&unique=prints",
+  "collector_number": "13",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The Dimir would hire her, if only they knew where she lived. The Azorius would condemn her, if only they knew her name.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michael C. Hayes",
+  "artist_ids": [
+    "d119119f-9ee1-4cf1-a01f-e90b6a042155"
+  ],
+  "illustration_id": "e203d959-9d36-4437-94cd-812b57310a50",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 11602,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429902",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stealer+of+Secrets&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stealer+of+Secrets&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Stealer+of+Secrets",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Stealer+of+Secrets"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131404&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stealer+of+Secrets&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64320?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

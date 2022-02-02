@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "8815cb28-ed85-4f27-b37f-f1a024facf36",
+  "oracle_id": "e6a35729-edee-4a8c-9aa1-041114d66c69",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111224,
+  "cardmarket_id": 287615,
+  "name": "Ayli, Eternal Pilgrim",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/8815cb28-ed85-4f27-b37f-f1a024facf36",
+  "scryfall_uri": "https://scryfall.com/card/pogw/151s/ayli-eternal-pilgrim?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.jpg?1562871662",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.jpg?1562871662",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.jpg?1562871662",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.png?1562871662",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.jpg?1562871662",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/8815cb28-ed85-4f27-b37f-f1a024facf36.jpg?1562871662"
+  },
+  "mana_cost": "{W}{B}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Kor Cleric",
+  "oracle_text": "Deathtouch\n{1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.\n{1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Deathtouch"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8815cb28-ed85-4f27-b37f-f1a024facf36/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6a35729-edee-4a8c-9aa1-041114d66c69&unique=prints",
+  "collector_number": "151s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cynthia Sheppard",
+  "artist_ids": [
+    "9dfbdd58-65e6-40cf-951a-80e141061939"
+  ],
+  "illustration_id": "b2d5133f-3084-4969-b446-e6cd0743dfa4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2359,
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.69",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.83",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ayli%2C+Eternal+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ayli%2C+Eternal+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ayli%2C+Eternal+Pilgrim",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ayli%2C+Eternal+Pilgrim"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111224&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ayli%2C+Eternal+Pilgrim&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ayli%2C+Eternal+Pilgrim&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

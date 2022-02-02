@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "882b8f98-ee51-4c94-a3eb-c79eb2b50d78",
+  "oracle_id": "7aa31280-12c3-479d-a6dd-f1c669043083",
+  "multiverse_ids": [
+    464071
+  ],
+  "mtgo_id": 72616,
+  "tcgplayer_id": 190644,
+  "cardmarket_id": 374400,
+  "name": "Firebolt",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/882b8f98-ee51-4c94-a3eb-c79eb2b50d78",
+  "scryfall_uri": "https://scryfall.com/card/mh1/122/firebolt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.png?1562201821",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Firebolt deals 2 damage to any target.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/882b8f98-ee51-4c94-a3eb-c79eb2b50d78/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7aa31280-12c3-479d-a6dd-f1c669043083&unique=prints",
+  "collector_number": "122",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"There's more where that came from!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rallis",
+  "artist_ids": [
+    "a8e7b854-b15a-421a-b66d-6e68187ae285"
+  ],
+  "illustration_id": "b2784f2e-fdd7-45f4-8cfb-516837c3c1c1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9669,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/427047692",
+    "previewed_at": "2019-05-19"
+  },
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.23",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464071",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Firebolt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Firebolt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Firebolt",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Firebolt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190644&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Firebolt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72616?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

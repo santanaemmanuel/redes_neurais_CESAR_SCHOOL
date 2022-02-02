@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "acf0cafc-ca14-4c1a-8237-565515a81dec",
+  "oracle_id": "d93633d6-8433-43c8-9224-a25b411bfd96",
+  "multiverse_ids": [
+    158766
+  ],
+  "mtgo_id": 29835,
+  "mtgo_foil_id": 29836,
+  "tcgplayer_id": 18619,
+  "cardmarket_id": 19105,
+  "name": "Ember Gale",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/acf0cafc-ca14-4c1a-8237-565515a81dec",
+  "scryfall_uri": "https://scryfall.com/card/shm/91/ember-gale?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.jpg?1562834562",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.jpg?1562834562",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.jpg?1562834562",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.png?1562834562",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.jpg?1562834562",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/c/acf0cafc-ca14-4c1a-8237-565515a81dec.jpg?1562834562"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Creatures target player controls can't block this turn. Ember Gale deals 1 damage to each white and/or blue creature that player controls.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/acf0cafc-ca14-4c1a-8237-565515a81dec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad93633d6-8433-43c8-9224-a25b411bfd96&unique=prints",
+  "collector_number": "91",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Terrible wind. It whipped sparks into our skin, then stoked them even hotter!\"\n—Bowen, Barrenton guardcaptain",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "4508227e-cbc0-4515-9e16-f37881164978",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18887,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "0.20",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158766",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ember+Gale&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ember+Gale&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ember+Gale",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ember+Gale"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18619&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ember+Gale&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29835?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "58b7a22b-f354-4f42-9354-d149bb9b3645",
+  "oracle_id": "a37159df-f6d7-4db6-85de-0ea77f425993",
+  "multiverse_ids": [
+    25491
+  ],
+  "tcgplayer_id": 37788,
+  "name": "Mons's Goblin Raiders",
+  "lang": "en",
+  "released_at": "2000-04-01",
+  "uri": "https://api.scryfall.com/cards/58b7a22b-f354-4f42-9354-d149bb9b3645",
+  "scryfall_uri": "https://scryfall.com/card/s00/32/monss-goblin-raiders?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.png?1562133668",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58b7a22b-f354-4f42-9354-d149bb9b3645.jpg?1562133668"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1.0,
+  "type_line": "Creature — Goblin",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1c105623-2564-40d7-a3aa-4134787fb127",
+  "set": "s00",
+  "set_name": "Starter 2000",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/1c105623-2564-40d7-a3aa-4134787fb127",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3As00&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/s00?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/58b7a22b-f354-4f42-9354-d149bb9b3645/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa37159df-f6d7-4db6-85de-0ea77f425993&unique=prints",
+  "collector_number": "32",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Just because they have a club doesn't mean they're organized.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "7ef3b418-68e2-4302-9fb9-2d35d6866b73",
+  "border_color": "white",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17474,
+  "prices": {
+    "usd": "0.98",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25491",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mons%27s+Goblin+Raiders&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mons%27s+Goblin+Raiders&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mons%27s+Goblin+Raiders",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mons%27s+Goblin+Raiders"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=37788&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mons%27s+Goblin+Raiders&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mons%27s+Goblin+Raiders&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

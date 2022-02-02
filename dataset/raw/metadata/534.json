@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0",
+  "oracle_id": "a79d2fc8-467f-464d-9e73-2dae4b059628",
+  "multiverse_ids": [
+    464104
+  ],
+  "mtgo_id": 72682,
+  "tcgplayer_id": 190941,
+  "cardmarket_id": 374661,
+  "name": "Ayula, Queen Among Bears",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0",
+  "scryfall_uri": "https://scryfall.com/card/mh1/155/ayula-queen-among-bears?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.png?1562202020",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1562202020"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Bear",
+  "oracle_text": "Whenever another Bear enters the battlefield under your control, choose one —\n• Put two +1/+1 counters on target Bear.\n• Target Bear you control fights target creature you don't control.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa79d2fc8-467f-464d-9e73-2dae4b059628&unique=prints",
+  "collector_number": "155",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Born from the oldest red cedar, nursed on the sap of the tallest spruce, coronated under the mightiest pine.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "5afa7c7e-8064-4b9b-9b00-18c122fa356d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5663,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/magic-set-about-magic-gathering-2019-05-23",
+    "previewed_at": "2019-05-23"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "1.52",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "1.99",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464104",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ayula%2C+Queen+Among+Bears&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ayula%2C+Queen+Among+Bears&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ayula%2C+Queen+Among+Bears",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ayula%2C+Queen+Among+Bears"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190941&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ayula%2C+Queen+Among+Bears&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72682?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

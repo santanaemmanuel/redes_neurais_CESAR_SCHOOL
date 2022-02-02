@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "35715dad-98b5-4b15-b94c-395edf4d6665",
+  "oracle_id": "38538aff-b6f9-4c30-992e-7fd78da3c44a",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111252,
+  "cardmarket_id": 287587,
+  "name": "Matter Reshaper",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/35715dad-98b5-4b15-b94c-395edf4d6665",
+  "scryfall_uri": "https://scryfall.com/card/pogw/6s/matter-reshaper?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.jpg?1562871483",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.jpg?1562871483",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.jpg?1562871483",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.png?1562871483",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.jpg?1562871483",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/5/35715dad-98b5-4b15-b94c-395edf4d6665.jpg?1562871483"
+  },
+  "mana_cost": "{2}{C}",
+  "cmc": 3.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "({C} represents colorless mana.)\nWhen Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with mana value 3 or less. Otherwise, put that card into your hand.",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/35715dad-98b5-4b15-b94c-395edf4d6665/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38538aff-b6f9-4c30-992e-7fd78da3c44a&unique=prints",
+  "collector_number": "6s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "2ca4b5c7-627b-4f26-84d1-c46c10d1b887",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 5819,
+  "prices": {
+    "usd": null,
+    "usd_foil": "6.95",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Matter+Reshaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Matter+Reshaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Matter+Reshaper",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Matter+Reshaper"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111252&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Matter+Reshaper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Matter+Reshaper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

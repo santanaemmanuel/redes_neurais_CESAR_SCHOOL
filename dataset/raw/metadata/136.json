@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "3dfa866b-93e2-4365-91b0-f12d1f7c5395",
+  "oracle_id": "e9f5feb2-2c1a-46ce-885a-4f378d7d10af",
+  "multiverse_ids": [
+    146746
+  ],
+  "mtgo_id": 29493,
+  "mtgo_foil_id": 29494,
+  "tcgplayer_id": 18724,
+  "cardmarket_id": 19291,
+  "name": "Mystic Gate",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/3dfa866b-93e2-4365-91b0-f12d1f7c5395",
+  "scryfall_uri": "https://scryfall.com/card/shm/277/mystic-gate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.png?1562829072",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3dfa866b-93e2-4365-91b0-f12d1f7c5395.jpg?1562829072"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "C",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3dfa866b-93e2-4365-91b0-f12d1f7c5395/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9f5feb2-2c1a-46ce-885a-4f378d7d10af&unique=prints",
+  "collector_number": "277",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The gate of every kithkin doun is a cunning trap, intended to spill visitors into an oubliette from which there is no escape.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fred Fields",
+  "artist_ids": [
+    "9c77c81a-3b3f-4e94-a834-327d01cd6b35"
+  ],
+  "illustration_id": "6b3361ba-86ae-4883-ae22-feb4f67b7047",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1143,
+  "prices": {
+    "usd": "36.26",
+    "usd_foil": "68.65",
+    "usd_etched": null,
+    "eur": "18.00",
+    "eur_foil": "45.00",
+    "tix": "1.24"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146746",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mystic+Gate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mystic+Gate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mystic+Gate",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mystic+Gate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18724&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mystic+Gate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29493?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

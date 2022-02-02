@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "27addb51-f447-458a-8b3d-89de0a4c542a",
+  "oracle_id": "ad1712d8-809f-410c-8b91-ffe6fb8a69a1",
+  "multiverse_ids": [
+    426055
+  ],
+  "mtgo_id": 63471,
+  "mtgo_foil_id": 63472,
+  "tcgplayer_id": 128285,
+  "cardmarket_id": 295799,
+  "name": "Azorius Guildgate",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/27addb51-f447-458a-8b3d-89de0a4c542a",
+  "scryfall_uri": "https://scryfall.com/card/mm3/230/azorius-guildgate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.png?1593814980",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27addb51-f447-458a-8b3d-89de0a4c542a.jpg?1593814980"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land — Gate",
+  "oracle_text": "Azorius Guildgate enters the battlefield tapped.\n{T}: Add {W} or {U}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/27addb51-f447-458a-8b3d-89de0a4c542a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad1712d8-809f-410c-8b91-ffe6fb8a69a1&unique=prints",
+  "collector_number": "230",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The Azorius symbol stares down like a great eye, reminding visitors of the watchful presence of Isperia and her lawmages.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Drew Baker",
+  "artist_ids": [
+    "a8c4ef83-94ad-41c7-861f-95debea16868"
+  ],
+  "illustration_id": "f58a959e-7a12-427f-a7f2-5a056db9d2f9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 895,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.49",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426055",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Azorius+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Azorius+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Azorius+Guildgate",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Azorius+Guildgate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128285&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Azorius+Guildgate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63471?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

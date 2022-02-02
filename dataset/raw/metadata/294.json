@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "bfcfec58-bfe4-4b04-80e3-ee11c44e91a7",
+  "oracle_id": "9d834f1b-a4b5-4676-bb6d-2ffc6b3bccd2",
+  "multiverse_ids": [
+    147398
+  ],
+  "mtgo_id": 29539,
+  "mtgo_foil_id": 29540,
+  "tcgplayer_id": 18687,
+  "cardmarket_id": 19112,
+  "name": "Knollspine Dragon",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7",
+  "scryfall_uri": "https://scryfall.com/card/shm/98/knollspine-dragon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.jpg?1562835499",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.jpg?1562835499",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.jpg?1562835499",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.png?1562835499",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.jpg?1562835499",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7.jpg?1562835499"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7.0,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Flying\nWhen Knollspine Dragon enters the battlefield, you may discard your hand and draw cards equal to the damage dealt to target opponent this turn.",
+  "power": "7",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bfcfec58-bfe4-4b04-80e3-ee11c44e91a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d834f1b-a4b5-4676-bb6d-2ffc6b3bccd2&unique=prints",
+  "collector_number": "98",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "It woke to find a vast world in need of a master.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "64743aa5-0fab-4942-b905-b50722301b7d",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3074,
+  "prices": {
+    "usd": "6.39",
+    "usd_foil": "107.38",
+    "usd_etched": null,
+    "eur": "4.36",
+    "eur_foil": "50.00",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147398",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Knollspine+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Knollspine+Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Knollspine+Dragon",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Knollspine+Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18687&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Knollspine+Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29539?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "d8ecd6f4-d48f-4427-9ca4-bf414283a583",
+  "oracle_id": "7744bae4-a8b7-44a5-9b4c-0048ad4cc448",
+  "multiverse_ids": [
+    429896
+  ],
+  "mtgo_id": 64308,
+  "mtgo_foil_id": 64309,
+  "tcgplayer_id": 131381,
+  "cardmarket_id": 297399,
+  "name": "Air Elemental",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/d8ecd6f4-d48f-4427-9ca4-bf414283a583",
+  "scryfall_uri": "https://scryfall.com/card/w17/7/air-elemental?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.jpg?1562201365",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.jpg?1562201365",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.jpg?1562201365",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.png?1562201365",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.jpg?1562201365",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d8ecd6f4-d48f-4427-9ca4-bf414283a583.jpg?1562201365"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "Flying",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d8ecd6f4-d48f-4427-9ca4-bf414283a583/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7744bae4-a8b7-44a5-9b4c-0048ad4cc448&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Pray that it doesn't seek the safety of your lungs.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "75263648-0dd8-4b7f-a508-317e7db284ce",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 14269,
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429896",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Air+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Air+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Air+Elemental",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Air+Elemental"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131381&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Air+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64308?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

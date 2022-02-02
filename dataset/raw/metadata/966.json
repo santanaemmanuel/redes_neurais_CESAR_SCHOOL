@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "cdc5666c-6f27-4ae9-8f0e-17e2a44bc646",
+  "oracle_id": "5f079a75-899e-467d-b443-3b87ce2fb548",
+  "multiverse_ids": [
+    426031
+  ],
+  "mtgo_id": 63477,
+  "mtgo_foil_id": 63478,
+  "tcgplayer_id": 128843,
+  "cardmarket_id": 296040,
+  "name": "Boros Reckoner",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646",
+  "scryfall_uri": "https://scryfall.com/card/mm3/206/boros-reckoner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.jpg?1593814781",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.jpg?1593814781",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.jpg?1593814781",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.png?1593814781",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.jpg?1593814781",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/d/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646.jpg?1593814781"
+  },
+  "mana_cost": "{R/W}{R/W}{R/W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Minotaur Wizard",
+  "oracle_text": "Whenever Boros Reckoner is dealt damage, it deals that much damage to any target.\n{R/W}: Boros Reckoner gains first strike until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cdc5666c-6f27-4ae9-8f0e-17e2a44bc646/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f079a75-899e-467d-b443-3b87ce2fb548&unique=prints",
+  "collector_number": "206",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Imagine a thunderstorm that's also a tactical genius. That's him.\"\n—Dars Gostok, Firefist captain",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Howard Lyon",
+  "artist_ids": [
+    "6dd06426-59fe-4b9c-aad5-6da8446a5c3d"
+  ],
+  "illustration_id": "5204a467-e10e-4d30-8a2e-db6c7f8f4ddf",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4240,
+  "prices": {
+    "usd": "0.74",
+    "usd_foil": "1.57",
+    "usd_etched": null,
+    "eur": "0.66",
+    "eur_foil": "1.00",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426031",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Boros+Reckoner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Boros+Reckoner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Boros+Reckoner",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Boros+Reckoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128843&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boros+Reckoner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63477?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

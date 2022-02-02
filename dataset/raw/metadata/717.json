@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "5b314380-1168-43b9-8df7-8bde997c4d79",
+  "oracle_id": "b93732e4-7aeb-4c37-a415-2b0ff46e2056",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111233,
+  "cardmarket_id": 287596,
+  "name": "Dimensional Infiltrator",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/5b314380-1168-43b9-8df7-8bde997c4d79",
+  "scryfall_uri": "https://scryfall.com/card/pogw/44s/dimensional-infiltrator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.jpg?1562871515",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.jpg?1562871515",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.jpg?1562871515",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.png?1562871515",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.jpg?1562871515",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/b/5b314380-1168-43b9-8df7-8bde997c4d79.jpg?1562871515"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nFlash\nFlying\n{1}{C}: Target opponent exiles the top card of their library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Devoid",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5b314380-1168-43b9-8df7-8bde997c4d79/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab93732e4-7aeb-4c37-a415-2b0ff46e2056&unique=prints",
+  "collector_number": "44s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "79fd4351-d5f5-4537-a585-a3c2faaf8534",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 11604,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.61",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.39",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dimensional+Infiltrator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dimensional+Infiltrator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Dimensional+Infiltrator",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dimensional+Infiltrator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111233&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dimensional+Infiltrator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dimensional+Infiltrator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

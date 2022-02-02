@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "d0f1c170-03d1-42a7-91e4-0ac537af1328",
+  "oracle_id": "e0d78210-ba85-439f-bf1f-92ef80b6030d",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38426,
+  "cardmarket_id": 240415,
+  "name": "Curse of Wizardry",
+  "lang": "en",
+  "released_at": "2010-01-01",
+  "uri": "https://api.scryfall.com/cards/d0f1c170-03d1-42a7-91e4-0ac537af1328",
+  "scryfall_uri": "https://scryfall.com/card/pw10/47/curse-of-wizardry?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1562448784",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1562448784",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1562448784",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.png?1562448784",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1562448784",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d0f1c170-03d1-42a7-91e4-0ac537af1328.jpg?1562448784"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Enchantment",
+  "oracle_text": "As Curse of Wizardry enters the battlefield, choose a color.\nWhenever a player casts a spell of the chosen color, that player loses 1 life.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set": "pw10",
+  "set_name": "Wizards Play Network 2010",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apw10&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pw10?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d0f1c170-03d1-42a7-91e4-0ac537af1328/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae0d78210-ba85-439f-bf1f-92ef80b6030d&unique=prints",
+  "collector_number": "47",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "dci",
+  "flavor_text": "\"We must all push through the pain to heal our world.\"\n—Ayli, Kamsa cleric",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karl Kopinski",
+  "artist_ids": [
+    "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+  ],
+  "illustration_id": "8f478574-a153-45e5-b2b4-ae56ad617e79",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "wizardsplaynetwork"
+  ],
+  "edhrec_rank": 10568,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.05",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Curse+of+Wizardry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Curse+of+Wizardry&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Curse+of+Wizardry",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Curse+of+Wizardry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38426&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Curse+of+Wizardry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Curse+of+Wizardry&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

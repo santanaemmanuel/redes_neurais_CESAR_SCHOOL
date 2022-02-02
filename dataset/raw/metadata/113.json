@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "64ee0a93-0f6d-42be-bdca-1de5422d8d54",
+  "oracle_id": "cf94cafc-527e-4b27-8a28-7807435aaccf",
+  "multiverse_ids": [
+    152079
+  ],
+  "mtgo_id": 29611,
+  "mtgo_foil_id": 29612,
+  "tcgplayer_id": 18572,
+  "cardmarket_id": 19071,
+  "name": "Beseech the Queen",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/64ee0a93-0f6d-42be-bdca-1de5422d8d54",
+  "scryfall_uri": "https://scryfall.com/card/shm/57/beseech-the-queen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.png?1562830966",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64ee0a93-0f6d-42be-bdca-1de5422d8d54.jpg?1562830966"
+  },
+  "mana_cost": "{2/B}{2/B}{2/B}",
+  "cmc": 6.0,
+  "type_line": "Sorcery",
+  "oracle_text": "({2/B} can be paid with any two mana or with {B}. This card's mana value is 6.)\nSearch your library for a card with mana value less than or equal to the number of lands you control, reveal it, put it into your hand, then shuffle.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/64ee0a93-0f6d-42be-bdca-1de5422d8d54/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf94cafc-527e-4b27-8a28-7807435aaccf&unique=prints",
+  "collector_number": "57",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Those who hear her go mad with inspiration.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Chan",
+  "artist_ids": [
+    "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+  ],
+  "illustration_id": "2ee65a7f-3ac0-4214-8c29-37c692d8a202",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1651,
+  "prices": {
+    "usd": "2.90",
+    "usd_foil": "11.35",
+    "usd_etched": null,
+    "eur": "2.77",
+    "eur_foil": "3.99",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152079",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Beseech+the+Queen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Beseech+the+Queen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Beseech+the+Queen",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Beseech+the+Queen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18572&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beseech+the+Queen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29611?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

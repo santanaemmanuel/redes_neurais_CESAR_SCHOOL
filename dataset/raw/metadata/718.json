@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "c0d79572-820d-45cd-afd5-52f929bf9b58",
+  "oracle_id": "741c51f1-cfbe-4c29-ac8f-ca6bcd2652f9",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111275,
+  "cardmarket_id": 287625,
+  "name": "Wandering Fumarole",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/c0d79572-820d-45cd-afd5-52f929bf9b58",
+  "scryfall_uri": "https://scryfall.com/card/pogw/182s/wandering-fumarole?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.jpg?1562871724",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.jpg?1562871724",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.jpg?1562871724",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.png?1562871724",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.jpg?1562871724",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c0d79572-820d-45cd-afd5-52f929bf9b58.jpg?1562871724"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Wandering Fumarole enters the battlefield tapped.\n{T}: Add {U} or {R}.\n{2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with \"{0}: Switch this creature's power and toughness until end of turn.\" It's still a land.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c0d79572-820d-45cd-afd5-52f929bf9b58/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A741c51f1-cfbe-4c29-ac8f-ca6bcd2652f9&unique=prints",
+  "collector_number": "182s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Florian de Gesincourt",
+  "artist_ids": [
+    "f28c54ff-bbe3-485d-81a4-b2cb49430a52"
+  ],
+  "illustration_id": "7186582f-ab14-45fc-899b-c9617a26760b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3550,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.58",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.39",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wandering+Fumarole&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wandering+Fumarole&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wandering+Fumarole",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wandering+Fumarole"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111275&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wandering+Fumarole&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wandering+Fumarole&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

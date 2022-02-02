@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "22dcf40c-62fb-4205-807e-71655066a61b",
+  "oracle_id": "8e3c2f44-c4ca-4555-80c6-316e62c338dd",
+  "multiverse_ids": [
+    142051
+  ],
+  "mtgo_id": 29395,
+  "mtgo_foil_id": 29396,
+  "tcgplayer_id": 18590,
+  "cardmarket_id": 19073,
+  "name": "Cinderbones",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/22dcf40c-62fb-4205-807e-71655066a61b",
+  "scryfall_uri": "https://scryfall.com/card/shm/59/cinderbones?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.jpg?1562827850",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.jpg?1562827850",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.jpg?1562827850",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.png?1562827850",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.jpg?1562827850",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/2/22dcf40c-62fb-4205-807e-71655066a61b.jpg?1562827850"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Elemental Skeleton",
+  "oracle_text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{1}{B}: Regenerate Cinderbones.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Wither"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/22dcf40c-62fb-4205-807e-71655066a61b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e3c2f44-c4ca-4555-80c6-316e62c338dd&unique=prints",
+  "collector_number": "59",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Not all coals lie quietly in their beds of cold ash.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "bcd8280d-f455-4cfc-afbb-ef038c79477c",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12781,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.49",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142051",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cinderbones&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cinderbones&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cinderbones",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cinderbones"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18590&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cinderbones&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29395?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

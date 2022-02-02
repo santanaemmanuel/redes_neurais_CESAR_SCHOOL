@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "9933bb5c-068b-408e-b779-4b32be01bb46",
+  "oracle_id": "e7bb8160-0a4b-4e46-b196-7a19fb388d8e",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111256,
+  "cardmarket_id": 287622,
+  "name": "Needle Spires",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/9933bb5c-068b-408e-b779-4b32be01bb46",
+  "scryfall_uri": "https://scryfall.com/card/pogw/175s/needle-spires?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.jpg?1562871672",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.jpg?1562871672",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.jpg?1562871672",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.png?1562871672",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.jpg?1562871672",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9933bb5c-068b-408e-b779-4b32be01bb46.jpg?1562871672"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Needle Spires enters the battlefield tapped.\n{T}: Add {R} or {W}.\n{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "R",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9933bb5c-068b-408e-b779-4b32be01bb46/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae7bb8160-0a4b-4e46-b196-7a19fb388d8e&unique=prints",
+  "collector_number": "175s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jonas De Ro",
+  "artist_ids": [
+    "561ebf9e-8d93-4b57-8156-8826d0c19601"
+  ],
+  "illustration_id": "45ac0243-b833-444e-b01b-a5e6b3920f14",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2224,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.09",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.45",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Needle+Spires&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Needle+Spires&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Needle+Spires",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Needle+Spires"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111256&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Needle+Spires&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Needle+Spires&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

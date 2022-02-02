@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "84e5e16d-fc2f-4763-9e2b-2cce022e7a11",
+  "oracle_id": "2ae77795-6a80-498b-bf69-6fd612f601e4",
+  "multiverse_ids": [
+    426070
+  ],
+  "mtgo_id": 63145,
+  "mtgo_foil_id": 63146,
+  "tcgplayer_id": 128284,
+  "cardmarket_id": 295809,
+  "name": "Seaside Citadel",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/84e5e16d-fc2f-4763-9e2b-2cce022e7a11",
+  "scryfall_uri": "https://scryfall.com/card/mm3/245/seaside-citadel?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.png?1593815097",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/4/84e5e16d-fc2f-4763-9e2b-2cce022e7a11.jpg?1593815097"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Seaside Citadel enters the battlefield tapped.\n{T}: Add {G}, {W}, or {U}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "G",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/84e5e16d-fc2f-4763-9e2b-2cce022e7a11/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2ae77795-6a80-498b-bf69-6fd612f601e4&unique=prints",
+  "collector_number": "245",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "For wisdom's sake, it was built high to gaze on all things. For glory's sake, it was built high as a testament of power. For strength's sake, it was built high to repel all attacks.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Volkan Baǵa",
+  "artist_ids": [
+    "93bec3c0-0260-4d31-8064-5d01efb4153f"
+  ],
+  "illustration_id": "8192bcba-346f-4980-aca7-f49e13e2986d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 434,
+  "prices": {
+    "usd": "1.18",
+    "usd_foil": "5.91",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "1.30",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426070",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Seaside+Citadel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Seaside+Citadel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Seaside+Citadel",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Seaside+Citadel"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128284&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Seaside+Citadel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63145?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

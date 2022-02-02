@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "33ec3988-9256-4cc4-9cd0-b91dd35e79e3",
+  "oracle_id": "941350ba-30e2-4549-865f-ca1bd7626782",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111246,
+  "cardmarket_id": 287631,
+  "name": "Inverter of Truth",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/33ec3988-9256-4cc4-9cd0-b91dd35e79e3",
+  "scryfall_uri": "https://scryfall.com/card/pogw/72s/inverter-of-truth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.jpg?1562871479",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.jpg?1562871479",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.jpg?1562871479",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.png?1562871479",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.jpg?1562871479",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/33ec3988-9256-4cc4-9cd0-b91dd35e79e3.jpg?1562871479"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nFlying\nWhen Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Devoid"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "banned",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/33ec3988-9256-4cc4-9cd0-b91dd35e79e3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A941350ba-30e2-4549-865f-ca1bd7626782&unique=prints",
+  "collector_number": "72s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "In its shadow, everything changed.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "0923c986-20fc-48eb-ba90-be5a4e059c0a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 12707,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.76",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.81",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inverter+of+Truth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inverter+of+Truth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Inverter+of+Truth",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inverter+of+Truth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111246&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inverter+of+Truth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inverter+of+Truth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

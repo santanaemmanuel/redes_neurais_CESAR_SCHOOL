@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "caefbac6-b2a0-4a70-a912-25173eafd7b3",
+  "oracle_id": "48c97aeb-6591-4175-a24b-d3488bf3ab0b",
+  "multiverse_ids": [
+    464009
+  ],
+  "mtgo_id": 72492,
+  "tcgplayer_id": 191729,
+  "cardmarket_id": 375603,
+  "name": "Oneirophage",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/caefbac6-b2a0-4a70-a912-25173eafd7b3",
+  "scryfall_uri": "https://scryfall.com/card/mh1/60/oneirophage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.jpg?1562201432",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.jpg?1562201432",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.jpg?1562201432",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.png?1562201432",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.jpg?1562201432",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/caefbac6-b2a0-4a70-a912-25173eafd7b3.jpg?1562201432"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature — Squid Illusion",
+  "oracle_text": "Flying\nWhenever you draw a card, put a +1/+1 counter on Oneirophage.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/caefbac6-b2a0-4a70-a912-25173eafd7b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48c97aeb-6591-4175-a24b-d3488bf3ab0b&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "It manifests at wizard academies to siphon inspiration from young prodigies.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Pilcerova",
+  "artist_ids": [
+    "30fead7c-da53-4c1b-b514-4be6e5ce487c"
+  ],
+  "illustration_id": "74b0e1ea-a773-4c3e-967c-ba868dd25043",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4763,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.67",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.33",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464009",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oneirophage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oneirophage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Oneirophage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Oneirophage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191729&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oneirophage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72492?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

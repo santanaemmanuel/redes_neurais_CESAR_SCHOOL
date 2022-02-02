@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc",
+  "oracle_id": "25fe48be-95c4-4011-8c60-4628fb5ecfcb",
+  "multiverse_ids": [
+    158681
+  ],
+  "mtgo_id": 29771,
+  "mtgo_foil_id": 29772,
+  "tcgplayer_id": 18645,
+  "cardmarket_id": 19130,
+  "name": "Gleeful Sabotage",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc",
+  "scryfall_uri": "https://scryfall.com/card/shm/116/gleeful-sabotage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.jpg?1562836328",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.jpg?1562836328",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.jpg?1562836328",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.png?1562836328",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.jpg?1562836328",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc.jpg?1562836328"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target artifact or enchantment.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Conspire"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d1b7d043-5f52-4df6-8dcf-5174a5b0c9cc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A25fe48be-95c4-4011-8c60-4628fb5ecfcb&unique=prints",
+  "collector_number": "116",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "ce83e268-725d-4603-bc1c-d92b4797ad37",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10083,
+  "prices": {
+    "usd": "0.65",
+    "usd_foil": "6.73",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "1.00",
+    "tix": "0.41"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158681",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gleeful+Sabotage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gleeful+Sabotage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Gleeful+Sabotage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Gleeful+Sabotage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18645&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gleeful+Sabotage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29771?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

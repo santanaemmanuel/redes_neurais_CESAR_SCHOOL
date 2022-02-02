@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "c08c5ac8-5c0b-4c89-8f06-e5aadfccee01",
+  "oracle_id": "3f278970-201d-4a93-b038-cc7218f2ac57",
+  "multiverse_ids": [
+    464012
+  ],
+  "mtgo_id": 72498,
+  "tcgplayer_id": 190803,
+  "cardmarket_id": 374520,
+  "name": "Pondering Mage",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01",
+  "scryfall_uri": "https://scryfall.com/card/mh1/63/pondering-mage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.png?1562201451",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/0/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01.jpg?1562201451"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "When Pondering Mage enters the battlefield, look at the top three cards of your library, then put them back in any order. You may shuffle. Draw a card.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c08c5ac8-5c0b-4c89-8f06-e5aadfccee01/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3f278970-201d-4a93-b038-cc7218f2ac57&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Never leave the future to fate.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tommy Arnold",
+  "artist_ids": [
+    "1130bcd0-c8b1-48be-85d7-3ddb2abc6b1a"
+  ],
+  "illustration_id": "a719e6f4-5f24-4161-99b7-14af68809a06",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7304,
+  "preview": {
+    "source": "Cassius Marsh",
+    "source_uri": "",
+    "previewed_at": "2019-05-21"
+  },
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.35",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464012",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pondering+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pondering+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Pondering+Mage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pondering+Mage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190803&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pondering+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72498?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

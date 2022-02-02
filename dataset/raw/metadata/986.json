@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "3beb6fa5-44db-4056-b8ec-42547aa5581f",
+  "oracle_id": "0895c9b7-ae7d-4bb3-af17-3b75deb50a25",
+  "multiverse_ids": [
+    509344
+  ],
+  "tcgplayer_id": 221311,
+  "cardmarket_id": 491934,
+  "name": "Command Tower",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/3beb6fa5-44db-4056-b8ec-42547aa5581f",
+  "scryfall_uri": "https://scryfall.com/card/cc1/8/command-tower?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.jpg?1610161918",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.jpg?1610161918",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.jpg?1610161918",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.png?1610161918",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.jpg?1610161918",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3beb6fa5-44db-4056-b8ec-42547aa5581f.jpg?1610161918"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3beb6fa5-44db-4056-b8ec-42547aa5581f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0895c9b7-ae7d-4bb3-af17-3b75deb50a25&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Absolute power is the only true authority. Anything less is a lie told by the weak.\"\n—Garruk Wildspeaker",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Meehan",
+  "artist_ids": [
+    "6befd6d5-7f8d-4b7c-87e3-5511391a3359"
+  ],
+  "illustration_id": "25aa5d11-9da8-4e9b-93f0-788dc7f16ce0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "4.22",
+    "usd_foil": "20.43",
+    "usd_etched": null,
+    "eur": "1.34",
+    "eur_foil": "6.49",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509344",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Command+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Command+Tower&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Command+Tower",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Command+Tower"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221311&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Command+Tower&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Command+Tower&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

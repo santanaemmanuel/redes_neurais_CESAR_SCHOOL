@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "df529b30-9ac6-4944-9d21-ecf6d64a8845",
+  "oracle_id": "75f381a6-49f9-4caf-a96a-91c75640b9b0",
+  "multiverse_ids": [
+    158691
+  ],
+  "mtgo_id": 29789,
+  "mtgo_foil_id": 29790,
+  "tcgplayer_id": 18756,
+  "cardmarket_id": 19141,
+  "name": "Raking Canopy",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/df529b30-9ac6-4944-9d21-ecf6d64a8845",
+  "scryfall_uri": "https://scryfall.com/card/shm/127/raking-canopy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.jpg?1562837070",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.jpg?1562837070",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.jpg?1562837070",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.png?1562837070",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.jpg?1562837070",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df529b30-9ac6-4944-9d21-ecf6d64a8845.jpg?1562837070"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature with flying attacks you, Raking Canopy deals 4 damage to it.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df529b30-9ac6-4944-9d21-ecf6d64a8845/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75f381a6-49f9-4caf-a96a-91c75640b9b0&unique=prints",
+  "collector_number": "127",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Raven's Run has awoken, and ravens will no longer cry in its branches.\"\n—Roon Ghastbark",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Heather Hudson",
+  "artist_ids": [
+    "4441fe52-9e41-40c1-9b74-8510426279ab"
+  ],
+  "illustration_id": "4fa38fb1-a1f2-48cf-bc78-fe63f8995d3e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12217,
+  "prices": {
+    "usd": "0.55",
+    "usd_foil": "4.16",
+    "usd_etched": null,
+    "eur": "0.40",
+    "eur_foil": "4.98",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158691",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Raking+Canopy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Raking+Canopy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Raking+Canopy",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Raking+Canopy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18756&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Raking+Canopy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29789?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

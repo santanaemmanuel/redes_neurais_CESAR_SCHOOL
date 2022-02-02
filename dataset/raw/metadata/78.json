@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "e0a72c31-6df0-4b88-b04c-324b03872aff",
+  "oracle_id": "abc37d6c-6300-47b5-a679-9db5b83eb54f",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38440,
+  "cardmarket_id": 242100,
+  "name": "Syphon Mind",
+  "lang": "en",
+  "released_at": "2010-01-01",
+  "uri": "https://api.scryfall.com/cards/e0a72c31-6df0-4b88-b04c-324b03872aff",
+  "scryfall_uri": "https://scryfall.com/card/pw10/40/syphon-mind?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1562448785",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1562448785",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1562448785",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.png?1562448785",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1562448785",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0a72c31-6df0-4b88-b04c-324b03872aff.jpg?1562448785"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Each other player discards a card. You draw a card for each card discarded this way.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set": "pw10",
+  "set_name": "Wizards Play Network 2010",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apw10&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pw10?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0a72c31-6df0-4b88-b04c-324b03872aff/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aabc37d6c-6300-47b5-a679-9db5b83eb54f&unique=prints",
+  "collector_number": "40",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "wpn",
+  "flavor_text": "When tempers run high, it's easy to lose your head.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeff Easley",
+  "artist_ids": [
+    "da17055e-693c-461a-b132-67dd88b42ca6"
+  ],
+  "illustration_id": "191eb8c3-4480-4e73-999b-03cb438dc6da",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "wizardsplaynetwork"
+  ],
+  "edhrec_rank": 776,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.85",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.40",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Syphon+Mind&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Syphon+Mind&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Syphon+Mind",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Syphon+Mind"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38440&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Syphon+Mind&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Syphon+Mind&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

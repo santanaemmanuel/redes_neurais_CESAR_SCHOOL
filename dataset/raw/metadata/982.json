@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "bd1476a3-2915-413c-9226-2d7dc8f0b8fa",
+  "oracle_id": "8fea91ee-5849-4c46-8198-fd383d9a55e8",
+  "multiverse_ids": [
+    425942
+  ],
+  "mtgo_id": 63247,
+  "mtgo_foil_id": 63248,
+  "tcgplayer_id": 128834,
+  "cardmarket_id": 295977,
+  "name": "Arachnus Spinner",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/bd1476a3-2915-413c-9226-2d7dc8f0b8fa",
+  "scryfall_uri": "https://scryfall.com/card/mm3/117/arachnus-spinner?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.png?1593813649",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bd1476a3-2915-413c-9226-2d7dc8f0b8fa.jpg?1593813649"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6.0,
+  "type_line": "Creature — Spider",
+  "oracle_text": "Reach\nTap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle.",
+  "power": "5",
+  "toughness": "7",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bd1476a3-2915-413c-9226-2d7dc8f0b8fa",
+      "component": "combo_piece",
+      "name": "Arachnus Spinner",
+      "type_line": "Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/bd1476a3-2915-413c-9226-2d7dc8f0b8fa"
+    },
+    {
+      "object": "related_card",
+      "id": "26278000-4b73-478f-8ee5-6dd8692e53d6",
+      "component": "combo_piece",
+      "name": "Arachnus Web",
+      "type_line": "Enchantment — Aura",
+      "uri": "https://api.scryfall.com/cards/26278000-4b73-478f-8ee5-6dd8692e53d6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bd1476a3-2915-413c-9226-2d7dc8f0b8fa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fea91ee-5849-4c46-8198-fd383d9a55e8&unique=prints",
+  "collector_number": "117",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karl Kopinski",
+  "artist_ids": [
+    "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+  ],
+  "illustration_id": "de8a9701-e925-4a18-beb0-0fe8c18478cb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9443,
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.30",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425942",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arachnus+Spinner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arachnus+Spinner&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Arachnus+Spinner",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Arachnus+Spinner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128834&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arachnus+Spinner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63247?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

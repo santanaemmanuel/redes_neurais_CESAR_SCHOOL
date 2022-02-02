@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "916becd7-3be9-4525-83cf-3dd133816f69",
+  "oracle_id": "b349f018-c20b-48b0-9e65-d5fd56b24b88",
+  "multiverse_ids": [
+    425829
+  ],
+  "mtgo_id": 63303,
+  "mtgo_foil_id": 63304,
+  "tcgplayer_id": 128576,
+  "cardmarket_id": 295852,
+  "name": "Entreat the Angels",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/916becd7-3be9-4525-83cf-3dd133816f69",
+  "scryfall_uri": "https://scryfall.com/card/mm3/4/entreat-the-angels?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.jpg?1593812784",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.jpg?1593812784",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.jpg?1593812784",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.png?1593812784",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.jpg?1593812784",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/916becd7-3be9-4525-83cf-3dd133816f69.jpg?1593812784"
+  },
+  "mana_cost": "{X}{X}{W}{W}{W}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create X 4/4 white Angel creature tokens with flying.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Miracle"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "916becd7-3be9-4525-83cf-3dd133816f69",
+      "component": "combo_piece",
+      "name": "Entreat the Angels",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/916becd7-3be9-4525-83cf-3dd133816f69"
+    },
+    {
+      "object": "related_card",
+      "id": "6277af10-b10b-450b-9d42-54c978337931",
+      "component": "token",
+      "name": "Angel",
+      "type_line": "Token Creature — Angel",
+      "uri": "https://api.scryfall.com/cards/6277af10-b10b-450b-9d42-54c978337931"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/916becd7-3be9-4525-83cf-3dd133816f69/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab349f018-c20b-48b0-9e65-d5fd56b24b88&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "96a87a30-6b17-44e9-818a-26c2c4ad9f81",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "miracle"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3273,
+  "prices": {
+    "usd": "1.18",
+    "usd_foil": "5.79",
+    "usd_etched": null,
+    "eur": "0.96",
+    "eur_foil": "4.90",
+    "tix": "0.15"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425829",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Entreat+the+Angels&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Entreat+the+Angels&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Entreat+the+Angels",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Entreat+the+Angels"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128576&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Entreat+the+Angels&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63303?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

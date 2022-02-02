@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "23675c56-ba6c-4100-a203-a5006bf02eee",
+  "oracle_id": "7cdc9df9-ac6c-49c7-a521-921588696b17",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111244,
+  "cardmarket_id": 287597,
+  "name": "Hedron Alignment",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/23675c56-ba6c-4100-a203-a5006bf02eee",
+  "scryfall_uri": "https://scryfall.com/card/pogw/57s/hedron-alignment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.jpg?1562871459",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.jpg?1562871459",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.jpg?1562871459",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.png?1562871459",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.jpg?1562871459",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/3/23675c56-ba6c-4100-a203-a5006bf02eee.jpg?1562871459"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Hexproof\nAt the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.\n{1}{U}: Scry 1.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Hexproof",
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/23675c56-ba6c-4100-a203-a5006bf02eee/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7cdc9df9-ac6c-49c7-a521-921588696b17&unique=prints",
+  "collector_number": "57s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "592afbaf-5b56-4034-8eb8-cafa20b11c61",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 17459,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.42",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.39",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hedron+Alignment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hedron+Alignment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Hedron+Alignment",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hedron+Alignment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111244&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hedron+Alignment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hedron+Alignment&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

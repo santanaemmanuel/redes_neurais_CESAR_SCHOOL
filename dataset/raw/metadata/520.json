@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "d86e9149-6fd9-44fc-b765-3e646c7d83d6",
+  "oracle_id": "75540897-53f6-433b-bd70-9851551df6ef",
+  "multiverse_ids": [
+    464186
+  ],
+  "mtgo_id": 72846,
+  "tcgplayer_id": 191733,
+  "cardmarket_id": 375726,
+  "name": "Cave of Temptation",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/d86e9149-6fd9-44fc-b765-3e646c7d83d6",
+  "scryfall_uri": "https://scryfall.com/card/mh1/237/cave-of-temptation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1562202546",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1562202546",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1562202546",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.png?1562202546",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1562202546",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/8/d86e9149-6fd9-44fc-b765-3e646c7d83d6.jpg?1562202546"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}, {T}, Sacrifice Cave of Temptation: Put two +1/+1 counters on target creature. Activate only as a sorcery.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d86e9149-6fd9-44fc-b765-3e646c7d83d6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75540897-53f6-433b-bd70-9851551df6ef&unique=prints",
+  "collector_number": "237",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "67fafe9b-40fb-4c28-81f4-4fb6cb1a5122",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5866,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.56",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.20",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464186",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cave+of+Temptation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cave+of+Temptation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cave+of+Temptation",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cave+of+Temptation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191733&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cave+of+Temptation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72846?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

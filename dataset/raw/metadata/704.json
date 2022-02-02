@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "0f9d5c33-6036-43e2-8260-bdf506dd2806",
+  "oracle_id": "42e07167-b490-46ad-9b5c-b483a4bb64e3",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111264,
+  "cardmarket_id": 287604,
+  "name": "Remorseless Punishment",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/0f9d5c33-6036-43e2-8260-bdf506dd2806",
+  "scryfall_uri": "https://scryfall.com/card/pogw/89s/remorseless-punishment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.jpg?1562871413",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.jpg?1562871413",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.jpg?1562871413",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.png?1562871413",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.jpg?1562871413",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0f9d5c33-6036-43e2-8260-bdf506dd2806.jpg?1562871413"
+  },
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Target opponent loses 5 life unless that player discards two cards or sacrifices a creature or planeswalker. Repeat this process once.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0f9d5c33-6036-43e2-8260-bdf506dd2806/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A42e07167-b490-46ad-9b5c-b483a4bb64e3&unique=prints",
+  "collector_number": "89s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I have suffered a thousand lifetimes of agony on this wretched world. I've far less time to share with you, but I assure you, no less pain.\"\n—Ob Nixilis",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Barger",
+  "artist_ids": [
+    "a4e0102e-bbeb-497c-babc-1c0741fea914"
+  ],
+  "illustration_id": "a82a6a06-37ca-4fa4-9071-663ac0b135cb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 13216,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Remorseless+Punishment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Remorseless+Punishment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Remorseless+Punishment",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Remorseless+Punishment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111264&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Remorseless+Punishment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Remorseless+Punishment&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

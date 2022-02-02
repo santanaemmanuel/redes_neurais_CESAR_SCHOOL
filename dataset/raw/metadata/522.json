@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "1a50984b-5bf5-4432-a149-96492d1683de",
+  "oracle_id": "c1909d70-d8f4-4c54-8587-0a910f123238",
+  "multiverse_ids": [
+    463977
+  ],
+  "mtgo_id": 72428,
+  "tcgplayer_id": 191638,
+  "cardmarket_id": 375579,
+  "name": "Shelter",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/1a50984b-5bf5-4432-a149-96492d1683de",
+  "scryfall_uri": "https://scryfall.com/card/mh1/28/shelter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.png?1562201221",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/a/1a50984b-5bf5-4432-a149-96492d1683de.jpg?1562201221"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature you control gains protection from the color of your choice until end of turn.\nDraw a card.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1a50984b-5bf5-4432-a149-96492d1683de/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac1909d70-d8f4-4c54-8587-0a910f123238&unique=prints",
+  "collector_number": "28",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Good strategists seize opportunities. Great strategists make their own.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christopher Moeller",
+  "artist_ids": [
+    "21e10012-06ae-44f2-b38d-3824dd2e73d4"
+  ],
+  "illustration_id": "41375762-baeb-4429-ad1e-c8da1d5d7ad8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2384,
+  "prices": {
+    "usd": "0.14",
+    "usd_foil": "0.41",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.41",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463977",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shelter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shelter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Shelter",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Shelter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191638&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shelter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72428?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

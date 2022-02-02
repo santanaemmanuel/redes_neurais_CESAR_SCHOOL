@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c",
+  "oracle_id": "a3fb7228-e76b-4e96-a40e-20b5fed75685",
+  "multiverse_ids": [
+    157888
+  ],
+  "mtgo_id": 29747,
+  "mtgo_foil_id": 29748,
+  "tcgplayer_id": 18720,
+  "cardmarket_id": 19309,
+  "name": "Mountain",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c",
+  "scryfall_uri": "https://scryfall.com/card/shm/295/mountain?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.jpg?1562831659",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.jpg?1562831659",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.jpg?1562831659",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.png?1562831659",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.jpg?1562831659",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c.jpg?1562831659"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land — Mountain",
+  "oracle_text": "({T}: Add {R}.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "legal",
+    "historicbrawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/72cc8e7e-3d78-456a-b4ef-c9f2eaa6ec7c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3fb7228-e76b-4e96-a40e-20b5fed75685&unique=prints",
+  "collector_number": "295",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandon Kitkouski",
+  "artist_ids": [
+    "0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20"
+  ],
+  "illustration_id": "81f50710-6213-472f-9351-0e75a6d0c9a6",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "0.85",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.35",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157888",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mountain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mountain",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18720&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29747?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "8625f32b-0453-4fa6-ba1a-7e64a0541a17",
+  "oracle_id": "b0f36bf7-bdde-4576-9eca-ec02d41326ab",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 214947,
+  "cardmarket_id": 461529,
+  "name": "Nissa, Voice of Zendikar",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/8625f32b-0453-4fa6-ba1a-7e64a0541a17",
+  "scryfall_uri": "https://scryfall.com/card/pogw/138p/nissa-voice-of-zendikar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.jpg?1591311717",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.jpg?1591311717",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.jpg?1591311717",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.png?1591311717",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.jpg?1591311717",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/8625f32b-0453-4fa6-ba1a-7e64a0541a17.jpg?1591311717"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Planeswalker — Nissa",
+  "oracle_text": "+1: Create a 0/1 green Plant creature token.\n−2: Put a +1/+1 counter on each creature you control.\n−7: You gain X life and draw X cards, where X is the number of lands you control.",
+  "loyalty": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a600b97b-1851-4b1b-a2af-f80e0307c02c",
+      "component": "combo_piece",
+      "name": "Nissa, Voice of Zendikar",
+      "type_line": "Legendary Planeswalker — Nissa",
+      "uri": "https://api.scryfall.com/cards/a600b97b-1851-4b1b-a2af-f80e0307c02c"
+    },
+    {
+      "object": "related_card",
+      "id": "8501a910-e181-4f85-ad34-d2a099257148",
+      "component": "token",
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/8501a910-e181-4f85-ad34-d2a099257148"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8625f32b-0453-4fa6-ba1a-7e64a0541a17/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0f36bf7-bdde-4576-9eca-ec02d41326ab&unique=prints",
+  "collector_number": "138p",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "b3e159ec-3d49-4bb0-bf6b-80df2c911673",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "promopack",
+    "stamped"
+  ],
+  "edhrec_rank": 1692,
+  "prices": {
+    "usd": "4.22",
+    "usd_foil": "9.99",
+    "usd_etched": null,
+    "eur": "5.00",
+    "eur_foil": "7.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nissa%2C+Voice+of+Zendikar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nissa%2C+Voice+of+Zendikar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Nissa%2C+Voice+of+Zendikar",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nissa%2C+Voice+of+Zendikar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=214947&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nissa%2C+Voice+of+Zendikar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nissa%2C+Voice+of+Zendikar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

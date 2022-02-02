@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b34e3f7c-468a-456c-8ed0-0cb88f6d86fc",
+  "oracle_id": "4eafe158-abff-43e9-aeae-596430c5ce21",
+  "multiverse_ids": [
+    142049
+  ],
+  "mtgo_id": 29393,
+  "mtgo_foil_id": 29394,
+  "tcgplayer_id": 18780,
+  "cardmarket_id": 19208,
+  "name": "Scar",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc",
+  "scryfall_uri": "https://scryfall.com/card/shm/194/scar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.jpg?1562834862",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.jpg?1562834862",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.jpg?1562834862",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.png?1562834862",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.jpg?1562834862",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/3/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc.jpg?1562834862"
+  },
+  "mana_cost": "{B/R}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Put a -1/-1 counter on target creature.",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b34e3f7c-468a-456c-8ed0-0cb88f6d86fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4eafe158-abff-43e9-aeae-596430c5ce21&unique=prints",
+  "collector_number": "194",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"What is a scar? A sign of courage in the face of danger? A mere trick of flesh? Or a constant reminder of agonizing pain, and the follies of war.\"\n—Illulia of Nighthearth",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "7c7e44db-0718-46c6-91c4-b48e54861233",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14131,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "0.47",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.75",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142049",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Scar",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18780&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29393?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

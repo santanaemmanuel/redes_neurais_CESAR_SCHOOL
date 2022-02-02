@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "92c46961-cf1a-4f20-83aa-3d256db2388f",
+  "oracle_id": "c0636d16-671c-4e80-af8c-67d80d2cd979",
+  "multiverse_ids": [
+    463964
+  ],
+  "mtgo_id": 72402,
+  "tcgplayer_id": 191689,
+  "cardmarket_id": 375558,
+  "name": "Irregular Cohort",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/92c46961-cf1a-4f20-83aa-3d256db2388f",
+  "scryfall_uri": "https://scryfall.com/card/mh1/15/irregular-cohort?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.jpg?1562201138",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.jpg?1562201138",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.jpg?1562201138",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.png?1562201138",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.jpg?1562201138",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/2/92c46961-cf1a-4f20-83aa-3d256db2388f.jpg?1562201138"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4.0,
+  "type_line": "Creature — Shapeshifter",
+  "oracle_text": "Changeling (This card is every creature type.)\nWhen Irregular Cohort enters the battlefield, create a 2/2 colorless Shapeshifter creature token with changeling.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Changeling"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "92c46961-cf1a-4f20-83aa-3d256db2388f",
+      "component": "combo_piece",
+      "name": "Irregular Cohort",
+      "type_line": "Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/92c46961-cf1a-4f20-83aa-3d256db2388f"
+    },
+    {
+      "object": "related_card",
+      "id": "a33fda72-e61d-478f-bc33-ff1a23b5f45b",
+      "component": "token",
+      "name": "Shapeshifter",
+      "type_line": "Token Creature — Shapeshifter",
+      "uri": "https://api.scryfall.com/cards/a33fda72-e61d-478f-bc33-ff1a23b5f45b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/92c46961-cf1a-4f20-83aa-3d256db2388f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac0636d16-671c-4e80-af8c-67d80d2cd979&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Where fickle form meets lasting loyalty.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Argyle",
+  "artist_ids": [
+    "a44ddda4-5331-4f83-aac9-3e00ed36bd7b"
+  ],
+  "illustration_id": "49449bf3-e675-440b-ba71-84196826984a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3013,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "1.39",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.49",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463964",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Irregular+Cohort&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Irregular+Cohort&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Irregular+Cohort",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Irregular+Cohort"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191689&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Irregular+Cohort&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72402?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

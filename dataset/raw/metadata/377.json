@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "5e866d86-5bfa-473d-be17-d8f4aea70ddb",
+  "oracle_id": "624bdbfb-b611-43b6-a3c5-cc8b11dbfaae",
+  "multiverse_ids": [
+    142032
+  ],
+  "mtgo_id": 29377,
+  "mtgo_foil_id": 29378,
+  "tcgplayer_id": 18592,
+  "cardmarket_id": 19046,
+  "name": "Consign to Dream",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/5e866d86-5bfa-473d-be17-d8f4aea70ddb",
+  "scryfall_uri": "https://scryfall.com/card/shm/32/consign-to-dream?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.jpg?1562830719",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.jpg?1562830719",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.jpg?1562830719",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.png?1562830719",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.jpg?1562830719",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5e866d86-5bfa-473d-be17-d8f4aea70ddb.jpg?1562830719"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Return target permanent to its owner's hand. If that permanent is red or green, put it on top of its owner's library instead.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5e866d86-5bfa-473d-be17-d8f4aea70ddb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A624bdbfb-b611-43b6-a3c5-cc8b11dbfaae&unique=prints",
+  "collector_number": "32",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Dreams are fleeting. Reality even more so.\"\n—Oona, queen of the fae",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Kane Ferguson",
+  "artist_ids": [
+    "191620ed-2361-444e-96a6-1fe7ce32ef3b"
+  ],
+  "illustration_id": "b409d248-e593-4595-8ffb-f1f116af1aaa",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15021,
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.37",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142032",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Consign+to+Dream&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Consign+to+Dream&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Consign+to+Dream",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Consign+to+Dream"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18592&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Consign+to+Dream&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29377?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

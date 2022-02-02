@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "3f506988-29f9-48f2-9271-5e8cfc811c35",
+  "oracle_id": "185b3b9f-f798-4ca4-af99-b17a24fcc1c6",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111234,
+  "cardmarket_id": 287603,
+  "name": "Drana's Chosen",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/3f506988-29f9-48f2-9271-5e8cfc811c35",
+  "scryfall_uri": "https://scryfall.com/card/pogw/84s/dranas-chosen?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.jpg?1562871502",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.jpg?1562871502",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.jpg?1562871502",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.png?1562871502",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.jpg?1562871502",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f506988-29f9-48f2-9271-5e8cfc811c35.jpg?1562871502"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Vampire Shaman Ally",
+  "oracle_text": "Cohort — {T}, Tap an untapped Ally you control: Create a tapped 2/2 black Zombie creature token.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Cohort"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "189abe2f-5899-438b-9f54-3c98e50f037a",
+      "component": "combo_piece",
+      "name": "Drana's Chosen",
+      "type_line": "Creature — Vampire Shaman Ally",
+      "uri": "https://api.scryfall.com/cards/189abe2f-5899-438b-9f54-3c98e50f037a"
+    },
+    {
+      "object": "related_card",
+      "id": "e0bde78b-98d1-4864-899b-fc2f945ce06b",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/e0bde78b-98d1-4864-899b-fc2f945ce06b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3f506988-29f9-48f2-9271-5e8cfc811c35/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A185b3b9f-f798-4ca4-af99-b17a24fcc1c6&unique=prints",
+  "collector_number": "84s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Drana commands me. I command my nulls. And so her bidding is done.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Deruchenko Alexander",
+  "artist_ids": [
+    "806f6ff9-6ed4-4e93-998a-a562c0b792e6"
+  ],
+  "illustration_id": "5736ef94-3d04-451e-8904-54cd7c0cb127",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 15502,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.95",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drana%27s+Chosen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drana%27s+Chosen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Drana%27s+Chosen",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Drana%27s+Chosen"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111234&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drana%27s+Chosen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drana%27s+Chosen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

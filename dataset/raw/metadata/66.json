@@ -1,0 +1,138 @@
+{
+  "object": "card",
+  "id": "642d1d93-22d0-43f9-8691-6790876185a0",
+  "oracle_id": "639d5f0d-d0ea-49bf-9075-12252315601e",
+  "multiverse_ids": [
+
+  ],
+  "arena_id": 66614,
+  "tcgplayer_id": 145817,
+  "name": "Plant",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/642d1d93-22d0-43f9-8691-6790876185a0",
+  "scryfall_uri": "https://scryfall.com/card/txln/6/plant?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.jpg?1562539777",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.jpg?1562539777",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.jpg?1562539777",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.png?1562539777",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.jpg?1562539777",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/642d1d93-22d0-43f9-8691-6790876185a0.jpg?1562539777"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Plant",
+  "oracle_text": "Defender (This creature can't attack.)",
+  "power": "0",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Defender"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "514d53be-6ade-4f73-a844-e9ae2dafd6ce",
+      "component": "combo_piece",
+      "name": "Dowsing Dagger // Lost Vale",
+      "type_line": "Artifact — Equipment // Land",
+      "uri": "https://api.scryfall.com/cards/514d53be-6ade-4f73-a844-e9ae2dafd6ce"
+    },
+    {
+      "object": "related_card",
+      "id": "642d1d93-22d0-43f9-8691-6790876185a0",
+      "component": "token",
+      "name": "Plant",
+      "type_line": "Token Creature — Plant",
+      "uri": "https://api.scryfall.com/cards/642d1d93-22d0-43f9-8691-6790876185a0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set": "txln",
+  "set_name": "Ixalan Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/txln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/642d1d93-22d0-43f9-8691-6790876185a0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A639d5f0d-d0ea-49bf-9075-12252315601e&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Florian de Gesincourt",
+  "artist_ids": [
+    "f28c54ff-bbe3-485d-81a4-b2cb49430a52"
+  ],
+  "illustration_id": "8a6fa577-0c1a-4057-883f-0f14ba81ed00",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Plant",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Plant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145817&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

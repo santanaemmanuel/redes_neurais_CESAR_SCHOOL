@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "379c81d8-804b-4fe6-80df-8a4246fbf695",
+  "oracle_id": "e820296a-81b0-401f-959c-7aed8abefce1",
+  "multiverse_ids": [
+    425893
+  ],
+  "mtgo_id": 63253,
+  "mtgo_foil_id": 63254,
+  "tcgplayer_id": 128867,
+  "cardmarket_id": 295943,
+  "name": "Entomber Exarch",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/379c81d8-804b-4fe6-80df-8a4246fbf695",
+  "scryfall_uri": "https://scryfall.com/card/mm3/68/entomber-exarch?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.jpg?1593813267",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.jpg?1593813267",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.jpg?1593813267",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.png?1593813267",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.jpg?1593813267",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/379c81d8-804b-4fe6-80df-8a4246fbf695.jpg?1593813267"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Phyrexian Cleric",
+  "oracle_text": "When Entomber Exarch enters the battlefield, choose one —\n• Return target creature card from your graveyard to your hand.\n• Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/379c81d8-804b-4fe6-80df-8a4246fbf695/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae820296a-81b0-401f-959c-7aed8abefce1&unique=prints",
+  "collector_number": "68",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "c2f0a949-8388-4027-bc52-04d2b99603c0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7742,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.39",
+    "tix": "0.10"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425893",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Entomber+Exarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Entomber+Exarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Entomber+Exarch",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Entomber+Exarch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128867&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Entomber+Exarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63253?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

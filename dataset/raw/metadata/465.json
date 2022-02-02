@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "efae4d84-8134-461a-a352-a5bdff7259a7",
+  "oracle_id": "fe742976-ef13-4c25-972f-254b1ed436de",
+  "multiverse_ids": [
+    464120
+  ],
+  "mtgo_id": 72714,
+  "tcgplayer_id": 190966,
+  "cardmarket_id": 374685,
+  "name": "Mother Bear",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/efae4d84-8134-461a-a352-a5bdff7259a7",
+  "scryfall_uri": "https://scryfall.com/card/mh1/171/mother-bear?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.png?1562202126",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/f/efae4d84-8134-461a-a352-a5bdff7259a7.jpg?1562202126"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Bear",
+  "oracle_text": "{3}{G}{G}, Exile Mother Bear from your graveyard: Create two 2/2 green Bear creature tokens. Activate only as a sorcery.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "efae4d84-8134-461a-a352-a5bdff7259a7",
+      "component": "combo_piece",
+      "name": "Mother Bear",
+      "type_line": "Creature — Bear",
+      "uri": "https://api.scryfall.com/cards/efae4d84-8134-461a-a352-a5bdff7259a7"
+    },
+    {
+      "object": "related_card",
+      "id": "c6610846-00d8-4cc2-a90a-4dc043ba7fa6",
+      "component": "token",
+      "name": "Bear",
+      "type_line": "Token Creature — Bear",
+      "uri": "https://api.scryfall.com/cards/c6610846-00d8-4cc2-a90a-4dc043ba7fa6"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/efae4d84-8134-461a-a352-a5bdff7259a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe742976-ef13-4c25-972f-254b1ed436de&unique=prints",
+  "collector_number": "171",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Even without her, the cubs will always know their mother's love.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "7d6e080a-9367-4071-af11-e83656641ad0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6441,
+  "preview": {
+    "source": "MTG Tower",
+    "source_uri": "https://twitter.com/mtg_tower/status/1131592271026040832",
+    "previewed_at": "2019-05-23"
+  },
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.47",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.15",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464120",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mother+Bear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mother+Bear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mother+Bear",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mother+Bear"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190966&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mother+Bear&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72714?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

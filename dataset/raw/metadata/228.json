@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "970adaaf-1534-4529-8da4-c4dcf7c08b7b",
+  "oracle_id": "ef5c93ae-91e0-4edb-b8a3-1171a3694bb8",
+  "multiverse_ids": [
+    146094
+  ],
+  "mtgo_id": 29469,
+  "mtgo_foil_id": 29470,
+  "tcgplayer_id": 18766,
+  "cardmarket_id": 19063,
+  "name": "River Kelpie",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/970adaaf-1534-4529-8da4-c4dcf7c08b7b",
+  "scryfall_uri": "https://scryfall.com/card/shm/49/river-kelpie?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.jpg?1562833446",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.jpg?1562833446",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.jpg?1562833446",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.png?1562833446",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.jpg?1562833446",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/7/970adaaf-1534-4529-8da4-c4dcf7c08b7b.jpg?1562833446"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Creature — Beast",
+  "oracle_text": "Whenever River Kelpie or another permanent enters the battlefield from a graveyard, draw a card.\nWhenever a player casts a spell from a graveyard, draw a card.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Persist"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/970adaaf-1534-4529-8da4-c4dcf7c08b7b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef5c93ae-91e0-4edb-b8a3-1171a3694bb8&unique=prints",
+  "collector_number": "49",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeff Easley",
+  "artist_ids": [
+    "da17055e-693c-461a-b132-67dd88b42ca6"
+  ],
+  "illustration_id": "8fb45e12-b45e-4d4d-80ca-97d1b1a58dd5",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3029,
+  "prices": {
+    "usd": "0.45",
+    "usd_foil": "20.97",
+    "usd_etched": null,
+    "eur": "1.00",
+    "eur_foil": "10.50",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146094",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=River+Kelpie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=River+Kelpie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=River+Kelpie",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=River+Kelpie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18766&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=River+Kelpie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29469?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

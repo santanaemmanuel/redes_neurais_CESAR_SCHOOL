@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "3194d88d-6f2c-47ed-ad9c-d55bb1858e79",
+  "oracle_id": "dd397a32-06b0-4530-b075-412e2881aa53",
+  "multiverse_ids": [
+    158692
+  ],
+  "mtgo_id": 29791,
+  "mtgo_foil_id": 29792,
+  "tcgplayer_id": 18632,
+  "cardmarket_id": 19052,
+  "name": "Flow of Ideas",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/3194d88d-6f2c-47ed-ad9c-d55bb1858e79",
+  "scryfall_uri": "https://scryfall.com/card/shm/38/flow-of-ideas?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.jpg?1562828489",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.jpg?1562828489",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.jpg?1562828489",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.png?1562828489",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.jpg?1562828489",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/1/3194d88d-6f2c-47ed-ad9c-d55bb1858e79.jpg?1562828489"
+  },
+  "mana_cost": "{5}{U}",
+  "cmc": 6.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Draw a card for each Island you control.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3194d88d-6f2c-47ed-ad9c-d55bb1858e79/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Add397a32-06b0-4530-b075-412e2881aa53&unique=prints",
+  "collector_number": "38",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Beware the merrows, whose envy and covetousness surpasses even that of the ravenous whirlpools where they dwell.\"\n—*The Book of Other Folk*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Dringenberg",
+  "artist_ids": [
+    "a1407afa-0f54-43f8-938b-88b268074f91"
+  ],
+  "illustration_id": "12098583-05aa-4449-baa8-23b82723c841",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6582,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "1.22",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.33",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158692",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Flow+of+Ideas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Flow+of+Ideas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Flow+of+Ideas",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Flow+of+Ideas"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18632&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Flow+of+Ideas&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29791?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

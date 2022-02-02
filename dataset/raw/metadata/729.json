@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "df150832-0b2c-4811-a117-1f4a6f40eaa8",
+  "oracle_id": "5748ebf1-24e3-499d-ab7c-c2cebd462a24",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38310,
+  "cardmarket_id": 17577,
+  "name": "Giant Growth",
+  "lang": "en",
+  "released_at": "2006-01-01",
+  "uri": "https://api.scryfall.com/cards/df150832-0b2c-4811-a117-1f4a6f40eaa8",
+  "scryfall_uri": "https://scryfall.com/card/p06/4/giant-growth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.jpg?1561758245",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.jpg?1561758245",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.jpg?1561758245",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.png?1561758245",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.jpg?1561758245",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/f/df150832-0b2c-4811-a117-1f4a6f40eaa8.jpg?1561758245"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets +3/+3 until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set": "p06",
+  "set_name": "Magic Player Rewards 2006",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap06&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/p06?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/df150832-0b2c-4811-a117-1f4a6f40eaa8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5748ebf1-24e3-499d-ab7c-c2cebd462a24&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joel Thomas",
+  "artist_ids": [
+    "87723513-8114-4e78-bf30-a2957fb16fd0"
+  ],
+  "illustration_id": "b981cd45-ed1f-483a-b5a2-e4384fbea15e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": true,
+  "textless": true,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "playerrewards"
+  ],
+  "edhrec_rank": 6338,
+  "prices": {
+    "usd": "2.00",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.38",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Growth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Growth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Giant+Growth",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Giant+Growth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38310&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Growth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giant+Growth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

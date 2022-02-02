@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "b547513d-8b69-41cd-84c9-4b08b6426f1d",
+  "oracle_id": "9b97a7fe-c5d9-4698-a49c-183b3f1ce4db",
+  "multiverse_ids": [
+    464052
+  ],
+  "mtgo_id": 72578,
+  "tcgplayer_id": 191758,
+  "cardmarket_id": 375642,
+  "name": "Ransack the Lab",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/b547513d-8b69-41cd-84c9-4b08b6426f1d",
+  "scryfall_uri": "https://scryfall.com/card/mh1/103/ransack-the-lab?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.png?1592137182",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b547513d-8b69-41cd-84c9-4b08b6426f1d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b97a7fe-c5d9-4698-a49c-183b3f1ce4db&unique=prints",
+  "collector_number": "103",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"I think someone is stealing from my laboratory. It had better not be you!\"\n—Geralf, letter to Gisa",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Seaman",
+  "artist_ids": [
+    "b9c49463-6f55-4039-9d32-c02a658af100"
+  ],
+  "illustration_id": "8364844c-3c56-4d90-b5ba-0d6832e1f6b1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3862,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "2.17",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.95",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464052",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ransack+the+Lab&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ransack+the+Lab&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ransack+the+Lab",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ransack+the+Lab"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191758&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ransack+the+Lab&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72578?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

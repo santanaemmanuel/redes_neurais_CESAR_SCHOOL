@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "e5a7ed36-a552-4d46-929a-48f34ae9279a",
+  "oracle_id": "bbf9fd47-10e1-4749-b06f-4fe72200afc7",
+  "multiverse_ids": [
+    425856
+  ],
+  "mtgo_id": 63249,
+  "mtgo_foil_id": 63250,
+  "tcgplayer_id": 128839,
+  "cardmarket_id": 295921,
+  "name": "Azure Mage",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/e5a7ed36-a552-4d46-929a-48f34ae9279a",
+  "scryfall_uri": "https://scryfall.com/card/mm3/31/azure-mage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.jpg?1593812991",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.jpg?1593812991",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.jpg?1593812991",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.png?1593812991",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.jpg?1593812991",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/5/e5a7ed36-a552-4d46-929a-48f34ae9279a.jpg?1593812991"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "{3}{U}: Draw a card.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e5a7ed36-a552-4d46-929a-48f34ae9279a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abbf9fd47-10e1-4749-b06f-4fe72200afc7&unique=prints",
+  "collector_number": "31",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"We draw our power from the infinite ocean of the mind, where all manner of things can be conceived.\"\n—Azure creed",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Izzy",
+  "artist_ids": [
+    "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+  ],
+  "illustration_id": "a1653db3-9e62-4c3f-9e72-e78a410ec33d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12267,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.09",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425856",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Azure+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Azure+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Azure+Mage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Azure+Mage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128839&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Azure+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63249?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

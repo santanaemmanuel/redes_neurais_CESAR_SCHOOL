@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "99bda306-1e37-4359-a649-fcd8a5a7e2fc",
+  "oracle_id": "e5139376-cdb1-4f1e-b417-b956d6b713b9",
+  "multiverse_ids": [
+    147375
+  ],
+  "mtgo_id": 29521,
+  "mtgo_foil_id": 29522,
+  "tcgplayer_id": 18648,
+  "cardmarket_id": 19131,
+  "name": "Gloomwidow",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/99bda306-1e37-4359-a649-fcd8a5a7e2fc",
+  "scryfall_uri": "https://scryfall.com/card/shm/117/gloomwidow?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.jpg?1562833601",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.jpg?1562833601",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.jpg?1562833601",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.png?1562833601",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.jpg?1562833601",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99bda306-1e37-4359-a649-fcd8a5a7e2fc.jpg?1562833601"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Spider",
+  "oracle_text": "Reach\nGloomwidow can block only creatures with flying.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99bda306-1e37-4359-a649-fcd8a5a7e2fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae5139376-cdb1-4f1e-b417-b956d6b713b9&unique=prints",
+  "collector_number": "117",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "When gloomwidows mature, they abandon venom in favor of massive webs that span the eaves of cliffs.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Tedin",
+  "artist_ids": [
+    "9ee9a9cc-c09e-486f-918b-69f80cbc4188"
+  ],
+  "illustration_id": "6119770e-42f8-4626-8de0-036b731604f0",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15473,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.15",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147375",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gloomwidow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gloomwidow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Gloomwidow",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Gloomwidow"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18648&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gloomwidow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29521?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

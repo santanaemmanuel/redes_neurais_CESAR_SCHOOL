@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "2bd51dd3-ce49-41cf-85ef-a5a1428bc71b",
+  "oracle_id": "55c60b29-52c5-428c-9229-11ed0e26bd71",
+  "multiverse_ids": [
+    429891
+  ],
+  "mtgo_id": 64298,
+  "mtgo_foil_id": 64299,
+  "tcgplayer_id": 131389,
+  "cardmarket_id": 297394,
+  "name": "Glory Seeker",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b",
+  "scryfall_uri": "https://scryfall.com/card/w17/2/glory-seeker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.jpg?1562197821",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.jpg?1562197821",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.jpg?1562197821",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.png?1562197821",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.jpg?1562197821",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b.jpg?1562197821"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Human Soldier",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2bd51dd3-ce49-41cf-85ef-a5a1428bc71b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55c60b29-52c5-428c-9229-11ed0e26bd71&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"There's no contract to sign, no oath to swear. The enlistment procedure is to unsheathe your sword and point it at the enemy.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Cavotta",
+  "artist_ids": [
+    "2e6a0611-9411-4ba4-98e3-c0e18cbf9f83"
+  ],
+  "illustration_id": "ff05578e-761d-4f15-8318-c131d55b1142",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 18833,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429891",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Glory+Seeker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Glory+Seeker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Glory+Seeker",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Glory+Seeker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131389&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glory+Seeker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64298?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

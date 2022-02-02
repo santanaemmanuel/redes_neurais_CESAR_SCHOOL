@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "614d466e-f830-4a2f-8740-b416a15c67dd",
+  "oracle_id": "1ff25f67-36a7-4cfa-a2b1-2135b5b6fb67",
+  "multiverse_ids": [
+    425959
+  ],
+  "mtgo_id": 63271,
+  "mtgo_foil_id": 63272,
+  "tcgplayer_id": 128655,
+  "cardmarket_id": 295875,
+  "name": "Scavenging Ooze",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/614d466e-f830-4a2f-8740-b416a15c67dd",
+  "scryfall_uri": "https://scryfall.com/card/mm3/134/scavenging-ooze?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.jpg?1593813887",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.jpg?1593813887",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.jpg?1593813887",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.png?1593813887",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.jpg?1593813887",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/614d466e-f830-4a2f-8740-b416a15c67dd.jpg?1593813887"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Ooze",
+  "oracle_text": "{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/614d466e-f830-4a2f-8740-b416a15c67dd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1ff25f67-36a7-4cfa-a2b1-2135b5b6fb67&unique=prints",
+  "collector_number": "134",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "In nature, not a single bone or scrap of flesh goes to waste.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Austin Hsu",
+  "artist_ids": [
+    "c5e439d8-b3db-4c13-ae93-4e129e3b9478"
+  ],
+  "illustration_id": "41b9c15f-47c8-49f6-9c93-7092da0ab89b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 512,
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": "2.21",
+    "usd_etched": null,
+    "eur": "1.24",
+    "eur_foil": "2.19",
+    "tix": "0.83"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425959",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scavenging+Ooze&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scavenging+Ooze&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Scavenging+Ooze",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scavenging+Ooze"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128655&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scavenging+Ooze&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63271?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

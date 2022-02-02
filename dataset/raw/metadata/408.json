@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "6d42fd52-34ea-4d1b-80dc-58fb0593bb5b",
+  "oracle_id": "97db6c39-e690-49b6-93a6-e51b8dfad10b",
+  "multiverse_ids": [
+    464129
+  ],
+  "mtgo_id": 72732,
+  "tcgplayer_id": 190862,
+  "cardmarket_id": 374556,
+  "name": "Spore Frog",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b",
+  "scryfall_uri": "https://scryfall.com/card/mh1/180/spore-frog?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.png?1562202192",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1562202192"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature — Frog",
+  "oracle_text": "Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97db6c39-e690-49b6-93a6-e51b8dfad10b&unique=prints",
+  "collector_number": "180",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A progenitor of tadpoles and allergies in equal measure.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "090ce60e-64f0-452e-bd86-7fd545886dcf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 920,
+  "preview": {
+    "source": "Cassius Marsh",
+    "source_uri": "https://twitter.com/kingcash_7191/status/1130950779689287680?s=12",
+    "previewed_at": "2019-05-21"
+  },
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "3.47",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "1.20",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spore+Frog&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spore+Frog&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Spore+Frog",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Spore+Frog"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190862&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spore+Frog&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72732?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

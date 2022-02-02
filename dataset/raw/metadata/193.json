@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "f6b80a10-a9a9-445e-8040-6cc0155271d8",
+  "oracle_id": "cbb030aa-ba4f-4d9e-920d-001a40982f5e",
+  "multiverse_ids": [
+    142068
+  ],
+  "mtgo_id": 29407,
+  "mtgo_foil_id": 29408,
+  "tcgplayer_id": 18600,
+  "cardmarket_id": 19196,
+  "name": "Cultbrand Cinder",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/f6b80a10-a9a9-445e-8040-6cc0155271d8",
+  "scryfall_uri": "https://scryfall.com/card/shm/182/cultbrand-cinder?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.jpg?1562838259",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.jpg?1562838259",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.jpg?1562838259",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.png?1562838259",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.jpg?1562838259",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/6/f6b80a10-a9a9-445e-8040-6cc0155271d8.jpg?1562838259"
+  },
+  "mana_cost": "{4}{B/R}",
+  "cmc": 5.0,
+  "type_line": "Creature — Elemental Shaman",
+  "oracle_text": "When Cultbrand Cinder enters the battlefield, put a -1/-1 counter on target creature.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f6b80a10-a9a9-445e-8040-6cc0155271d8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbb030aa-ba4f-4d9e-920d-001a40982f5e&unique=prints",
+  "collector_number": "182",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Your seared flesh will be the first step in your journey to dark enlightenment.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christopher Moeller",
+  "artist_ids": [
+    "21e10012-06ae-44f2-b38d-3824dd2e73d4"
+  ],
+  "illustration_id": "57d6f30b-2523-47b3-8f32-660201d83c05",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20867,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.50",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142068",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cultbrand+Cinder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cultbrand+Cinder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cultbrand+Cinder",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cultbrand+Cinder"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18600&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cultbrand+Cinder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29407?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

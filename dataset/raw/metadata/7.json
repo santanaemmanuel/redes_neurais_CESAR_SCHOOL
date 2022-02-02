@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "9c918e38-7151-407f-bf3b-44a11f92fb15",
+  "oracle_id": "bb3da6d2-aed7-4057-b94b-6882fb45cc89",
+  "multiverse_ids": [
+
+  ],
+  "name": "Ooze",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/9c918e38-7151-407f-bf3b-44a11f92fb15",
+  "scryfall_uri": "https://scryfall.com/card/tgk2/9/ooze?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.jpg?1552078540",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.jpg?1552078540",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.jpg?1552078540",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.png?1552078540",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.jpg?1552078540",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9c918e38-7151-407f-bf3b-44a11f92fb15.jpg?1552078540"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Ooze",
+  "oracle_text": "",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6b4b68fa-6b82-470a-a2ca-10aba024c914",
+      "component": "combo_piece",
+      "name": "Miming Slime",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/6b4b68fa-6b82-470a-a2ca-10aba024c914"
+    },
+    {
+      "object": "related_card",
+      "id": "9c918e38-7151-407f-bf3b-44a11f92fb15",
+      "component": "token",
+      "name": "Ooze",
+      "type_line": "Token Creature — Ooze",
+      "uri": "https://api.scryfall.com/cards/9c918e38-7151-407f-bf3b-44a11f92fb15"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set": "tgk2",
+  "set_name": "RNA Guild Kit Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tgk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9c918e38-7151-407f-bf3b-44a11f92fb15/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abb3da6d2-aed7-4057-b94b-6882fb45cc89&unique=prints",
+  "collector_number": "9",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Marco Nelor",
+  "artist_ids": [
+    "c0f95ec3-c7ca-47d6-be5c-b37dfce37be5"
+  ],
+  "illustration_id": "5eef263f-0607-4842-9278-976a55946fef",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ooze&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ooze&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ooze",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ooze"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Ooze&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ooze&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ooze&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

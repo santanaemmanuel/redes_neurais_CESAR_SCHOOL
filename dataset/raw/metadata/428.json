@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "f7d1def0-1450-44ec-b7c4-0fa50fe12c15",
+  "oracle_id": "6560517d-41c0-4c9c-b9d5-3ecfcb2b99fd",
+  "multiverse_ids": [
+    464102
+  ],
+  "mtgo_id": 72678,
+  "tcgplayer_id": 191757,
+  "cardmarket_id": 375678,
+  "name": "Viashino Sandsprinter",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/f7d1def0-1450-44ec-b7c4-0fa50fe12c15",
+  "scryfall_uri": "https://scryfall.com/card/mh1/153/viashino-sandsprinter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.png?1562202007",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7d1def0-1450-44ec-b7c4-0fa50fe12c15.jpg?1562202007"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3.0,
+  "type_line": "Creature — Viashino Warrior",
+  "oracle_text": "Trample, haste\nAt the beginning of the end step, return Viashino Sandsprinter to its owner's hand. (Return it only if it's on the battlefield.)\nCycling {R} ({R}, Discard this card: Draw a card.)",
+  "power": "4",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste",
+    "Trample",
+    "Cycling"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7d1def0-1450-44ec-b7c4-0fa50fe12c15/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6560517d-41c0-4c9c-b9d5-3ecfcb2b99fd&unique=prints",
+  "collector_number": "153",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "f3e85107-03d2-41df-8463-943714315035",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12519,
+  "prices": {
+    "usd": "0.02",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "0.33",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464102",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Viashino+Sandsprinter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Viashino+Sandsprinter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Viashino+Sandsprinter",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Viashino+Sandsprinter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191757&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Viashino+Sandsprinter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72678?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

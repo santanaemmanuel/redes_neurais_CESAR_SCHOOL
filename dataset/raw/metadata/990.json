@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "4ce5b167-df7a-499e-8dcc-7aec2e28b382",
+  "oracle_id": "9da896e1-2256-425b-b801-1ae6f0470559",
+  "multiverse_ids": [
+    509338
+  ],
+  "tcgplayer_id": 221305,
+  "cardmarket_id": 491964,
+  "name": "Omnath, Locus of Mana",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/4ce5b167-df7a-499e-8dcc-7aec2e28b382",
+  "scryfall_uri": "https://scryfall.com/card/cc1/2/omnath-locus-of-mana?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.jpg?1610161645",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.jpg?1610161645",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.jpg?1610161645",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.png?1610161645",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.jpg?1610161645",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4ce5b167-df7a-499e-8dcc-7aec2e28b382.jpg?1610161645"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Elemental",
+  "oracle_text": "You don't lose unspent green mana as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each unspent green mana you have.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4ce5b167-df7a-499e-8dcc-7aec2e28b382/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9da896e1-2256-425b-b801-1ae6f0470559&unique=prints",
+  "collector_number": "2",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "From the Roil emerged a ravenous primordial being of pure mana.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chase Stone",
+  "artist_ids": [
+    "2d753f61-5f5b-468e-97ea-8e0fdd347340"
+  ],
+  "illustration_id": "7f811a29-b341-49f3-9d96-db967b2b5efb",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2533,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "6.80",
+    "usd_foil": "9.11",
+    "usd_etched": null,
+    "eur": "3.05",
+    "eur_foil": "6.99",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509338",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Omnath%2C+Locus+of+Mana&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Omnath%2C+Locus+of+Mana&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Omnath%2C+Locus+of+Mana",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Omnath%2C+Locus+of+Mana"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221305&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Omnath%2C+Locus+of+Mana&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Omnath%2C+Locus+of+Mana&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

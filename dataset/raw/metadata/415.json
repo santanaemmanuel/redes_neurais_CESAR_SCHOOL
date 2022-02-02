@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "6f594d07-932e-4fe6-832d-d0a0be3530aa",
+  "oracle_id": "4db030f5-d7c4-4aa0-ae2e-12943e2683d7",
+  "multiverse_ids": [
+    464138
+  ],
+  "mtgo_id": 72750,
+  "tcgplayer_id": 190997,
+  "cardmarket_id": 374979,
+  "name": "Unbound Flourishing",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/6f594d07-932e-4fe6-832d-d0a0be3530aa",
+  "scryfall_uri": "https://scryfall.com/card/mh1/189/unbound-flourishing?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1562202252",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1562202252",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1562202252",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.png?1562202252",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1562202252",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f594d07-932e-4fe6-832d-d0a0be3530aa.jpg?1562202252"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever you cast a permanent spell with a mana cost that contains {X}, double the value of X.\nWhenever you cast an instant or sorcery spell or activate an ability, if that spell's mana cost or that ability's activation cost contains {X}, copy that spell or ability. You may choose new targets for the copy.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6f594d07-932e-4fe6-832d-d0a0be3530aa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4db030f5-d7c4-4aa0-ae2e-12943e2683d7&unique=prints",
+  "collector_number": "189",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "7b925036-5821-48c3-993d-3b8de9f693b2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2261,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/MagicOnline/status/1131968108594384897",
+    "previewed_at": "2019-05-24"
+  },
+  "prices": {
+    "usd": "5.16",
+    "usd_foil": "14.51",
+    "usd_etched": null,
+    "eur": "4.58",
+    "eur_foil": "11.80",
+    "tix": "0.21"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464138",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Unbound+Flourishing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Unbound+Flourishing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Unbound+Flourishing",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Unbound+Flourishing"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190997&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unbound+Flourishing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72750?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

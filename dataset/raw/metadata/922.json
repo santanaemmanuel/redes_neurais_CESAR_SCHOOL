@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4",
+  "oracle_id": "0c936582-d4c0-4da8-bc7e-49da5a433939",
+  "multiverse_ids": [
+    425885
+  ],
+  "mtgo_id": 63165,
+  "mtgo_foil_id": 63166,
+  "tcgplayer_id": 128566,
+  "cardmarket_id": 295865,
+  "name": "Bone Splinters",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4",
+  "scryfall_uri": "https://scryfall.com/card/mm3/60/bone-splinters?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.jpg?1593813211",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.jpg?1593813211",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.jpg?1593813211",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.png?1593813211",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.jpg?1593813211",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/4/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4.jpg?1593813211"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nDestroy target creature.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/749c39f3-fcfb-4a73-a3f2-f17eb8bb9bc4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c936582-d4c0-4da8-bc7e-49da5a433939&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Witches of the Split-Eye Coven speak of a future when Grixis will overflow with life energy. For now, they must harvest vis from the living to fuel their dark magics.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cole Eastburn",
+  "artist_ids": [
+    "c7c6aa01-40ef-4896-9237-c45decec0564"
+  ],
+  "illustration_id": "02d5db34-2f78-4b36-a489-8b4dbc5ee9e2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4013,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.16",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.02",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425885",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bone+Splinters&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bone+Splinters&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Bone+Splinters",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bone+Splinters"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128566&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bone+Splinters&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63165?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

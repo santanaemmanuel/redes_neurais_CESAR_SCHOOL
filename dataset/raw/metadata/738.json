@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "552b7314-5dd9-4722-841b-2e9d5647f854",
+  "oracle_id": "51d9564b-44fc-4de1-9119-09d7b4089378",
+  "multiverse_ids": [
+    425921
+  ],
+  "mtgo_id": 63509,
+  "mtgo_foil_id": 63510,
+  "tcgplayer_id": 128277,
+  "cardmarket_id": 295820,
+  "name": "Goblin Guide",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/552b7314-5dd9-4722-841b-2e9d5647f854",
+  "scryfall_uri": "https://scryfall.com/card/mm3/96/goblin-guide?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.jpg?1593813469",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.jpg?1593813469",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.jpg?1593813469",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.png?1593813469",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.jpg?1593813469",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/5/552b7314-5dd9-4722-841b-2e9d5647f854.jpg?1593813469"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1.0,
+  "type_line": "Creature — Goblin Scout",
+  "oracle_text": "Haste\nWhenever Goblin Guide attacks, defending player reveals the top card of their library. If it's a land card, that player puts it into their hand.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/552b7314-5dd9-4722-841b-2e9d5647f854/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51d9564b-44fc-4de1-9119-09d7b4089378&unique=prints",
+  "collector_number": "96",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"I've been all over this world. I even remember some of those places.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "750de145-cbd4-4d8e-b28e-0911f0cc5734",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8553,
+  "prices": {
+    "usd": "5.00",
+    "usd_foil": "8.07",
+    "usd_etched": null,
+    "eur": "3.50",
+    "eur_foil": "4.65",
+    "tix": "4.56"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Guide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Guide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Guide",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Goblin+Guide"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128277&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Guide&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63509?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

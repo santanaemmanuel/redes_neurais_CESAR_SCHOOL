@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "bcf1288a-8e2c-4a69-afcf-af293f66d007",
+  "oracle_id": "0b8c3337-04dd-4798-8203-6d8b8cfb936b",
+  "multiverse_ids": [
+    425837
+  ],
+  "mtgo_id": 63357,
+  "mtgo_foil_id": 63358,
+  "tcgplayer_id": 128649,
+  "cardmarket_id": 295873,
+  "name": "Lingering Souls",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/bcf1288a-8e2c-4a69-afcf-af293f66d007",
+  "scryfall_uri": "https://scryfall.com/card/mm3/12/lingering-souls?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.jpg?1593812843",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.jpg?1593812843",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.jpg?1593812843",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.png?1593812843",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.jpg?1593812843",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/c/bcf1288a-8e2c-4a69-afcf-af293f66d007.jpg?1593812843"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bcf1288a-8e2c-4a69-afcf-af293f66d007",
+      "component": "combo_piece",
+      "name": "Lingering Souls",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/bcf1288a-8e2c-4a69-afcf-af293f66d007"
+    },
+    {
+      "object": "related_card",
+      "id": "2933a376-399c-4071-b44b-95605edd8fdb",
+      "component": "token",
+      "name": "Spirit",
+      "type_line": "Token Creature — Spirit",
+      "uri": "https://api.scryfall.com/cards/2933a376-399c-4071-b44b-95605edd8fdb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bcf1288a-8e2c-4a69-afcf-af293f66d007/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b8c3337-04dd-4798-8203-6d8b8cfb936b&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The murdered inhabitants of Hollowhenge impart to the living the terror they felt in death.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Stanko",
+  "artist_ids": [
+    "b0f038a0-73b5-4806-918e-9cd11b5f92e1"
+  ],
+  "illustration_id": "b005a918-ad6e-4eb7-a75a-3f4f78567182",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4966,
+  "prices": {
+    "usd": "0.32",
+    "usd_foil": "1.22",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "1.20",
+    "tix": "0.08"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425837",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lingering+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lingering+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Lingering+Souls",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lingering+Souls"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128649&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lingering+Souls&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63357?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

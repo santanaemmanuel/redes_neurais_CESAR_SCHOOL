@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "9b433633-42a1-4474-a9b8-2ff5e541f6d1",
+  "oracle_id": "759af941-f6a3-4726-91f2-9b1e4e55ea71",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38314,
+  "cardmarket_id": 17574,
+  "name": "Hypnotic Specter",
+  "lang": "en",
+  "released_at": "2006-01-01",
+  "uri": "https://api.scryfall.com/cards/9b433633-42a1-4474-a9b8-2ff5e541f6d1",
+  "scryfall_uri": "https://scryfall.com/card/p06/1/hypnotic-specter?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.jpg?1591104594",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.jpg?1591104594",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.jpg?1591104594",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.png?1591104594",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.jpg?1591104594",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/b/9b433633-42a1-4474-a9b8-2ff5e541f6d1.jpg?1591104594"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Specter",
+  "oracle_text": "Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set": "p06",
+  "set_name": "Magic Player Rewards 2006",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap06&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/p06?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9b433633-42a1-4474-a9b8-2ff5e541f6d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A759af941-f6a3-4726-91f2-9b1e4e55ea71&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "dci",
+  "flavor_text": "\"There was no trace\nOf aught on that illumined face . . . .\"\n—Samuel Taylor Coleridge, \"Phantom\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Douglas Shuler",
+  "artist_ids": [
+    "a9ddb513-51c7-455c-ab8f-5b90aae9f75b"
+  ],
+  "illustration_id": "30c37649-22d8-4526-90f3-d1602fd2994b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "playerrewards"
+  ],
+  "edhrec_rank": 4915,
+  "prices": {
+    "usd": null,
+    "usd_foil": "12.95",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "3.90",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hypnotic+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hypnotic+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Hypnotic+Specter",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hypnotic+Specter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38314&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hypnotic+Specter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hypnotic+Specter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

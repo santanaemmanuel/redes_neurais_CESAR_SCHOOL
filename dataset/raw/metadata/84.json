@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "e0340198-d696-4e60-96eb-086cdd17a9f6",
+  "oracle_id": "ec439630-e18b-45f6-8034-2ecbea27772f",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 170593,
+  "cardmarket_id": 360933,
+  "name": "Nin, the Pain Artist",
+  "lang": "en",
+  "released_at": "2018-01-01",
+  "uri": "https://api.scryfall.com/cards/e0340198-d696-4e60-96eb-086cdd17a9f6",
+  "scryfall_uri": "https://scryfall.com/card/j18/3/nin-the-pain-artist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.jpg?1641597727",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.jpg?1641597727",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.jpg?1641597727",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.png?1641597727",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.jpg?1641597727",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0340198-d696-4e60-96eb-086cdd17a9f6.jpg?1641597727"
+  },
+  "mana_cost": "{U}{R}",
+  "cmc": 2.0,
+  "type_line": "Legendary Creature — Vedalken Wizard",
+  "oracle_text": "{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set": "j18",
+  "set_name": "Judge Gift Cards 2018",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj18&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j18?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0340198-d696-4e60-96eb-086cdd17a9f6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec439630-e18b-45f6-8034-2ecbea27772f&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "wotc",
+  "flavor_text": "\"Your body is a delicate instrument that tells me truths. These devices help me 'tune' that instrument.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brad Rigney",
+  "artist_ids": [
+    "f17194b9-10e9-44ea-9b65-6812ab398624"
+  ],
+  "illustration_id": "82821742-928a-4084-b0f0-25cb081d69dc",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "judgegift"
+  ],
+  "edhrec_rank": 4805,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.30",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nin%2C+the+Pain+Artist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nin%2C+the+Pain+Artist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Nin%2C+the+Pain+Artist",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nin%2C+the+Pain+Artist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=170593&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nin%2C+the+Pain+Artist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nin%2C+the+Pain+Artist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

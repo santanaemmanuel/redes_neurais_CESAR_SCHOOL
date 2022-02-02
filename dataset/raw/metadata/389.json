@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "1b2b3dd8-cedb-4577-8897-967952dd3c13",
+  "oracle_id": "456f2991-ab64-41bc-9bd1-a1b1e7993ed6",
+  "multiverse_ids": [
+    147420
+  ],
+  "mtgo_id": 29555,
+  "mtgo_foil_id": 29556,
+  "tcgplayer_id": 18827,
+  "cardmarket_id": 19280,
+  "name": "Trip Noose",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/1b2b3dd8-cedb-4577-8897-967952dd3c13",
+  "scryfall_uri": "https://scryfall.com/card/shm/266/trip-noose?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.jpg?1562827445",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.jpg?1562827445",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.jpg?1562827445",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.png?1562827445",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.jpg?1562827445",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/b/1b2b3dd8-cedb-4577-8897-967952dd3c13.jpg?1562827445"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "{2}, {T}: Tap target creature.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1b2b3dd8-cedb-4577-8897-967952dd3c13/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A456f2991-ab64-41bc-9bd1-a1b1e7993ed6&unique=prints",
+  "collector_number": "266",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "A taut slipknot trigger is the only thing standing between you and standing.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "18bc2153-9bc1-4752-b12e-4905e3f21480",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17393,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.74",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147420",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trip+Noose&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trip+Noose&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Trip+Noose",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Trip+Noose"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18827&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trip+Noose&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29555?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

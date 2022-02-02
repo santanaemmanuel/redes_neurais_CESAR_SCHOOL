@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "e6a2881f-e771-47d7-a39e-692054ee727f",
+  "oracle_id": "2441696b-a9ba-4813-ba2e-e71f85281d05",
+  "multiverse_ids": [
+    147439
+  ],
+  "mtgo_id": 29575,
+  "mtgo_foil_id": 29576,
+  "tcgplayer_id": 18844,
+  "cardmarket_id": 19259,
+  "name": "Wilt-Leaf Liege",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/e6a2881f-e771-47d7-a39e-692054ee727f",
+  "scryfall_uri": "https://scryfall.com/card/shm/245/wilt-leaf-liege?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.jpg?1562837507",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.jpg?1562837507",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.jpg?1562837507",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.png?1562837507",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.jpg?1562837507",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6a2881f-e771-47d7-a39e-692054ee727f.jpg?1562837507"
+  },
+  "mana_cost": "{1}{G/W}{G/W}{G/W}",
+  "cmc": 4.0,
+  "type_line": "Creature — Elf Knight",
+  "oracle_text": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\nIf a spell or ability an opponent controls causes you to discard Wilt-Leaf Liege, put it onto the battlefield instead of putting it into your graveyard.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e6a2881f-e771-47d7-a39e-692054ee727f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2441696b-a9ba-4813-ba2e-e71f85281d05&unique=prints",
+  "collector_number": "245",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Chan",
+  "artist_ids": [
+    "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+  ],
+  "illustration_id": "0c92b791-dd41-447b-b740-37a7e51d9aac",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6787,
+  "prices": {
+    "usd": "2.71",
+    "usd_foil": "10.99",
+    "usd_etched": null,
+    "eur": "1.63",
+    "eur_foil": "9.00",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147439",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wilt-Leaf+Liege&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wilt-Leaf+Liege&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wilt-Leaf+Liege",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wilt-Leaf+Liege"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18844&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wilt-Leaf+Liege&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29575?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

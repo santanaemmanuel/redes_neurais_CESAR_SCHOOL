@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96",
+  "oracle_id": "7fff5224-c002-4a32-86fe-9a4b18d78b50",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111245,
+  "cardmarket_id": 287621,
+  "name": "Hissing Quagmire",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96",
+  "scryfall_uri": "https://scryfall.com/card/pogw/171s/hissing-quagmire?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.jpg?1562871696",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.jpg?1562871696",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.jpg?1562871696",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.png?1562871696",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.jpg?1562871696",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96.jpg?1562871696"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Hissing Quagmire enters the battlefield tapped.\n{T}: Add {B} or {G}.\n{1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b04848a9-2a9b-4b0f-89dd-cc7d2b54fc96/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fff5224-c002-4a32-86fe-9a4b18d78b50&unique=prints",
+  "collector_number": "171s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cliff Childs",
+  "artist_ids": [
+    "ed6f7e03-20ba-4c73-bdda-4a4928480721"
+  ],
+  "illustration_id": "2ae46d29-b922-4a9f-a75c-d9b181995b78",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2734,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.97",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "4.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hissing+Quagmire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hissing+Quagmire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Hissing+Quagmire",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hissing+Quagmire"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111245&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hissing+Quagmire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hissing+Quagmire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

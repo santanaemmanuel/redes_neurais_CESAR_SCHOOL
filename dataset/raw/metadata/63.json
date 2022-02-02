@@ -1,0 +1,162 @@
+{
+  "object": "card",
+  "id": "1ccee594-e1e6-4a82-bc17-93bcdeb36198",
+  "oracle_id": "240300bd-5088-43c5-a873-290507515843",
+  "multiverse_ids": [
+
+  ],
+  "arena_id": 66613,
+  "tcgplayer_id": 145816,
+  "name": "Dinosaur",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/1ccee594-e1e6-4a82-bc17-93bcdeb36198",
+  "scryfall_uri": "https://scryfall.com/card/txln/5/dinosaur?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.png?1562539756",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/c/1ccee594-e1e6-4a82-bc17-93bcdeb36198.jpg?1562539756"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Dinosaur",
+  "oracle_text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "a0cc61ba-e91a-4b30-841c-cae8dd288b40",
+      "component": "combo_piece",
+      "name": "Huatli, Warrior Poet",
+      "type_line": "Legendary Planeswalker — Huatli",
+      "uri": "https://api.scryfall.com/cards/a0cc61ba-e91a-4b30-841c-cae8dd288b40"
+    },
+    {
+      "object": "related_card",
+      "id": "8093e88d-fd3c-43d3-a025-9ebb9f02a84f",
+      "component": "combo_piece",
+      "name": "Raptor Hatchling",
+      "type_line": "Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/8093e88d-fd3c-43d3-a025-9ebb9f02a84f"
+    },
+    {
+      "object": "related_card",
+      "id": "d6a322c5-aa4c-4a99-a3ca-48c1353104f0",
+      "component": "combo_piece",
+      "name": "Regisaur Alpha",
+      "type_line": "Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/d6a322c5-aa4c-4a99-a3ca-48c1353104f0"
+    },
+    {
+      "object": "related_card",
+      "id": "35711da6-aac4-4c2a-b324-aebeaa843adc",
+      "component": "combo_piece",
+      "name": "Thundering Spineback",
+      "type_line": "Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/35711da6-aac4-4c2a-b324-aebeaa843adc"
+    },
+    {
+      "object": "related_card",
+      "id": "1ccee594-e1e6-4a82-bc17-93bcdeb36198",
+      "component": "token",
+      "name": "Dinosaur",
+      "type_line": "Token Creature — Dinosaur",
+      "uri": "https://api.scryfall.com/cards/1ccee594-e1e6-4a82-bc17-93bcdeb36198"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set": "txln",
+  "set_name": "Ixalan Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/txln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1ccee594-e1e6-4a82-bc17-93bcdeb36198/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A240300bd-5088-43c5-a873-290507515843&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "a1b44953-2756-447d-a357-e9399d373c4a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dinosaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dinosaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Dinosaur",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dinosaur"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145816&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dinosaur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dinosaur&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

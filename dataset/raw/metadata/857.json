@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "ff8f26e6-ce0d-4886-98dd-166ca49f1f4b",
+  "oracle_id": "c0c96c7a-02d8-40cb-a08b-4a2a3b631eef",
+  "multiverse_ids": [
+    425976
+  ],
+  "mtgo_id": 63397,
+  "mtgo_foil_id": 63398,
+  "tcgplayer_id": 128837,
+  "cardmarket_id": 296003,
+  "name": "Auger Spree",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b",
+  "scryfall_uri": "https://scryfall.com/card/mm3/151/auger-spree?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.jpg?1593814117",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.jpg?1593814117",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.jpg?1593814117",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.png?1593814117",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.jpg?1593814117",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/f/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b.jpg?1593814117"
+  },
+  "mana_cost": "{1}{B}{R}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets +4/-4 until end of turn.",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ff8f26e6-ce0d-4886-98dd-166ca49f1f4b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac0c96c7a-02d8-40cb-a08b-4a2a3b631eef&unique=prints",
+  "collector_number": "151",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Finally, a weapon the Boros can't confiscate!\"\n—Juri, proprietor of the Juri Revue",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "b950a90c-c236-40f3-a978-2c2a82f3738b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14070,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.14",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.10",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425976",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Auger+Spree&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Auger+Spree&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Auger+Spree",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Auger+Spree"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128837&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Auger+Spree&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63397?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

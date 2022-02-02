@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "3741510d-a210-432c-a95b-a147689df995",
+  "oracle_id": "8bb2ac6c-20aa-46dd-883f-b629855cabb0",
+  "multiverse_ids": [
+    25493
+  ],
+  "tcgplayer_id": 37772,
+  "name": "Durkwood Boars",
+  "lang": "en",
+  "released_at": "2000-04-01",
+  "uri": "https://api.scryfall.com/cards/3741510d-a210-432c-a95b-a147689df995",
+  "scryfall_uri": "https://scryfall.com/card/s00/38/durkwood-boars?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/7/3741510d-a210-432c-a95b-a147689df995.jpg?1562133663",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/3741510d-a210-432c-a95b-a147689df995.jpg?1562133663",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/7/3741510d-a210-432c-a95b-a147689df995.jpg?1562133663",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/3741510d-a210-432c-a95b-a147689df995.png?1562133663",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/7/3741510d-a210-432c-a95b-a147689df995.jpg?1562133663",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/7/3741510d-a210-432c-a95b-a147689df995.jpg?1562133663"
+  },
+  "mana_cost": "{4}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature — Boar",
+  "oracle_text": "",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1c105623-2564-40d7-a3aa-4134787fb127",
+  "set": "s00",
+  "set_name": "Starter 2000",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/1c105623-2564-40d7-a3aa-4134787fb127",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3As00&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/s00?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3741510d-a210-432c-a95b-a147689df995/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8bb2ac6c-20aa-46dd-883f-b629855cabb0&unique=prints",
+  "collector_number": "38",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"And the unclean spirits went out, and entered the swine: and the herd ran violently . . . .\"\n—*The Bible*, Mark 5:13",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Kimble",
+  "artist_ids": [
+    "06235390-cfc9-4418-827c-02d890bf54e5"
+  ],
+  "illustration_id": "5bd90ea8-6521-48e9-80d0-4f4b4b5a9489",
+  "border_color": "white",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 18695,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25493",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Durkwood+Boars&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Durkwood+Boars&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Durkwood+Boars",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Durkwood+Boars"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=37772&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Durkwood+Boars&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Durkwood+Boars&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "3d24be94-9922-43bb-83c8-98090adc3f32",
+  "oracle_id": "3ab3996f-aa3f-4041-8634-8e197d51f108",
+  "multiverse_ids": [
+    146053
+  ],
+  "mtgo_id": 29447,
+  "mtgo_foil_id": 29448,
+  "tcgplayer_id": 18701,
+  "cardmarket_id": 19026,
+  "name": "Mass Calcify",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/3d24be94-9922-43bb-83c8-98090adc3f32",
+  "scryfall_uri": "https://scryfall.com/card/shm/12/mass-calcify?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.jpg?1562829041",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.jpg?1562829041",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.jpg?1562829041",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.png?1562829041",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.jpg?1562829041",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/d/3d24be94-9922-43bb-83c8-98090adc3f32.jpg?1562829041"
+  },
+  "mana_cost": "{5}{W}{W}",
+  "cmc": 7.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all nonwhite creatures.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3d24be94-9922-43bb-83c8-98090adc3f32/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ab3996f-aa3f-4041-8634-8e197d51f108&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The dead serve as their own tombstones.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brandon Kitkouski",
+  "artist_ids": [
+    "0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20"
+  ],
+  "illustration_id": "e7666531-b9c6-40f8-bde9-4eaaf76d4fa5",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3122,
+  "prices": {
+    "usd": "1.05",
+    "usd_foil": "3.21",
+    "usd_etched": null,
+    "eur": "0.60",
+    "eur_foil": "2.50",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146053",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mass+Calcify&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mass+Calcify&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mass+Calcify",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mass+Calcify"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18701&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mass+Calcify&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29447?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

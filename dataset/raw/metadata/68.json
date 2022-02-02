@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "2d7fc721-6b5b-4920-86fa-0fbfd90adaf5",
+  "oracle_id": "3fb1576f-b9e7-4150-ab6e-2c1e56ac1c57",
+  "multiverse_ids": [
+
+  ],
+  "arena_id": 66612,
+  "tcgplayer_id": 145815,
+  "name": "Pirate",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5",
+  "scryfall_uri": "https://scryfall.com/card/txln/4/pirate?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.jpg?1562539764",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.jpg?1562539764",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.jpg?1562539764",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.png?1562539764",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.jpg?1562539764",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/d/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5.jpg?1562539764"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Pirate",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "36cd7467-ff8c-4a92-ae55-6894213d6c0b",
+      "component": "combo_piece",
+      "name": "Fathom Fleet Captain",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/36cd7467-ff8c-4a92-ae55-6894213d6c0b"
+    },
+    {
+      "object": "related_card",
+      "id": "967b7272-33a6-46e9-b0aa-4757aee54b3a",
+      "component": "combo_piece",
+      "name": "Vraska, Relic Seeker",
+      "type_line": "Legendary Planeswalker — Vraska",
+      "uri": "https://api.scryfall.com/cards/967b7272-33a6-46e9-b0aa-4757aee54b3a"
+    },
+    {
+      "object": "related_card",
+      "id": "2d7fc721-6b5b-4920-86fa-0fbfd90adaf5",
+      "component": "token",
+      "name": "Pirate",
+      "type_line": "Token Creature — Pirate",
+      "uri": "https://api.scryfall.com/cards/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set": "txln",
+  "set_name": "Ixalan Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/txln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2d7fc721-6b5b-4920-86fa-0fbfd90adaf5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3fb1576f-b9e7-4150-ab6e-2c1e56ac1c57&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Matt Stewart",
+  "artist_ids": [
+    "20871267-2d8a-41d5-b03a-be3d557c5734"
+  ],
+  "illustration_id": "2f4ee680-0d31-4347-a435-b5fcfd1111e8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pirate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pirate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Pirate",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pirate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145815&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pirate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pirate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

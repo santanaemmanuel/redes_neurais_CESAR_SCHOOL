@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "a58e1c71-b0e1-4c03-97cc-330e3ef94e52",
+  "oracle_id": "61ce6ec1-79d8-4dc9-ab2d-1623ed1459c1",
+  "multiverse_ids": [
+    429919
+  ],
+  "mtgo_id": 64354,
+  "mtgo_foil_id": 64355,
+  "tcgplayer_id": 131410,
+  "cardmarket_id": 297422,
+  "name": "Wing Snare",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/a58e1c71-b0e1-4c03-97cc-330e3ef94e52",
+  "scryfall_uri": "https://scryfall.com/card/w17/30/wing-snare?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.jpg?1562199999",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.jpg?1562199999",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.jpg?1562199999",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.png?1562199999",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.jpg?1562199999",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/5/a58e1c71-b0e1-4c03-97cc-330e3ef94e52.jpg?1562199999"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target creature with flying.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a58e1c71-b0e1-4c03-97cc-330e3ef94e52/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61ce6ec1-79d8-4dc9-ab2d-1623ed1459c1&unique=prints",
+  "collector_number": "30",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"We are the hands of the great trees, reaching out to ensnare what threatens their branches.\"\n—Elvish hunter",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "a0b07a07-e7b9-41d6-9fb9-b2eafdde7147",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 19118,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429919",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wing+Snare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wing+Snare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wing+Snare",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wing+Snare"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131410&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wing+Snare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64354?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

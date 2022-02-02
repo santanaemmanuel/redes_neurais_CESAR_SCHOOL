@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "89936685-8647-4a65-b764-62fc4b49293a",
+  "oracle_id": "ef75be00-1a88-47a1-a1ae-fe2c9881a798",
+  "multiverse_ids": [
+    425891
+  ],
+  "mtgo_id": 63405,
+  "mtgo_foil_id": 63406,
+  "tcgplayer_id": 128861,
+  "cardmarket_id": 295941,
+  "name": "Desecration Demon",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/89936685-8647-4a65-b764-62fc4b49293a",
+  "scryfall_uri": "https://scryfall.com/card/mm3/66/desecration-demon?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.jpg?1593813255",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.jpg?1593813255",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.jpg?1593813255",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.png?1593813255",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.jpg?1593813255",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/9/89936685-8647-4a65-b764-62fc4b49293a.jpg?1593813255"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Demon",
+  "oracle_text": "Flying\nAt the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/89936685-8647-4a65-b764-62fc4b49293a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef75be00-1a88-47a1-a1ae-fe2c9881a798&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Chan",
+  "artist_ids": [
+    "8062d5a9-51b6-4822-933f-fa9e9dba8416"
+  ],
+  "illustration_id": "ad2e7974-3c8a-4e76-aa00-c6f309173374",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5424,
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": "1.58",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "1.25",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425891",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Desecration+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Desecration+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Desecration+Demon",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Desecration+Demon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128861&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Desecration+Demon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63405?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

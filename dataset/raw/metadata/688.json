@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "ba346a90-18a5-4fb7-af3a-df3f8a824e3e",
+  "oracle_id": "17c651c7-da4e-45e9-9a64-fad3e873123d",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111263,
+  "cardmarket_id": 287588,
+  "name": "Reality Smasher",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/ba346a90-18a5-4fb7-af3a-df3f8a824e3e",
+  "scryfall_uri": "https://scryfall.com/card/pogw/7s/reality-smasher?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.jpg?1562871713",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.jpg?1562871713",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.jpg?1562871713",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.png?1562871713",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.jpg?1562871713",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba346a90-18a5-4fb7-af3a-df3f8a824e3e.jpg?1562871713"
+  },
+  "mana_cost": "{4}{C}",
+  "cmc": 5.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "({C} represents colorless mana.)\nTrample, haste\nWhenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+    "Haste",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ba346a90-18a5-4fb7-af3a-df3f8a824e3e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A17c651c7-da4e-45e9-9a64-fad3e873123d&unique=prints",
+  "collector_number": "7s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "As easy to stop as it is to comprehend.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "09822f06-857d-4067-8fb8-2c95f9d1533e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 5572,
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.92",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "6.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reality+Smasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reality+Smasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Reality+Smasher",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Reality+Smasher"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111263&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reality+Smasher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reality+Smasher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

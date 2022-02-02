@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "4b11f693-716e-41de-a0ea-2a5178a284dc",
+  "oracle_id": "58aec411-167d-4709-8560-793eaaed62c5",
+  "multiverse_ids": [
+    425865
+  ],
+  "mtgo_id": 63055,
+  "mtgo_foil_id": 63056,
+  "tcgplayer_id": 128644,
+  "cardmarket_id": 295874,
+  "name": "Gifts Ungiven",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/4b11f693-716e-41de-a0ea-2a5178a284dc",
+  "scryfall_uri": "https://scryfall.com/card/mm3/40/gifts-ungiven?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.png?1627449105",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4b11f693-716e-41de-a0ea-2a5178a284dc.jpg?1627449105"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "banned",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b11f693-716e-41de-a0ea-2a5178a284dc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A58aec411-167d-4709-8560-793eaaed62c5&unique=prints",
+  "collector_number": "40",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "D. Alexander Gregory",
+  "artist_ids": [
+    "38433e15-f0f5-4223-a985-2d13c4aa0922"
+  ],
+  "illustration_id": "2342c919-2122-4c81-9c64-db7be44e676a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "1.72",
+    "usd_foil": "3.71",
+    "usd_etched": null,
+    "eur": "0.65",
+    "eur_foil": "2.80",
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425865",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gifts+Ungiven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gifts+Ungiven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Gifts+Ungiven",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Gifts+Ungiven"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128644&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gifts+Ungiven&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63055?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

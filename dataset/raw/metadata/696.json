@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "abe0031a-d8ed-4ff8-9f24-2f553063f119",
+  "oracle_id": "0c2a9131-f3d7-4f71-8bcc-3c169574b2e3",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111228,
+  "cardmarket_id": 287634,
+  "name": "Chandra, Flamecaller",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/abe0031a-d8ed-4ff8-9f24-2f553063f119",
+  "scryfall_uri": "https://scryfall.com/card/pogw/104s/chandra-flamecaller?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.jpg?1562871691",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.jpg?1562871691",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.jpg?1562871691",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.png?1562871691",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.jpg?1562871691",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/b/abe0031a-d8ed-4ff8-9f24-2f553063f119.jpg?1562871691"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6.0,
+  "type_line": "Legendary Planeswalker — Chandra",
+  "oracle_text": "+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.\n0: Discard all the cards in your hand, then draw that many cards plus one.\n−X: Chandra, Flamecaller deals X damage to each creature.",
+  "loyalty": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "49fdd0d3-7140-4c12-a41c-37eedd986d9e",
+      "component": "combo_piece",
+      "name": "Chandra, Flamecaller",
+      "type_line": "Legendary Planeswalker — Chandra",
+      "uri": "https://api.scryfall.com/cards/49fdd0d3-7140-4c12-a41c-37eedd986d9e"
+    },
+    {
+      "object": "related_card",
+      "id": "bc6f27f7-0248-4c04-8022-41073966e4d8",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/bc6f27f7-0248-4c04-8022-41073966e4d8"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/abe0031a-d8ed-4ff8-9f24-2f553063f119/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c2a9131-f3d7-4f71-8bcc-3c169574b2e3&unique=prints",
+  "collector_number": "104s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "cfa43dc0-2fab-48ec-890c-448b9bf3ada7",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2447,
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.16",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "4.90",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chandra%2C+Flamecaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chandra%2C+Flamecaller&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Chandra%2C+Flamecaller",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Chandra%2C+Flamecaller"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111228&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chandra%2C+Flamecaller&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chandra%2C+Flamecaller&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

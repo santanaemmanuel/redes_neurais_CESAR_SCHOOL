@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "535189ec-572f-44ed-9741-09b9f575fc40",
+  "oracle_id": "d6b67c7e-3b24-4f60-8e3a-c6ca45229d7f",
+  "multiverse_ids": [
+    147379
+  ],
+  "mtgo_id": 29529,
+  "mtgo_foil_id": 29530,
+  "tcgplayer_id": 18851,
+  "cardmarket_id": 19237,
+  "name": "Wort, the Raidmother",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/535189ec-572f-44ed-9741-09b9f575fc40",
+  "scryfall_uri": "https://scryfall.com/card/shm/223/wort-the-raidmother?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.jpg?1562830219",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.jpg?1562830219",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.jpg?1562830219",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.png?1562830219",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.jpg?1562830219",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/535189ec-572f-44ed-9741-09b9f575fc40.jpg?1562830219"
+  },
+  "mana_cost": "{4}{R/G}{R/G}",
+  "cmc": 6.0,
+  "type_line": "Legendary Creature — Goblin Shaman",
+  "oracle_text": "When Wort, the Raidmother enters the battlefield, create two 1/1 red and green Goblin Warrior creature tokens.\nEach red or green instant or sorcery spell you cast has conspire. (As you cast the spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "535189ec-572f-44ed-9741-09b9f575fc40",
+      "component": "combo_piece",
+      "name": "Wort, the Raidmother",
+      "type_line": "Legendary Creature — Goblin Shaman",
+      "uri": "https://api.scryfall.com/cards/535189ec-572f-44ed-9741-09b9f575fc40"
+    },
+    {
+      "object": "related_card",
+      "id": "e36334f1-afe3-497c-82d9-aaf149934b54",
+      "component": "token",
+      "name": "Goblin Warrior",
+      "type_line": "Token Creature — Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/e36334f1-afe3-497c-82d9-aaf149934b54"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/535189ec-572f-44ed-9741-09b9f575fc40/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad6b67c7e-3b24-4f60-8e3a-c6ca45229d7f&unique=prints",
+  "collector_number": "223",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Allsop",
+  "artist_ids": [
+    "99b8310a-4fd6-4ded-8ab7-3b5185821cbe"
+  ],
+  "illustration_id": "7d46dda1-a2fa-4035-a4ce-d94e3689ff97",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4100,
+  "prices": {
+    "usd": "0.59",
+    "usd_foil": "24.39",
+    "usd_etched": null,
+    "eur": "0.70",
+    "eur_foil": "10.00",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147379",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wort%2C+the+Raidmother&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wort%2C+the+Raidmother&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wort%2C+the+Raidmother",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wort%2C+the+Raidmother"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18851&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wort%2C+the+Raidmother&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29529?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

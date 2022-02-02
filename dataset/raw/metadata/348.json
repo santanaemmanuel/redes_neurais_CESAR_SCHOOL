@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "54040bc6-dd7c-4933-bfac-d0d6d2c78157",
+  "oracle_id": "9b598025-80a3-4144-be9a-863165161594",
+  "multiverse_ids": [
+    158762
+  ],
+  "mtgo_id": 29827,
+  "mtgo_foil_id": 29828,
+  "tcgplayer_id": 18787,
+  "cardmarket_id": 19256,
+  "name": "Shield of the Oversoul",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/54040bc6-dd7c-4933-bfac-d0d6d2c78157",
+  "scryfall_uri": "https://scryfall.com/card/shm/242/shield-of-the-oversoul?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.png?1562830242",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54040bc6-dd7c-4933-bfac-d0d6d2c78157.jpg?1562830242"
+  },
+  "mana_cost": "{2}{G/W}",
+  "cmc": 3.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nAs long as enchanted creature is green, it gets +1/+1 and has indestructible. (Damage and effects that say \"destroy\" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)\nAs long as enchanted creature is white, it gets +1/+1 and has flying.",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/54040bc6-dd7c-4933-bfac-d0d6d2c78157/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b598025-80a3-4144-be9a-863165161594&unique=prints",
+  "collector_number": "242",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "d3fb0b80-7597-4728-a7f1-d2c32adff29e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2522,
+  "prices": {
+    "usd": "4.35",
+    "usd_foil": "17.53",
+    "usd_etched": null,
+    "eur": "1.73",
+    "eur_foil": "4.50",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158762",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shield+of+the+Oversoul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shield+of+the+Oversoul&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Shield+of+the+Oversoul",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Shield+of+the+Oversoul"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18787&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shield+of+the+Oversoul&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29827?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

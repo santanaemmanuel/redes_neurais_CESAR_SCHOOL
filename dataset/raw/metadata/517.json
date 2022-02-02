@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "8d149ede-3201-451a-a640-d0c10b024dbc",
+  "oracle_id": "fe340efa-6b69-4ccc-a13c-3688f1c44c29",
+  "multiverse_ids": [
+    464168
+  ],
+  "mtgo_id": 72810,
+  "tcgplayer_id": 191737,
+  "cardmarket_id": 375717,
+  "name": "Amorphous Axe",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/8d149ede-3201-451a-a640-d0c10b024dbc",
+  "scryfall_uri": "https://scryfall.com/card/mh1/219/amorphous-axe?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1562202440",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1562202440",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1562202440",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.png?1562202440",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1562202440",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d149ede-3201-451a-a640-d0c10b024dbc.jpg?1562202440"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact — Equipment",
+  "oracle_text": "Equipped creature gets +3/+0 and is every creature type.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8d149ede-3201-451a-a640-d0c10b024dbc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afe340efa-6b69-4ccc-a13c-3688f1c44c29&unique=prints",
+  "collector_number": "219",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A weapon forged for every hand.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Martina Pilcerova",
+  "artist_ids": [
+    "30fead7c-da53-4c1b-b514-4be6e5ce487c"
+  ],
+  "illustration_id": "d7044ee9-d5c5-4bb9-ba4b-5ca068a9709c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7986,
+  "prices": {
+    "usd": "0.01",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.09",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464168",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Amorphous+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Amorphous+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Amorphous+Axe",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Amorphous+Axe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191737&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Amorphous+Axe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72810?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

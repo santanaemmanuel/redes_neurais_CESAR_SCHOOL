@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "8d1e1127-a8f3-4a07-bba5-a44166cb7abc",
+  "oracle_id": "fb37ff1c-7461-4a16-b27f-6eef0db937fe",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38198,
+  "cardmarket_id": 22334,
+  "name": "Kor Firewalker",
+  "lang": "en",
+  "released_at": "2010-01-01",
+  "uri": "https://api.scryfall.com/cards/8d1e1127-a8f3-4a07-bba5-a44166cb7abc",
+  "scryfall_uri": "https://scryfall.com/card/pw10/36/kor-firewalker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1562448782",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1562448782",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1562448782",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.png?1562448782",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1562448782",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d1e1127-a8f3-4a07-bba5-a44166cb7abc.jpg?1562448782"
+  },
+  "mana_cost": "{W}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Kor Soldier",
+  "oracle_text": "Protection from red\nWhenever a player casts a red spell, you may gain 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Protection"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set": "pw10",
+  "set_name": "Wizards Play Network 2010",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apw10&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pw10?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8d1e1127-a8f3-4a07-bba5-a44166cb7abc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb37ff1c-7461-4a16-b27f-6eef0db937fe&unique=prints",
+  "collector_number": "36",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "dci",
+  "flavor_text": "\"A river of lava is just another river to cross.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Horley-Orlandelli",
+  "artist_ids": [
+    "1631a2ad-bf03-4ab9-b86c-60da982d58a1"
+  ],
+  "illustration_id": "40a079c5-6260-4f4e-b19d-fda497a8f752",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "wizardsplaynetwork"
+  ],
+  "edhrec_rank": 14557,
+  "prices": {
+    "usd": null,
+    "usd_foil": "3.82",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.30",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kor+Firewalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kor+Firewalker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Kor+Firewalker",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kor+Firewalker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38198&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kor+Firewalker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kor+Firewalker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

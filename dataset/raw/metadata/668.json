@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b8d396f8-9a57-49b4-ac7b-94de350b5343",
+  "oracle_id": "bab0ab8d-74d2-49a3-b258-b93d19925d99",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 110652,
+  "cardmarket_id": 287195,
+  "name": "Goblin Dark-Dwellers",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/b8d396f8-9a57-49b4-ac7b-94de350b5343",
+  "scryfall_uri": "https://scryfall.com/card/pogw/110/goblin-dark-dwellers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.jpg?1562871709",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.jpg?1562871709",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.jpg?1562871709",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.png?1562871709",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.jpg?1562871709",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8d396f8-9a57-49b4-ac7b-94de350b5343.jpg?1562871709"
+  },
+  "mana_cost": "{3}{R}{R}",
+  "cmc": 5.0,
+  "type_line": "Creature — Goblin",
+  "oracle_text": "Menace\nWhen Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8d396f8-9a57-49b4-ac7b-94de350b5343/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abab0ab8d-74d2-49a3-b258-b93d19925d99&unique=prints",
+  "collector_number": "110",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "colorpie",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Karl Kopinski",
+  "artist_ids": [
+    "0fad2c48-a56e-4a0b-b512-224f6f238f20"
+  ],
+  "illustration_id": "560ec2fa-446a-4c40-810c-a8944fc76c96",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "buyabox"
+  ],
+  "edhrec_rank": 5153,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.10",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Dark-Dwellers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Dark-Dwellers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Dark-Dwellers",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Goblin+Dark-Dwellers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=110652&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Dark-Dwellers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Dark-Dwellers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "adce41c5-3a43-4fe0-b84e-8baaad1a0777",
+  "oracle_id": "1c2cc166-dc59-44ce-86d5-ed6013b0bf67",
+  "multiverse_ids": [
+    146002
+  ],
+  "mtgo_id": 29413,
+  "mtgo_foil_id": 29414,
+  "tcgplayer_id": 18615,
+  "cardmarket_id": 19079,
+  "name": "Dusk Urchins",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/adce41c5-3a43-4fe0-b84e-8baaad1a0777",
+  "scryfall_uri": "https://scryfall.com/card/shm/65/dusk-urchins?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.jpg?1562834637",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.jpg?1562834637",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.jpg?1562834637",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.png?1562834637",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.jpg?1562834637",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/d/adce41c5-3a43-4fe0-b84e-8baaad1a0777.jpg?1562834637"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Ouphe",
+  "oracle_text": "Whenever Dusk Urchins attacks or blocks, put a -1/-1 counter on it.\nWhen Dusk Urchins dies, draw a card for each -1/-1 counter on it.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/adce41c5-3a43-4fe0-b84e-8baaad1a0777/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1c2cc166-dc59-44ce-86d5-ed6013b0bf67&unique=prints",
+  "collector_number": "65",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "They spawn from shadow, wreaking chaos until shadow claims them again.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Darrell Riche",
+  "artist_ids": [
+    "262c8e55-4efc-467b-a042-6f734b9d2e01"
+  ],
+  "illustration_id": "f022f29c-50b1-4a91-af7e-5c2e2d0f0142",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6693,
+  "prices": {
+    "usd": "4.51",
+    "usd_foil": "12.85",
+    "usd_etched": null,
+    "eur": "4.72",
+    "eur_foil": "9.99",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146002",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dusk+Urchins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dusk+Urchins&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Dusk+Urchins",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dusk+Urchins"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18615&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dusk+Urchins&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29413?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

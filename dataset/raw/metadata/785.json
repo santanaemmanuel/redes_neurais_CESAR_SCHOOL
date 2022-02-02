@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "993e42f4-fc60-4e37-8f69-7b82bb9e5d60",
+  "oracle_id": "5cbbb3f3-63a4-4983-81ea-8c405b10e63f",
+  "multiverse_ids": [
+    426025
+  ],
+  "mtgo_id": 63439,
+  "mtgo_foil_id": 63440,
+  "tcgplayer_id": 128664,
+  "cardmarket_id": 295880,
+  "name": "Voice of Resurgence",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/993e42f4-fc60-4e37-8f69-7b82bb9e5d60",
+  "scryfall_uri": "https://scryfall.com/card/mm3/200/voice-of-resurgence?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.jpg?1593814730",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.jpg?1593814730",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.jpg?1593814730",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.png?1593814730",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.jpg?1593814730",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/993e42f4-fc60-4e37-8f69-7b82bb9e5d60.jpg?1593814730"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, create a green and white Elemental creature token with \"This creature's power and toughness are each equal to the number of creatures you control.\"",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "993e42f4-fc60-4e37-8f69-7b82bb9e5d60",
+      "component": "combo_piece",
+      "name": "Voice of Resurgence",
+      "type_line": "Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/993e42f4-fc60-4e37-8f69-7b82bb9e5d60"
+    },
+    {
+      "object": "related_card",
+      "id": "04b980ff-02ad-447e-8815-16cd0112ce60",
+      "component": "token",
+      "name": "Elemental",
+      "type_line": "Token Creature — Elemental",
+      "uri": "https://api.scryfall.com/cards/04b980ff-02ad-447e-8815-16cd0112ce60"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/993e42f4-fc60-4e37-8f69-7b82bb9e5d60/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5cbbb3f3-63a4-4983-81ea-8c405b10e63f&unique=prints",
+  "collector_number": "200",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Winona Nelson",
+  "artist_ids": [
+    "e45fe8d3-75d6-42c9-a2df-e945ad81ea27"
+  ],
+  "illustration_id": "a29db2ad-9e83-405c-9732-61c173623e94",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4726,
+  "prices": {
+    "usd": "3.19",
+    "usd_foil": "5.73",
+    "usd_etched": null,
+    "eur": "2.93",
+    "eur_foil": "6.50",
+    "tix": "1.16"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426025",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Voice+of+Resurgence&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Voice+of+Resurgence&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Voice+of+Resurgence",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Voice+of+Resurgence"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128664&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Voice+of+Resurgence&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63439?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

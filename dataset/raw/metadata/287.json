@@ -1,0 +1,141 @@
+{
+  "object": "card",
+  "id": "0fa3dd33-7240-4b32-b5ee-a67f24b42e4d",
+  "oracle_id": "894a220b-1372-4a76-b38f-bf0d7001af41",
+  "multiverse_ids": [
+    158693
+  ],
+  "mtgo_id": 29793,
+  "mtgo_foil_id": 29794,
+  "tcgplayer_id": 18643,
+  "cardmarket_id": 19221,
+  "name": "Giantbaiting",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d",
+  "scryfall_uri": "https://scryfall.com/card/shm/207/giantbaiting?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.jpg?1562826809",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.jpg?1562826809",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.jpg?1562826809",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.png?1562826809",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.jpg?1562826809",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/f/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d.jpg?1562826809"
+  },
+  "mana_cost": "{2}{R/G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 4/4 red and green Giant Warrior creature token with haste. Exile it at the beginning of the next end step.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Conspire"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "0fa3dd33-7240-4b32-b5ee-a67f24b42e4d",
+      "component": "combo_piece",
+      "name": "Giantbaiting",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d"
+    },
+    {
+      "object": "related_card",
+      "id": "6f84b406-112d-4b01-8500-60391692a17e",
+      "component": "token",
+      "name": "Giant Warrior",
+      "type_line": "Token Creature — Giant Warrior",
+      "uri": "https://api.scryfall.com/cards/6f84b406-112d-4b01-8500-60391692a17e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0fa3dd33-7240-4b32-b5ee-a67f24b42e4d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A894a220b-1372-4a76-b38f-bf0d7001af41&unique=prints",
+  "collector_number": "207",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Trevor Hairsine",
+  "artist_ids": [
+    "7c1d7b59-dbf1-4ca8-9975-8e01c593da6e"
+  ],
+  "illustration_id": "7499adbf-04c1-426e-80e3-70fb75167d2d",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17797,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.55",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.24",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158693",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giantbaiting&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giantbaiting&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Giantbaiting",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Giantbaiting"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18643&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giantbaiting&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29793?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

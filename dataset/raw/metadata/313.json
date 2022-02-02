@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "07cb3ab2-6d34-4cbf-ad46-070516a7cc54",
+  "oracle_id": "564c785b-c2fb-4857-a5bf-a14ae2cf6c93",
+  "multiverse_ids": [
+    142067
+  ],
+  "mtgo_id": 29405,
+  "mtgo_foil_id": 29406,
+  "tcgplayer_id": 18783,
+  "cardmarket_id": 19277,
+  "name": "Scuttlemutt",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/07cb3ab2-6d34-4cbf-ad46-070516a7cc54",
+  "scryfall_uri": "https://scryfall.com/card/shm/263/scuttlemutt?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.jpg?1562826446",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.jpg?1562826446",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.jpg?1562826446",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.png?1562826446",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.jpg?1562826446",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/7/07cb3ab2-6d34-4cbf-ad46-070516a7cc54.jpg?1562826446"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3.0,
+  "type_line": "Artifact Creature — Scarecrow",
+  "oracle_text": "{T}: Add one mana of any color.\n{T}: Target creature becomes the color or colors of your choice until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/07cb3ab2-6d34-4cbf-ad46-070516a7cc54/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A564c785b-c2fb-4857-a5bf-a14ae2cf6c93&unique=prints",
+  "collector_number": "263",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Built to shuttle goods from the river, it took off one day carrying a cauldron of dyes.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jeremy Jarvis",
+  "artist_ids": [
+    "b40ac320-89b4-4c51-a85f-4a4b63ae614e"
+  ],
+  "illustration_id": "7d05eea7-0810-485d-b1b6-fb5bbcd891b9",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4473,
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "2.03",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.88",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142067",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scuttlemutt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scuttlemutt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Scuttlemutt",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scuttlemutt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18783&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scuttlemutt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29405?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

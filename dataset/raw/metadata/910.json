@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "d482d3d5-d4ad-4e0e-ab92-3246cf684d14",
+  "oracle_id": "75df9e6a-a17c-4311-a4e7-ff0d75728337",
+  "multiverse_ids": [
+    425993
+  ],
+  "mtgo_id": 63065,
+  "mtgo_foil_id": 63066,
+  "tcgplayer_id": 128883,
+  "cardmarket_id": 296016,
+  "name": "Golgari Rotwurm",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/d482d3d5-d4ad-4e0e-ab92-3246cf684d14",
+  "scryfall_uri": "https://scryfall.com/card/mm3/168/golgari-rotwurm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.jpg?1593814397",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.jpg?1593814397",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.jpg?1593814397",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.png?1593814397",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.jpg?1593814397",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/4/d482d3d5-d4ad-4e0e-ab92-3246cf684d14.jpg?1593814397"
+  },
+  "mana_cost": "{3}{B}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature — Zombie Wurm",
+  "oracle_text": "{B}, Sacrifice a creature: Target player loses 1 life.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "G"
+  ],
+  "color_identity": [
+    "B",
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d482d3d5-d4ad-4e0e-ab92-3246cf684d14/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75df9e6a-a17c-4311-a4e7-ff0d75728337&unique=prints",
+  "collector_number": "168",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Like corpse-worms through a carapace, rotwurms slide through the hollowed bones of the undercity.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne England",
+  "artist_ids": [
+    "62dc90c0-4bc2-4d42-ad76-59cad9243566"
+  ],
+  "illustration_id": "cacf50be-ac60-4847-8927-d215fe1e1c2f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15104,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.05",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425993",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Golgari+Rotwurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Golgari+Rotwurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Golgari+Rotwurm",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Golgari+Rotwurm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128883&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Golgari+Rotwurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63065?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

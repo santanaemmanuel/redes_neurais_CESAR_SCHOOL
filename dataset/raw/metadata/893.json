@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "711c5c5b-ffab-4a78-9f3a-0b80860b8c53",
+  "oracle_id": "1436dd81-496e-42a5-b210-fb5b9cdf073f",
+  "multiverse_ids": [
+    426051
+  ],
+  "mtgo_id": 63387,
+  "mtgo_foil_id": 63388,
+  "tcgplayer_id": 128657,
+  "cardmarket_id": 295902,
+  "name": "Selesnya Signet",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/711c5c5b-ffab-4a78-9f3a-0b80860b8c53",
+  "scryfall_uri": "https://scryfall.com/card/mm3/226/selesnya-signet?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.jpg?1593814954",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.jpg?1593814954",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.jpg?1593814954",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.png?1593814954",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.jpg?1593814954",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/711c5c5b-ffab-4a78-9f3a-0b80860b8c53.jpg?1593814954"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "{1}, {T}: Add {G}{W}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "G",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/711c5c5b-ffab-4a78-9f3a-0b80860b8c53/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1436dd81-496e-42a5-b210-fb5b9cdf073f&unique=prints",
+  "collector_number": "226",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The symbol of the Conclave is one of unity, with tree supporting sun and sun feeding tree.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raoul Vitale",
+  "artist_ids": [
+    "c7c15d49-f84b-4d98-9a34-e80e8347b756"
+  ],
+  "illustration_id": "87510a68-b5a7-4626-a002-8c3fa33b14e2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 456,
+  "prices": {
+    "usd": "1.61",
+    "usd_foil": "2.98",
+    "usd_etched": null,
+    "eur": "0.29",
+    "eur_foil": "1.74",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426051",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Selesnya+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Selesnya+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Selesnya+Signet",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Selesnya+Signet"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128657&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Selesnya+Signet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63387?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

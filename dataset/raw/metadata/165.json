@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "6f55536d-8573-42c2-9e8a-5a2ce24d1878",
+  "oracle_id": "4d80bac5-ce62-4c5c-873a-ce81d2697842",
+  "multiverse_ids": [
+    158771
+  ],
+  "mtgo_id": 29843,
+  "mtgo_foil_id": 29844,
+  "tcgplayer_id": 18705,
+  "cardmarket_id": 19245,
+  "name": "Mercy Killing",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/6f55536d-8573-42c2-9e8a-5a2ce24d1878",
+  "scryfall_uri": "https://scryfall.com/card/shm/231/mercy-killing?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.jpg?1562831443",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.jpg?1562831443",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.jpg?1562831443",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.png?1562831443",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.jpg?1562831443",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/f/6f55536d-8573-42c2-9e8a-5a2ce24d1878.jpg?1562831443"
+  },
+  "mana_cost": "{2}{G/W}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature's controller sacrifices it, then creates X 1/1 green and white Elf Warrior creature tokens, where X is that creature's power.",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "6f55536d-8573-42c2-9e8a-5a2ce24d1878",
+      "component": "combo_piece",
+      "name": "Mercy Killing",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6f55536d-8573-42c2-9e8a-5a2ce24d1878"
+    },
+    {
+      "object": "related_card",
+      "id": "49180301-f72f-48ca-8be1-df295e89cdd7",
+      "component": "token",
+      "name": "Elf Warrior",
+      "type_line": "Token Creature — Elf Warrior",
+      "uri": "https://api.scryfall.com/cards/49180301-f72f-48ca-8be1-df295e89cdd7"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6f55536d-8573-42c2-9e8a-5a2ce24d1878/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d80bac5-ce62-4c5c-873a-ce81d2697842&unique=prints",
+  "collector_number": "231",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"We will give you the peace you seek, though you may not yet know you seek it.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Kendall",
+  "artist_ids": [
+    "8a5540a8-18c9-4fa9-802c-59d6866114d5"
+  ],
+  "illustration_id": "0954cd38-587e-4166-b4f4-f34d3e2a44a4",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8662,
+  "prices": {
+    "usd": "0.84",
+    "usd_foil": "4.62",
+    "usd_etched": null,
+    "eur": "0.60",
+    "eur_foil": "0.75",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158771",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mercy+Killing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mercy+Killing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mercy+Killing",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mercy+Killing"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18705&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mercy+Killing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29843?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "00c8543f-5c5d-4b1a-ad96-f154f1914608",
+  "oracle_id": "12654457-3aae-4046-a976-8e41c3f78927",
+  "multiverse_ids": [
+    425868
+  ],
+  "mtgo_id": 63347,
+  "mtgo_foil_id": 63348,
+  "tcgplayer_id": 128588,
+  "cardmarket_id": 295853,
+  "name": "Mist Raven",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/00c8543f-5c5d-4b1a-ad96-f154f1914608",
+  "scryfall_uri": "https://scryfall.com/card/mm3/43/mist-raven?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.jpg?1593813089",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.jpg?1593813089",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.jpg?1593813089",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.png?1593813089",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.jpg?1593813089",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/0/00c8543f-5c5d-4b1a-ad96-f154f1914608.jpg?1593813089"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature — Bird",
+  "oracle_text": "Flying\nWhen Mist Raven enters the battlefield, return target creature to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/00c8543f-5c5d-4b1a-ad96-f154f1914608/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A12654457-3aae-4046-a976-8e41c3f78927&unique=prints",
+  "collector_number": "43",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"When you see a raven, head for the hills. It knows when the ghost-tide is headed in.\"\n—Sved, fisherman of Nephalia",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Avon",
+  "artist_ids": [
+    "798f3932-30e0-4420-aa3f-db4d613f89ca"
+  ],
+  "illustration_id": "e245e391-9f34-4dc9-a044-9873c2591f54",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9330,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.10",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425868",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mist+Raven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mist+Raven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mist+Raven",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mist+Raven"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128588&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mist+Raven&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63347?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

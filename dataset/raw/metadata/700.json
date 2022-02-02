@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "937e98ff-1440-4d1a-be98-baa20105c54b",
+  "oracle_id": "83db5c28-e172-4a4d-9324-ed5ade5255bc",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111270,
+  "cardmarket_id": 287619,
+  "name": "Stoneforge Masterwork",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/937e98ff-1440-4d1a-be98-baa20105c54b",
+  "scryfall_uri": "https://scryfall.com/card/pogw/166s/stoneforge-masterwork?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.jpg?1562871667",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.jpg?1562871667",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.jpg?1562871667",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.png?1562871667",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.jpg?1562871667",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/3/937e98ff-1440-4d1a-be98-baa20105c54b.jpg?1562871667"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1.0,
+  "type_line": "Artifact — Equipment",
+  "oracle_text": "Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.\nEquip {2}",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+    "Equip"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/937e98ff-1440-4d1a-be98-baa20105c54b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83db5c28-e172-4a4d-9324-ed5ade5255bc&unique=prints",
+  "collector_number": "166s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The nomadic kor carry only necessities on their long treks. The coming of the Eldrazi redefined \"necessities.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ben Maier",
+  "artist_ids": [
+    "7bc582c5-4733-4022-8cef-844b800be9f7"
+  ],
+  "illustration_id": "32db4d8b-f5ae-490f-a9c7-fcec8924d94b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2520,
+  "prices": {
+    "usd": null,
+    "usd_foil": "5.07",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.45",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stoneforge+Masterwork&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stoneforge+Masterwork&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Stoneforge+Masterwork",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Stoneforge+Masterwork"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111270&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stoneforge+Masterwork&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stoneforge+Masterwork&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

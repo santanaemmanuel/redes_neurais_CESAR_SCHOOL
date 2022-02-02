@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "1045bdc7-6fbb-4b63-9798-a2a993f95bc2",
+  "oracle_id": "89ca686a-7c72-4d8f-9290-e89635624a83",
+  "multiverse_ids": [
+    426057
+  ],
+  "mtgo_id": 63513,
+  "mtgo_foil_id": 63514,
+  "tcgplayer_id": 128633,
+  "cardmarket_id": 295882,
+  "name": "Cavern of Souls",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/1045bdc7-6fbb-4b63-9798-a2a993f95bc2",
+  "scryfall_uri": "https://scryfall.com/card/mm3/232/cavern-of-souls?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.jpg?1593814997",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.jpg?1593814997",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.jpg?1593814997",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.png?1593814997",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.jpg?1593814997",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/0/1045bdc7-6fbb-4b63-9798-a2a993f95bc2.jpg?1593814997"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "As Cavern of Souls enters the battlefield, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "banned",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1045bdc7-6fbb-4b63-9798-a2a993f95bc2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A89ca686a-7c72-4d8f-9290-e89635624a83&unique=prints",
+  "collector_number": "232",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Wright",
+  "artist_ids": [
+    "7b1b0ce9-2c58-4321-a2a7-cdc94feae082"
+  ],
+  "illustration_id": "9004efc5-75f6-49aa-9a7d-af657f408b5c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 208,
+  "prices": {
+    "usd": "81.67",
+    "usd_foil": "113.50",
+    "usd_etched": null,
+    "eur": "74.69",
+    "eur_foil": "99.99",
+    "tix": "16.28"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426057",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cavern+of+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cavern+of+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cavern+of+Souls",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cavern+of+Souls"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128633&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cavern+of+Souls&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63513?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

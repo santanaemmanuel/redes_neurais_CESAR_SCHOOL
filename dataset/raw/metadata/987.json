@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "3ea495ff-33df-406b-98e3-5579e2158bbc",
+  "oracle_id": "51f9a6cc-8eb2-44ed-a2d9-913ac514ad67",
+  "multiverse_ids": [
+    509339
+  ],
+  "tcgplayer_id": 221306,
+  "cardmarket_id": 491959,
+  "name": "Bane of Progress",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/3ea495ff-33df-406b-98e3-5579e2158bbc",
+  "scryfall_uri": "https://scryfall.com/card/cc1/3/bane-of-progress?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.jpg?1610161688",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.jpg?1610161688",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.jpg?1610161688",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.png?1610161688",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.jpg?1610161688",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/e/3ea495ff-33df-406b-98e3-5579e2158bbc.jpg?1610161688"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6.0,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3ea495ff-33df-406b-98e3-5579e2158bbc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A51f9a6cc-8eb2-44ed-a2d9-913ac514ad67&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Urza's forces tore across Argoth, and Argoth responded in kind.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "7f012920-9347-454f-a684-5014c932db5e",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 722,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "4.57",
+    "usd_foil": "12.16",
+    "usd_etched": null,
+    "eur": "2.57",
+    "eur_foil": "6.90",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509339",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bane+of+Progress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bane+of+Progress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Bane+of+Progress",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bane+of+Progress"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221306&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bane+of+Progress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bane+of+Progress&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

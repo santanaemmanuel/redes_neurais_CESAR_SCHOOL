@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "2964b501-5b7f-4225-9dd3-e7519bf34048",
+  "oracle_id": "f281c47f-3587-4a3f-8726-ec59568fef94",
+  "multiverse_ids": [
+    147414
+  ],
+  "mtgo_id": 29551,
+  "mtgo_foil_id": 29552,
+  "tcgplayer_id": 18694,
+  "cardmarket_id": 19085,
+  "name": "Loch Korrigan",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/2964b501-5b7f-4225-9dd3-e7519bf34048",
+  "scryfall_uri": "https://scryfall.com/card/shm/71/loch-korrigan?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.jpg?1562828120",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.jpg?1562828120",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.jpg?1562828120",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.png?1562828120",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.jpg?1562828120",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/2964b501-5b7f-4225-9dd3-e7519bf34048.jpg?1562828120"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Spirit",
+  "oracle_text": "{U/B}: Loch Korrigan gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2964b501-5b7f-4225-9dd3-e7519bf34048/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af281c47f-3587-4a3f-8726-ec59568fef94&unique=prints",
+  "collector_number": "71",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Don't look upon still waters without first breaking the surface. The korrigan will catch you with her gaze and drag you to your death.\"\n—Kithkin superstition",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "45ab74e8-0317-4030-8075-2b4e70d11c07",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22078,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.18",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.50",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=147414",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Loch+Korrigan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Loch+Korrigan&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Loch+Korrigan",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Loch+Korrigan"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18694&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Loch+Korrigan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29551?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

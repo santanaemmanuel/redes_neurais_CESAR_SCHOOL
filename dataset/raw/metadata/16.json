@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "4177c849-f366-4435-9060-d8785f235388",
+  "oracle_id": "5a8bd4a4-8b10-4eef-8341-28be2afa2c00",
+  "multiverse_ids": [
+    429900
+  ],
+  "mtgo_id": 64316,
+  "mtgo_foil_id": 64317,
+  "tcgplayer_id": 131399,
+  "cardmarket_id": 297403,
+  "name": "Sleep Paralysis",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/4177c849-f366-4435-9060-d8785f235388",
+  "scryfall_uri": "https://scryfall.com/card/w17/11/sleep-paralysis?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/1/4177c849-f366-4435-9060-d8785f235388.jpg?1562198301",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/1/4177c849-f366-4435-9060-d8785f235388.jpg?1562198301",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/1/4177c849-f366-4435-9060-d8785f235388.jpg?1562198301",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/4177c849-f366-4435-9060-d8785f235388.png?1562198301",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/1/4177c849-f366-4435-9060-d8785f235388.jpg?1562198301",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/1/4177c849-f366-4435-9060-d8785f235388.jpg?1562198301"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nWhen Sleep Paralysis enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4177c849-f366-4435-9060-d8785f235388/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a8bd4a4-8b10-4eef-8341-28be2afa2c00&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "0cb94738-6044-4dfb-8b3a-e5fc2d2e1902",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 14343,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429900",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sleep+Paralysis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sleep+Paralysis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sleep+Paralysis",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sleep+Paralysis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131399&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sleep+Paralysis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64316?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

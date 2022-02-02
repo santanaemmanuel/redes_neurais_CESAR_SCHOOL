@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "eea7e77c-ede5-41bd-b766-9a76ce691607",
+  "oracle_id": "c74c87f7-3120-4fd7-8735-1d7a7a429643",
+  "multiverse_ids": [
+    464127
+  ],
+  "mtgo_id": 72728,
+  "tcgplayer_id": 190640,
+  "cardmarket_id": 374394,
+  "name": "Savage Swipe",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/eea7e77c-ede5-41bd-b766-9a76ce691607",
+  "scryfall_uri": "https://scryfall.com/card/mh1/178/savage-swipe?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.png?1562202180",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Target creature you control gets +2/+2 until end of turn if its power is 2. Then it fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/eea7e77c-ede5-41bd-b766-9a76ce691607/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac74c87f7-3120-4fd7-8735-1d7a7a429643&unique=prints",
+  "collector_number": "178",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Nine generations of metalworking skill are no match for nine hundred pounds of rage.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Gaillet",
+  "artist_ids": [
+    "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d"
+  ],
+  "illustration_id": "75afc730-39f0-4e11-9f27-204197a5785c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8954,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/427047692",
+    "previewed_at": "2019-05-19"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.33",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.05",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464127",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Savage+Swipe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Savage+Swipe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Savage+Swipe",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Savage+Swipe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190640&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Savage+Swipe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72728?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

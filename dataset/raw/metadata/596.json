@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "2092e6db-1196-43bf-b7c9-07498fa7ca90",
+  "oracle_id": "145737a7-c597-4dec-b752-207c2d0501e3",
+  "multiverse_ids": [
+    464078
+  ],
+  "mtgo_id": 72630,
+  "tcgplayer_id": 190645,
+  "cardmarket_id": 374403,
+  "name": "Goblin Matron",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/2092e6db-1196-43bf-b7c9-07498fa7ca90",
+  "scryfall_uri": "https://scryfall.com/card/mh1/129/goblin-matron?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.png?1562201861",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/0/2092e6db-1196-43bf-b7c9-07498fa7ca90.jpg?1562201861"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3.0,
+  "type_line": "Creature — Goblin",
+  "oracle_text": "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2092e6db-1196-43bf-b7c9-07498fa7ca90/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A145737a7-c597-4dec-b752-207c2d0501e3&unique=prints",
+  "collector_number": "129",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "A mother only a child could love.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "48d926ff-b6d7-46b0-9ebc-d976cf439e19",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1199,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/427047692",
+    "previewed_at": "2019-05-19"
+  },
+  "prices": {
+    "usd": "0.58",
+    "usd_foil": "6.42",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "3.50",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464078",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Matron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Matron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Matron",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Goblin+Matron"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190645&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Matron&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72630?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b2671c36-96fa-49e3-90dc-52820b2c8a62",
+  "oracle_id": "29b925e9-1e98-471c-9b23-e0372ac86485",
+  "multiverse_ids": [
+    464173
+  ],
+  "mtgo_id": 72820,
+  "tcgplayer_id": 191284,
+  "cardmarket_id": 375360,
+  "name": "Icehide Golem",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/b2671c36-96fa-49e3-90dc-52820b2c8a62",
+  "scryfall_uri": "https://scryfall.com/card/mh1/224/icehide-golem?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.png?1562202467",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/2/b2671c36-96fa-49e3-90dc-52820b2c8a62.jpg?1562202467"
+  },
+  "mana_cost": "{S}",
+  "cmc": 1.0,
+  "type_line": "Snow Artifact Creature — Golem",
+  "oracle_text": "({S} can be paid with one mana from a snow source.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b2671c36-96fa-49e3-90dc-52820b2c8a62/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A29b925e9-1e98-471c-9b23-e0372ac86485&unique=prints",
+  "collector_number": "224",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "In colder climates, ice is more obedient than stone.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paul Scott Canavan",
+  "artist_ids": [
+    "c19bfb77-5099-4f7c-8585-6eaf367712c9"
+  ],
+  "illustration_id": "8b1dfcdb-1f08-4162-ad26-ec8b6931cac8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10101,
+  "preview": {
+    "source": "Rodrigo Septien",
+    "source_uri": "https://twitter.com/RodrigoSeptien/status/1133283730146115584",
+    "previewed_at": "2019-05-28"
+  },
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "1.01",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.40",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464173",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Icehide+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Icehide+Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Icehide+Golem",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Icehide+Golem"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191284&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Icehide+Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72820?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

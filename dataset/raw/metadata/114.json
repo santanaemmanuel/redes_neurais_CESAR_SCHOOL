@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "b8ffe320-c88a-4eb7-a091-e128e6c1f37c",
+  "oracle_id": "69ae765d-03c9-46d9-bdad-8e5936df9616",
+  "multiverse_ids": [
+    153962
+  ],
+  "mtgo_id": 29643,
+  "mtgo_foil_id": 29644,
+  "tcgplayer_id": 18843,
+  "cardmarket_id": 19258,
+  "name": "Wilt-Leaf Cavaliers",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/b8ffe320-c88a-4eb7-a091-e128e6c1f37c",
+  "scryfall_uri": "https://scryfall.com/card/shm/244/wilt-leaf-cavaliers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.jpg?1562835145",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.jpg?1562835145",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.jpg?1562835145",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.png?1562835145",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.jpg?1562835145",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8ffe320-c88a-4eb7-a091-e128e6c1f37c.jpg?1562835145"
+  },
+  "mana_cost": "{G/W}{G/W}{G/W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Elf Knight",
+  "oracle_text": "Vigilance",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Vigilance"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8ffe320-c88a-4eb7-a091-e128e6c1f37c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69ae765d-03c9-46d9-bdad-8e5936df9616&unique=prints",
+  "collector_number": "244",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Prescott",
+  "artist_ids": [
+    "a1139fb8-41f5-4a9e-9a74-f662e1a23b35"
+  ],
+  "illustration_id": "f4c29a88-50c9-46f2-ba6e-66e3bd157977",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17973,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "1.26",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.71",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153962",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wilt-Leaf+Cavaliers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wilt-Leaf+Cavaliers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wilt-Leaf+Cavaliers",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wilt-Leaf+Cavaliers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18843&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wilt-Leaf+Cavaliers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29643?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

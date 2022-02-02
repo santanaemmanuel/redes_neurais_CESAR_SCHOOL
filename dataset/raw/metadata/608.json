@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "bdd06d55-a40f-4b0e-905b-3cd0ce12eb82",
+  "oracle_id": "0b137853-7cb9-424b-8285-12938991eafb",
+  "multiverse_ids": [
+    464088
+  ],
+  "mtgo_id": 72650,
+  "tcgplayer_id": 190999,
+  "cardmarket_id": 374985,
+  "name": "Pillage",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82",
+  "scryfall_uri": "https://scryfall.com/card/mh1/139/pillage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.png?1562201923",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy target artifact or land. It can't be regenerated.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b137853-7cb9-424b-8285-12938991eafb&unique=prints",
+  "collector_number": "139",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The embers of our homes still smolder, and already the villages of Kjeldor burn in retaliation. What they have started, we will finish.\"\n—Lovisa Coldeyes",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "9ec02821-8d84-4665-b841-1037423cbe1e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7556,
+  "preview": {
+    "source": "Face to Face Games",
+    "source_uri": "https://www.youtube.com/watch?v=3jrv_zJpMcc",
+    "previewed_at": "2019-05-24"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.76",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "0.15",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464088",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pillage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pillage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Pillage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pillage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190999&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pillage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72650?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

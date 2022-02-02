@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "f5177a97-cf3b-4a82-adc4-14835152880d",
+  "oracle_id": "4dda5f21-11d6-40ce-be24-7c9529272c25",
+  "multiverse_ids": [
+    429916
+  ],
+  "mtgo_id": 64348,
+  "mtgo_foil_id": 64349,
+  "tcgplayer_id": 131395,
+  "cardmarket_id": 297419,
+  "name": "Rootwalla",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/f5177a97-cf3b-4a82-adc4-14835152880d",
+  "scryfall_uri": "https://scryfall.com/card/w17/27/rootwalla?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.jpg?1562201904",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.jpg?1562201904",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.jpg?1562201904",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.png?1562201904",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.jpg?1562201904",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/5/f5177a97-cf3b-4a82-adc4-14835152880d.jpg?1562201904"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Lizard",
+  "oracle_text": "{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f5177a97-cf3b-4a82-adc4-14835152880d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4dda5f21-11d6-40ce-be24-7c9529272c25&unique=prints",
+  "collector_number": "27",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "They make terrible pets … unless you don't like your other pets.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Roger Raupp",
+  "artist_ids": [
+    "79d6f296-1948-4a24-a2ce-a76e89057f23"
+  ],
+  "illustration_id": "7b32ca3e-ac73-4c2c-b5b7-c2f05a1fb85b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 20093,
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": null,
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429916",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rootwalla&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rootwalla&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Rootwalla",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Rootwalla"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131395&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rootwalla&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64348?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

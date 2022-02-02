@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "28f6e33d-9258-4bad-8f39-31afff272415",
+  "oracle_id": "3739b179-bc81-4737-8376-66a57e16b942",
+  "multiverse_ids": [
+    425895
+  ],
+  "mtgo_id": 63275,
+  "mtgo_foil_id": 63276,
+  "tcgplayer_id": 128871,
+  "cardmarket_id": 295944,
+  "name": "Falkenrath Noble",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/28f6e33d-9258-4bad-8f39-31afff272415",
+  "scryfall_uri": "https://scryfall.com/card/mm3/70/falkenrath-noble?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.jpg?1593813279",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.jpg?1593813279",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.jpg?1593813279",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.png?1593813279",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.jpg?1593813279",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/28f6e33d-9258-4bad-8f39-31afff272415.jpg?1593813279"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Vampire Noble",
+  "oracle_text": "Flying\nWhenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/28f6e33d-9258-4bad-8f39-31afff272415/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3739b179-bc81-4737-8376-66a57e16b942&unique=prints",
+  "collector_number": "70",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"I often think on how excited they must feel to be chosen as my prey.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Slawomir Maniak",
+  "artist_ids": [
+    "d887bc66-2779-416c-a1ff-d8720242063e"
+  ],
+  "illustration_id": "bd1127c6-125d-4b5d-a8ab-5e2f2b1fb9a7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 761,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "0.87",
+    "usd_etched": null,
+    "eur": "0.23",
+    "eur_foil": "0.19",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425895",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Falkenrath+Noble&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Falkenrath+Noble&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Falkenrath+Noble",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Falkenrath+Noble"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128871&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Falkenrath+Noble&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63275?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

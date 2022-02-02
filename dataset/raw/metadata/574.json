@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "9d41b5e4-6b9a-419a-ba49-611c4699eda2",
+  "oracle_id": "394c6de5-7957-4a0b-a6b9-ee0c707cd022",
+  "multiverse_ids": [
+    464188
+  ],
+  "mtgo_id": 72850,
+  "tcgplayer_id": 191286,
+  "cardmarket_id": 375348,
+  "name": "Forgotten Cave",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/9d41b5e4-6b9a-419a-ba49-611c4699eda2",
+  "scryfall_uri": "https://scryfall.com/card/mh1/239/forgotten-cave?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1562202558",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1562202558",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1562202558",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.png?1562202558",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1562202558",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/d/9d41b5e4-6b9a-419a-ba49-611c4699eda2.jpg?1562202558"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R}.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9d41b5e4-6b9a-419a-ba49-611c4699eda2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A394c6de5-7957-4a0b-a6b9-ee0c707cd022&unique=prints",
+  "collector_number": "239",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "illustration_id": "cb45a5f9-7596-4c4a-aac6-6fd0238e706f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 283,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/hitting-cycle-2019-05-29?",
+    "previewed_at": "2019-05-29"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "2.92",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.62",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464188",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forgotten+Cave&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forgotten+Cave&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Forgotten+Cave",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Forgotten+Cave"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191286&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forgotten+Cave&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72850?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

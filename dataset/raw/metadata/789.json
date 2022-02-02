@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "c9a8cc61-7e36-4df7-9c89-c32fce129c5a",
+  "oracle_id": "c5acf2a5-40f4-433d-a74d-1cb56c521464",
+  "multiverse_ids": [
+    426054
+  ],
+  "mtgo_id": 63185,
+  "mtgo_foil_id": 63186,
+  "tcgplayer_id": 128275,
+  "cardmarket_id": 295816,
+  "name": "Arid Mesa",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/c9a8cc61-7e36-4df7-9c89-c32fce129c5a",
+  "scryfall_uri": "https://scryfall.com/card/mm3/229/arid-mesa?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.png?1593814974",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/9/c9a8cc61-7e36-4df7-9c89-c32fce129c5a.jpg?1593814974"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c9a8cc61-7e36-4df7-9c89-c32fce129c5a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5acf2a5-40f4-433d-a74d-1cb56c521464&unique=prints",
+  "collector_number": "229",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Raymond Swanland",
+  "artist_ids": [
+    "e956bacc-077d-4c12-b6bc-ba798b718af9"
+  ],
+  "illustration_id": "c27f39e0-315a-434b-8542-46791fbbd42a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 66,
+  "prices": {
+    "usd": "16.75",
+    "usd_foil": "25.42",
+    "usd_etched": null,
+    "eur": "16.99",
+    "eur_foil": "22.90",
+    "tix": "4.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426054",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arid+Mesa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arid+Mesa&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Arid+Mesa",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Arid+Mesa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128275&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arid+Mesa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63185?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

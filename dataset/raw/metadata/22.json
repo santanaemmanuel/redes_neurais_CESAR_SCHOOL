@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "d6686a8d-9cf9-4787-9cf4-1aff8366f7ca",
+  "oracle_id": "3070f997-24f2-471d-af96-a2f3b588198e",
+  "multiverse_ids": [
+    429890
+  ],
+  "mtgo_id": 64296,
+  "mtgo_foil_id": 64297,
+  "tcgplayer_id": 131385,
+  "cardmarket_id": 297393,
+  "name": "Divine Verdict",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca",
+  "scryfall_uri": "https://scryfall.com/card/w17/1/divine-verdict?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.jpg?1562201341",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.jpg?1562201341",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.jpg?1562201341",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.png?1562201341",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.jpg?1562201341",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/6/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca.jpg?1562201341"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target attacking or blocking creature.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d6686a8d-9cf9-4787-9cf4-1aff8366f7ca/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3070f997-24f2-471d-af96-a2f3b588198e&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Guilty.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "ca8495dd-5d23-482d-a75c-3008d67cec35",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 12560,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429890",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Divine+Verdict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Divine+Verdict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Divine+Verdict",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Divine+Verdict"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131385&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Divine+Verdict&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64296?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

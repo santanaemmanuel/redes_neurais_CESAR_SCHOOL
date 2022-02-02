@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "919cd266-b796-4a1c-937f-76b565c82495",
+  "oracle_id": "354defd2-f63f-4a48-9fd4-2526b3878a84",
+  "multiverse_ids": [
+    464153
+  ],
+  "mtgo_id": 72780,
+  "tcgplayer_id": 191068,
+  "cardmarket_id": 375099,
+  "name": "Ingenious Infiltrator",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/919cd266-b796-4a1c-937f-76b565c82495",
+  "scryfall_uri": "https://scryfall.com/card/mh1/204/ingenious-infiltrator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.png?1562202349",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349"
+  },
+  "mana_cost": "{2}{U}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Vedalken Ninja",
+  "oracle_text": "Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever a Ninja you control deals combat damage to a player, draw a card.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Ninjutsu"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/919cd266-b796-4a1c-937f-76b565c82495/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A354defd2-f63f-4a48-9fd4-2526b3878a84&unique=prints",
+  "collector_number": "204",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "9b9f3709-cbf0-4325-b927-100d30effc1f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2183,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2019-05-27"
+  },
+  "prices": {
+    "usd": "0.92",
+    "usd_foil": "4.89",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "3.79",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464153",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ingenious+Infiltrator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ingenious+Infiltrator&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ingenious+Infiltrator",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ingenious+Infiltrator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191068&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ingenious+Infiltrator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72780?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "0dd88305-d57b-4e77-aec9-f0a3ace42c37",
+  "oracle_id": "fc071117-08aa-47c3-ae4a-4b6c630befa3",
+  "multiverse_ids": [
+    146051
+  ],
+  "mtgo_id": 29445,
+  "mtgo_foil_id": 29446,
+  "tcgplayer_id": 18599,
+  "cardmarket_id": 19077,
+  "name": "Crowd of Cinders",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/0dd88305-d57b-4e77-aec9-f0a3ace42c37",
+  "scryfall_uri": "https://scryfall.com/card/shm/63/crowd-of-cinders?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.jpg?1562826713",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.jpg?1562826713",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.jpg?1562826713",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.png?1562826713",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.jpg?1562826713",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0dd88305-d57b-4e77-aec9-f0a3ace42c37.jpg?1562826713"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature — Elemental",
+  "oracle_text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCrowd of Cinders's power and toughness are each equal to the number of black permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Fear"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0dd88305-d57b-4e77-aec9-f0a3ace42c37/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afc071117-08aa-47c3-ae4a-4b6c630befa3&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "They envy the life-giving heat so much that they tear it from those who still possess it.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Frank",
+  "artist_ids": [
+    "fde6429d-2768-4573-a54d-42694e145079"
+  ],
+  "illustration_id": "81a774b3-e8be-47d0-b685-b0c67ffb6553",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19800,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146051",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Crowd+of+Cinders&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Crowd+of+Cinders&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Crowd+of+Cinders",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Crowd+of+Cinders"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18599&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crowd+of+Cinders&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29445?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

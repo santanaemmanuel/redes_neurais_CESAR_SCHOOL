@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "f2c44c1e-60b8-49f7-af9a-d23dcd8a3771",
+  "oracle_id": "9e0c5919-aed6-4d98-85c8-2658be78bdf0",
+  "multiverse_ids": [
+    425840
+  ],
+  "mtgo_id": 63261,
+  "mtgo_foil_id": 63262,
+  "tcgplayer_id": 128650,
+  "cardmarket_id": 295885,
+  "name": "Master Splicer",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771",
+  "scryfall_uri": "https://scryfall.com/card/mm3/15/master-splicer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.png?1593812864",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/2/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771.jpg?1593812864"
+  },
+  "mana_cost": "{3}{W}",
+  "cmc": 4.0,
+  "type_line": "Creature — Phyrexian Human Artificer",
+  "oracle_text": "When Master Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolems you control get +1/+1.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f2c44c1e-60b8-49f7-af9a-d23dcd8a3771",
+      "component": "combo_piece",
+      "name": "Master Splicer",
+      "type_line": "Creature — Phyrexian Human Artificer",
+      "uri": "https://api.scryfall.com/cards/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771"
+    },
+    {
+      "object": "related_card",
+      "id": "509be7b3-490d-4229-ba10-999921a6b977",
+      "component": "token",
+      "name": "Golem",
+      "type_line": "Token Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/509be7b3-490d-4229-ba10-999921a6b977"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f2c44c1e-60b8-49f7-af9a-d23dcd8a3771/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e0c5919-aed6-4d98-85c8-2658be78bdf0&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "With Phyrexia's victory at hand, each sect began perfecting its vision.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chippy",
+  "artist_ids": [
+    "a36f01a0-e51a-48b2-a556-b9b3bc73f969"
+  ],
+  "illustration_id": "8ed15552-31d6-4793-b039-9d4c27fbdc51",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6239,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.27",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425840",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Master+Splicer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Master+Splicer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Master+Splicer",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Master+Splicer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128650&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Master+Splicer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63261?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

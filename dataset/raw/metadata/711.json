@@ -1,0 +1,149 @@
+{
+  "object": "card",
+  "id": "a6d9ef87-cd84-452e-a54b-d919c02f450c",
+  "oracle_id": "a7a88bcc-eac2-4f74-804f-b49d16560184",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111274,
+  "cardmarket_id": 287610,
+  "name": "Vile Redeemer",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/a6d9ef87-cd84-452e-a54b-d919c02f450c",
+  "scryfall_uri": "https://scryfall.com/card/pogw/125s/vile-redeemer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.jpg?1562871681",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.jpg?1562871681",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.jpg?1562871681",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.png?1562871681",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.jpg?1562871681",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/6/a6d9ef87-cd84-452e-a54b-d919c02f450c.jpg?1562871681"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nFlash\nWhen you cast this spell, you may pay {C}. If you do, create a 1/1 colorless Eldrazi Scion creature token for each nontoken creature that died under your control this turn. Those tokens have \"Sacrifice this creature: Add {C}.\"",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Devoid",
+    "Flash"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f48b0613-127a-4338-aea4-ad0b8aa96d77",
+      "component": "combo_piece",
+      "name": "Vile Redeemer",
+      "type_line": "Creature — Eldrazi",
+      "uri": "https://api.scryfall.com/cards/f48b0613-127a-4338-aea4-ad0b8aa96d77"
+    },
+    {
+      "object": "related_card",
+      "id": "a03edf14-3495-4f61-ad73-f16e9456472c",
+      "component": "token",
+      "name": "Eldrazi Scion",
+      "type_line": "Token Creature — Eldrazi Scion",
+      "uri": "https://api.scryfall.com/cards/a03edf14-3495-4f61-ad73-f16e9456472c"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6d9ef87-cd84-452e-a54b-d919c02f450c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa7a88bcc-eac2-4f74-804f-b49d16560184&unique=prints",
+  "collector_number": "125s",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "illustration_id": "34a63e9d-d378-49b3-8ebb-ed0f64b57868",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 9712,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.41",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.45",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vile+Redeemer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vile+Redeemer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Vile+Redeemer",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Vile+Redeemer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111274&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vile+Redeemer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Vile+Redeemer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

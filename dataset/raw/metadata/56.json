@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "853b7e48-7903-4250-91b9-db4440b3a8e6",
+  "oracle_id": "c181d2a4-5959-4409-9bd3-ecedf8ec9516",
+  "multiverse_ids": [
+    25457
+  ],
+  "tcgplayer_id": 37778,
+  "name": "Giant Octopus",
+  "lang": "en",
+  "released_at": "2000-04-01",
+  "uri": "https://api.scryfall.com/cards/853b7e48-7903-4250-91b9-db4440b3a8e6",
+  "scryfall_uri": "https://scryfall.com/card/s00/14/giant-octopus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.jpg?1562133676",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.jpg?1562133676",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.jpg?1562133676",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.png?1562133676",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.jpg?1562133676",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/5/853b7e48-7903-4250-91b9-db4440b3a8e6.jpg?1562133676"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Creature — Octopus",
+  "oracle_text": "",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1c105623-2564-40d7-a3aa-4134787fb127",
+  "set": "s00",
+  "set_name": "Starter 2000",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/1c105623-2564-40d7-a3aa-4134787fb127",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3As00&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/s00?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/853b7e48-7903-4250-91b9-db4440b3a8e6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac181d2a4-5959-4409-9bd3-ecedf8ec9516&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "At the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Matson",
+  "artist_ids": [
+    "a1685587-4b55-446b-b420-c37b202ed3f1"
+  ],
+  "illustration_id": "0d8f9a2e-b70c-4d16-866f-143e2b2ce4c7",
+  "border_color": "white",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17019,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25457",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Octopus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Octopus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Giant+Octopus",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Giant+Octopus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=37778&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Octopus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giant+Octopus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

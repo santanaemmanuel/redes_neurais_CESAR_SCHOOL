@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "4324380c-68b8-4955-ad92-76f921e6ffc1",
+  "oracle_id": "56719f6a-1a6c-4c0a-8d21-18f7d7350b68",
+  "multiverse_ids": [
+    157889
+  ],
+  "mtgo_id": 29749,
+  "mtgo_foil_id": 29750,
+  "tcgplayer_id": 18809,
+  "cardmarket_id": 19304,
+  "name": "Swamp",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/4324380c-68b8-4955-ad92-76f921e6ffc1",
+  "scryfall_uri": "https://scryfall.com/card/shm/290/swamp?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.jpg?1562829356",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.jpg?1562829356",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.jpg?1562829356",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.png?1562829356",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.jpg?1562829356",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/3/4324380c-68b8-4955-ad92-76f921e6ffc1.jpg?1562829356"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land — Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "legal",
+    "historicbrawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4324380c-68b8-4955-ad92-76f921e6ffc1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints",
+  "collector_number": "290",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "126c2f39-2309-4e82-a2f6-395858577048",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "2.16",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.49",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157889",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Swamp",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Swamp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18809&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29749?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

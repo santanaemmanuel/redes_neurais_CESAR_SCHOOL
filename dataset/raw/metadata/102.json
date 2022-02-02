@@ -1,0 +1,116 @@
+{
+  "object": "card",
+  "id": "29fc560d-8ba3-4e6c-99df-08d034025131",
+  "oracle_id": "9bb259d0-09f6-4564-8cd1-73b4d0e5b4fc",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 236531,
+  "name": "War of the Spark",
+  "lang": "en",
+  "released_at": "2020-08-01",
+  "uri": "https://api.scryfall.com/cards/29fc560d-8ba3-4e6c-99df-08d034025131",
+  "scryfall_uri": "https://scryfall.com/card/htr19/3/war-of-the-spark?utm_source=api",
+  "layout": "saga",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.jpg?1619720389",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.jpg?1619720389",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.jpg?1619720389",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.png?1619720389",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.jpg?1619720389",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/29fc560d-8ba3-4e6c-99df-08d034025131.jpg?1619720389"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Enchantment — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Each player may put a planeswalker or Zombie card from War of the Spark from their hand or graveyard onto the battlefield.\nII — Sacrifice any number of creatures and/or planeswalkers. Each opponent sacrifices that many creatures and/or planeswalkers.\nIII — Exile up to one target Bolas. Proliferate three times.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "dea849fc-18c3-4327-8c1e-72583d6f08e8",
+  "set": "htr19",
+  "set_name": "2019 Heroes of the Realm",
+  "set_type": "funny",
+  "set_uri": "https://api.scryfall.com/sets/dea849fc-18c3-4327-8c1e-72583d6f08e8",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ahtr19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/htr19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/29fc560d-8ba3-4e6c-99df-08d034025131/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9bb259d0-09f6-4564-8cd1-73b4d0e5b4fc&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Seaman",
+  "artist_ids": [
+    "b9c49463-6f55-4039-9d32-c02a658af100"
+  ],
+  "illustration_id": "5cedc3b0-25e6-448f-87ca-5ff12c5de35b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=War+of+the+Spark&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=War+of+the+Spark&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=War+of+the+Spark",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=War+of+the+Spark"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=236531&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=War+of+the+Spark&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=War+of+the+Spark&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

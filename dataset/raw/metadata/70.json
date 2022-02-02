@@ -1,0 +1,271 @@
+{
+  "object": "card",
+  "id": "21e89101-f1cf-4bbd-a1d5-c5d48512e0dd",
+  "oracle_id": "3c549374-6c37-42e0-8d88-a8555d46732d",
+  "multiverse_ids": [
+
+  ],
+  "arena_id": 66616,
+  "tcgplayer_id": 145819,
+  "name": "Treasure",
+  "lang": "en",
+  "released_at": "2017-09-29",
+  "uri": "https://api.scryfall.com/cards/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd",
+  "scryfall_uri": "https://scryfall.com/card/txln/8/treasure?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.png?1562539760",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/1/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd.jpg?1562539760"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Artifact — Treasure",
+  "oracle_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "5ab86a8a-7a0a-473e-9a97-da2fe0ab866c",
+      "component": "combo_piece",
+      "name": "Captain Lannery Storm",
+      "type_line": "Legendary Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/5ab86a8a-7a0a-473e-9a97-da2fe0ab866c"
+    },
+    {
+      "object": "related_card",
+      "id": "d1f20feb-b1ed-4d80-bef9-f3cc44ffb7b0",
+      "component": "combo_piece",
+      "name": "Contract Killing",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/d1f20feb-b1ed-4d80-bef9-f3cc44ffb7b0"
+    },
+    {
+      "object": "related_card",
+      "id": "63a7a1a4-aec2-467d-91a1-1a2605718c7c",
+      "component": "combo_piece",
+      "name": "Deadeye Plunderers",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/63a7a1a4-aec2-467d-91a1-1a2605718c7c"
+    },
+    {
+      "object": "related_card",
+      "id": "63420437-76a9-40cf-aedc-0ca1e73fcc0b",
+      "component": "combo_piece",
+      "name": "Depths of Desire",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/63420437-76a9-40cf-aedc-0ca1e73fcc0b"
+    },
+    {
+      "object": "related_card",
+      "id": "0fcd719e-fa21-42bb-968b-ccc0cd3829c6",
+      "component": "combo_piece",
+      "name": "Dire Fleet Hoarder",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/0fcd719e-fa21-42bb-968b-ccc0cd3829c6"
+    },
+    {
+      "object": "related_card",
+      "id": "c5e791ce-1380-4de0-b314-246ea6dfc3cc",
+      "component": "combo_piece",
+      "name": "Heartless Pillage",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/c5e791ce-1380-4de0-b314-246ea6dfc3cc"
+    },
+    {
+      "object": "related_card",
+      "id": "48d97373-9b55-4eb7-99b6-8912f09bd0bb",
+      "component": "combo_piece",
+      "name": "Pirate's Prize",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/48d97373-9b55-4eb7-99b6-8912f09bd0bb"
+    },
+    {
+      "object": "related_card",
+      "id": "4fed2d67-fc51-45e8-825b-fe7565e8a65d",
+      "component": "combo_piece",
+      "name": "Prosperous Pirates",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/4fed2d67-fc51-45e8-825b-fe7565e8a65d"
+    },
+    {
+      "object": "related_card",
+      "id": "ad45720e-2870-414d-8119-8e48c5600d3b",
+      "component": "combo_piece",
+      "name": "Prying Blade",
+      "type_line": "Artifact — Equipment",
+      "uri": "https://api.scryfall.com/cards/ad45720e-2870-414d-8119-8e48c5600d3b"
+    },
+    {
+      "object": "related_card",
+      "id": "79b0e035-8716-469d-99ae-a530cd96ef09",
+      "component": "combo_piece",
+      "name": "Revel in Riches",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/79b0e035-8716-469d-99ae-a530cd96ef09"
+    },
+    {
+      "object": "related_card",
+      "id": "1ce91e38-4601-4354-ad1b-2c5c1c70da17",
+      "component": "combo_piece",
+      "name": "Ruthless Knave",
+      "type_line": "Creature — Orc Pirate",
+      "uri": "https://api.scryfall.com/cards/1ce91e38-4601-4354-ad1b-2c5c1c70da17"
+    },
+    {
+      "object": "related_card",
+      "id": "67f15157-6017-4b05-8c74-b3f8728d764b",
+      "component": "combo_piece",
+      "name": "Sailor of Means",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/67f15157-6017-4b05-8c74-b3f8728d764b"
+    },
+    {
+      "object": "related_card",
+      "id": "6e619ada-e9ce-4758-afd8-8def853877eb",
+      "component": "combo_piece",
+      "name": "Spell Swindle",
+      "type_line": "Instant",
+      "uri": "https://api.scryfall.com/cards/6e619ada-e9ce-4758-afd8-8def853877eb"
+    },
+    {
+      "object": "related_card",
+      "id": "c0f9c733-0818-4a03-8f0c-a163d09e0fff",
+      "component": "combo_piece",
+      "name": "Treasure Map // Treasure Cove",
+      "type_line": "Artifact // Land",
+      "uri": "https://api.scryfall.com/cards/c0f9c733-0818-4a03-8f0c-a163d09e0fff"
+    },
+    {
+      "object": "related_card",
+      "id": "fb2df914-bb56-449e-9ef8-8b1012a76f64",
+      "component": "combo_piece",
+      "name": "Trove of Temptation",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/fb2df914-bb56-449e-9ef8-8b1012a76f64"
+    },
+    {
+      "object": "related_card",
+      "id": "6704e4c9-3b5e-4ba5-a5bc-6d684e2983e9",
+      "component": "combo_piece",
+      "name": "Wanted Scoundrels",
+      "type_line": "Creature — Human Pirate",
+      "uri": "https://api.scryfall.com/cards/6704e4c9-3b5e-4ba5-a5bc-6d684e2983e9"
+    },
+    {
+      "object": "related_card",
+      "id": "a175b24c-c256-45a8-b24a-6b83e42d5efa",
+      "component": "combo_piece",
+      "name": "Wily Goblin",
+      "type_line": "Creature — Goblin Pirate",
+      "uri": "https://api.scryfall.com/cards/a175b24c-c256-45a8-b24a-6b83e42d5efa"
+    },
+    {
+      "object": "related_card",
+      "id": "720f3e68-84c0-462e-a0d1-90236ccc494a",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/720f3e68-84c0-462e-a0d1-90236ccc494a"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set": "txln",
+  "set_name": "Ixalan Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/52f094c5-f3ed-42fc-b6a4-4004c0a48f50",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atxln&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/txln?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/21e89101-f1cf-4bbd-a1d5-c5d48512e0dd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c549374-6c37-42e0-8d88-a8555d46732d&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "7de0f7c9-3435-4741-991e-3bc80a179bf1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Treasure&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Treasure&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Treasure",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Treasure"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=145819&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treasure&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treasure&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

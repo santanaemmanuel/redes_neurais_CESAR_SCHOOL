@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "5f7171f0-7d42-47c9-ab46-93c2bb42c914",
+  "oracle_id": "a498bc70-36e7-4454-bc44-906893df38b8",
+  "multiverse_ids": [
+    153298
+  ],
+  "mtgo_id": 29623,
+  "mtgo_foil_id": 29624,
+  "tcgplayer_id": 18723,
+  "cardmarket_id": 19206,
+  "name": "Murderous Redcap",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/5f7171f0-7d42-47c9-ab46-93c2bb42c914",
+  "scryfall_uri": "https://scryfall.com/card/shm/192/murderous-redcap?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.png?1562830742",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742"
+  },
+  "mana_cost": "{2}{B/R}{B/R}",
+  "cmc": 4.0,
+  "type_line": "Creature — Goblin Assassin",
+  "oracle_text": "When Murderous Redcap enters the battlefield, it deals damage equal to its power to any target.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Persist"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5f7171f0-7d42-47c9-ab46-93c2bb42c914/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa498bc70-36e7-4454-bc44-906893df38b8&unique=prints",
+  "collector_number": "192",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Allsop",
+  "artist_ids": [
+    "99b8310a-4fd6-4ded-8ab7-3b5185821cbe"
+  ],
+  "illustration_id": "5a155023-1f76-4b94-ab18-dfafc1b58103",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3087,
+  "prices": {
+    "usd": "0.41",
+    "usd_foil": "10.45",
+    "usd_etched": null,
+    "eur": "0.55",
+    "eur_foil": "1.80",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153298",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Murderous+Redcap&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Murderous+Redcap&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Murderous+Redcap",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Murderous+Redcap"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18723&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Murderous+Redcap&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29623?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

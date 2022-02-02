@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "db87a2be-4490-45af-89d7-540549d1d6af",
+  "oracle_id": "be9d1346-4416-4ade-ae84-7a4121e0bd12",
+  "multiverse_ids": [
+    425892
+  ],
+  "mtgo_id": 63129,
+  "mtgo_foil_id": 63130,
+  "tcgplayer_id": 128864,
+  "cardmarket_id": 295942,
+  "name": "Dregscape Zombie",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/db87a2be-4490-45af-89d7-540549d1d6af",
+  "scryfall_uri": "https://scryfall.com/card/mm3/67/dregscape-zombie?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.jpg?1593813261",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.jpg?1593813261",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.jpg?1593813261",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.png?1593813261",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.jpg?1593813261",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/b/db87a2be-4490-45af-89d7-540549d1d6af.jpg?1593813261"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Unearth"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/db87a2be-4490-45af-89d7-540549d1d6af/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abe9d1346-4416-4ade-ae84-7a4121e0bd12&unique=prints",
+  "collector_number": "67",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The undead of Grixis are fueled by their hatred of the living.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "8a251027-01bc-4896-a0bb-f90bf77f4263",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13178,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.20",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425892",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dregscape+Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dregscape+Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Dregscape+Zombie",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dregscape+Zombie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128864&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dregscape+Zombie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63129?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

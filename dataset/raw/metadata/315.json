@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "ead8befa-27dd-4ec4-b317-1c231407e0ac",
+  "oracle_id": "c7d8beb6-472c-4758-9876-e8cbf98f4f72",
+  "multiverse_ids": [
+    153964
+  ],
+  "mtgo_id": 29647,
+  "mtgo_foil_id": 29648,
+  "tcgplayer_id": 18623,
+  "cardmarket_id": 19080,
+  "name": "Faerie Macabre",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/ead8befa-27dd-4ec4-b317-1c231407e0ac",
+  "scryfall_uri": "https://scryfall.com/card/shm/66/faerie-macabre?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.jpg?1562837719",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.jpg?1562837719",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.jpg?1562837719",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.png?1562837719",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.jpg?1562837719",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ead8befa-27dd-4ec4-b317-1c231407e0ac.jpg?1562837719"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Faerie Rogue",
+  "oracle_text": "Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ead8befa-27dd-4ec4-b317-1c231407e0ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac7d8beb6-472c-4758-9876-e8cbf98f4f72&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "The line between dream and death is gauzy and fragile. She leads those too near it from one side to the other.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "rk post",
+  "artist_ids": [
+    "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+  ],
+  "illustration_id": "11c9858d-71d2-4f27-98dd-256033f3fb26",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7658,
+  "prices": {
+    "usd": "0.95",
+    "usd_foil": "17.24",
+    "usd_etched": null,
+    "eur": "0.54",
+    "eur_foil": "8.54",
+    "tix": "0.24"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153964",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Faerie+Macabre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Faerie+Macabre&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Faerie+Macabre",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Faerie+Macabre"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18623&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Faerie+Macabre&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29647?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "object": "card",
+  "id": "62e5ee3d-3db2-45fc-adc0-9903231f16db",
+  "oracle_id": "f211d21f-7d78-4435-a592-a6896023af3b",
+  "multiverse_ids": [
+    426016
+  ],
+  "mtgo_id": 63371,
+  "mtgo_foil_id": 63372,
+  "tcgplayer_id": 128964,
+  "cardmarket_id": 296031,
+  "name": "Sunhome Guildmage",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/62e5ee3d-3db2-45fc-adc0-9903231f16db",
+  "scryfall_uri": "https://scryfall.com/card/mm3/191/sunhome-guildmage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.jpg?1593814646",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.jpg?1593814646",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.jpg?1593814646",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.png?1593814646",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.jpg?1593814646",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/2/62e5ee3d-3db2-45fc-adc0-9903231f16db.jpg?1593814646"
+  },
+  "mana_cost": "{R}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "62e5ee3d-3db2-45fc-adc0-9903231f16db",
+      "component": "combo_piece",
+      "name": "Sunhome Guildmage",
+      "type_line": "Creature — Human Wizard",
+      "uri": "https://api.scryfall.com/cards/62e5ee3d-3db2-45fc-adc0-9903231f16db"
+    },
+    {
+      "object": "related_card",
+      "id": "6d49a56f-2a5e-4d42-b75c-f3f3735829d3",
+      "component": "token",
+      "name": "Soldier",
+      "type_line": "Token Creature — Soldier",
+      "uri": "https://api.scryfall.com/cards/6d49a56f-2a5e-4d42-b75c-f3f3735829d3"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/62e5ee3d-3db2-45fc-adc0-9903231f16db/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af211d21f-7d78-4435-a592-a6896023af3b&unique=prints",
+  "collector_number": "191",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Deschamps",
+  "artist_ids": [
+    "37970e22-9cee-44c1-af44-5ee27cf26b76"
+  ],
+  "illustration_id": "14bb3b7a-0342-41b8-8bb8-63a4ee0fb66e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10190,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426016",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sunhome+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sunhome+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sunhome+Guildmage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sunhome+Guildmage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128964&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sunhome+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63371?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

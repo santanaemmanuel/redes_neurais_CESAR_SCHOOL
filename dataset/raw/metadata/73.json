@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "303195f3-07ac-4eed-ab27-bf7c4b5378a3",
+  "oracle_id": "24227761-b50e-4b9e-93a2-e82d053b3e3d",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38194,
+  "cardmarket_id": 242498,
+  "name": "Fling",
+  "lang": "en",
+  "released_at": "2010-01-01",
+  "uri": "https://api.scryfall.com/cards/303195f3-07ac-4eed-ab27-bf7c4b5378a3",
+  "scryfall_uri": "https://scryfall.com/card/pw10/50/fling?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1562448778",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1562448778",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1562448778",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.png?1562448778",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1562448778",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/0/303195f3-07ac-4eed-ab27-bf7c4b5378a3.jpg?1562448778"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to any target.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set": "pw10",
+  "set_name": "Wizards Play Network 2010",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/47a10564-4d80-4cf0-9851-80bf13a00533",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apw10&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pw10?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/303195f3-07ac-4eed-ab27-bf7c4b5378a3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24227761-b50e-4b9e-93a2-e82d053b3e3d&unique=prints",
+  "collector_number": "50",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "dci",
+  "flavor_text": "Sometimes the cannoneer must become the cannonball.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daren Bader",
+  "artist_ids": [
+    "7da1a585-c875-45e4-b322-5da9e8e1f651"
+  ],
+  "illustration_id": "bf086b83-238b-4650-ba0f-ebc3896b3ee7",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "wizardsplaynetwork"
+  ],
+  "edhrec_rank": 1747,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.00",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.50",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fling&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fling&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Fling",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Fling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38194&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fling&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fling&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

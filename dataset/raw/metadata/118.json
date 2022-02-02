@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b657ad23-e84b-4b53-a6b6-80f359624ab8",
+  "oracle_id": "3ba81fbe-2c53-495b-9a2b-f124475bd71b",
+  "multiverse_ids": [
+    157878
+  ],
+  "mtgo_id": 29727,
+  "mtgo_foil_id": 29728,
+  "tcgplayer_id": 18613,
+  "cardmarket_id": 19126,
+  "name": "Drove of Elves",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/b657ad23-e84b-4b53-a6b6-80f359624ab8",
+  "scryfall_uri": "https://scryfall.com/card/shm/112/drove-of-elves?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.jpg?1562835028",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.jpg?1562835028",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.jpg?1562835028",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.png?1562835028",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.jpg?1562835028",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/6/b657ad23-e84b-4b53-a6b6-80f359624ab8.jpg?1562835028"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4.0,
+  "type_line": "Creature — Elf",
+  "oracle_text": "Hexproof\nDrove of Elves's power and toughness are each equal to the number of green permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Hexproof"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b657ad23-e84b-4b53-a6b6-80f359624ab8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ba81fbe-2c53-495b-9a2b-f124475bd71b&unique=prints",
+  "collector_number": "112",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"The light of beauty protects our journeys through darkness.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Larry MacDougall",
+  "artist_ids": [
+    "73932957-e76e-4ff0-8f0a-b3ad2d8dfae2"
+  ],
+  "illustration_id": "44765f9c-2ebd-4378-8810-d53f09360627",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6593,
+  "prices": {
+    "usd": "0.86",
+    "usd_foil": "3.99",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "1.99",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157878",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drove+of+Elves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drove+of+Elves&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Drove+of+Elves",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Drove+of+Elves"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18613&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drove+of+Elves&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29727?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

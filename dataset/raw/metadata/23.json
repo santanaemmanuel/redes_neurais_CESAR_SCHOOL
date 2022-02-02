@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "f7860cf3-c3ea-4055-8c95-6d1c8d50e69d",
+  "oracle_id": "9fd288d6-445e-4605-b206-aab43e300dde",
+  "multiverse_ids": [
+    429903
+  ],
+  "mtgo_id": 64322,
+  "mtgo_foil_id": 64323,
+  "tcgplayer_id": 131407,
+  "cardmarket_id": 297406,
+  "name": "Tricks of the Trade",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d",
+  "scryfall_uri": "https://scryfall.com/card/w17/14/tricks-of-the-trade?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.jpg?1562201921",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.jpg?1562201921",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.jpg?1562201921",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.png?1562201921",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.jpg?1562201921",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/7/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d.jpg?1562201921"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4.0,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7860cf3-c3ea-4055-8c95-6d1c8d50e69d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9fd288d6-445e-4605-b206-aab43e300dde&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Pathetic. You might as well have protected your treasures with a paper box and some string.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "a98b442c-9f55-45ee-ba8e-5a7ce9dd23ab",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 11368,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429903",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tricks+of+the+Trade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tricks+of+the+Trade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Tricks+of+the+Trade",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Tricks+of+the+Trade"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131407&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tricks+of+the+Trade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64322?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

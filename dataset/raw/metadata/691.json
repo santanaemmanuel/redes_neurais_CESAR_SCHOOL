@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b98355ba-255d-4254-9c45-5e8db1edd332",
+  "oracle_id": "a4ddd9e2-ea59-4bba-bb2f-a655cabbb65c",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 110712,
+  "cardmarket_id": 287609,
+  "name": "Tyrant of Valakut",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/b98355ba-255d-4254-9c45-5e8db1edd332",
+  "scryfall_uri": "https://scryfall.com/card/pogw/119/tyrant-of-valakut?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.jpg?1562871711",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.jpg?1562871711",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.jpg?1562871711",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.png?1562871711",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.jpg?1562871711",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/9/b98355ba-255d-4254-9c45-5e8db1edd332.jpg?1562871711"
+  },
+  "mana_cost": "{5}{R}{R}",
+  "cmc": 7.0,
+  "type_line": "Creature — Dragon",
+  "oracle_text": "Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nFlying\nWhen Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to any target.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying",
+    "Surge"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b98355ba-255d-4254-9c45-5e8db1edd332/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa4ddd9e2-ea59-4bba-bb2f-a655cabbb65c&unique=prints",
+  "collector_number": "119",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "c32251ea-fb56-4f94-9f45-967babafcc35",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "intropack"
+  ],
+  "edhrec_rank": 14738,
+  "prices": {
+    "usd": null,
+    "usd_foil": "0.43",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "0.60",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tyrant+of+Valakut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tyrant+of+Valakut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Tyrant+of+Valakut",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Tyrant+of+Valakut"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=110712&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tyrant+of+Valakut&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tyrant+of+Valakut&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

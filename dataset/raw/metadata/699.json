@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "77b28713-ffc1-4007-af65-63b6db91e924",
+  "oracle_id": "4c1c1537-e519-4e2f-9bc2-d34b289d4487",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111249,
+  "cardmarket_id": 287626,
+  "name": "Kozilek, the Great Distortion",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/77b28713-ffc1-4007-af65-63b6db91e924",
+  "scryfall_uri": "https://scryfall.com/card/pogw/4s/kozilek-the-great-distortion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.jpg?1562871524",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.jpg?1562871524",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.jpg?1562871524",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.png?1562871524",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.jpg?1562871524",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77b28713-ffc1-4007-af65-63b6db91e924.jpg?1562871524"
+  },
+  "mana_cost": "{8}{C}{C}",
+  "cmc": 10.0,
+  "type_line": "Legendary Creature — Eldrazi",
+  "oracle_text": "When you cast this spell, if you have fewer than seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a card with mana value X: Counter target spell with mana value X.",
+  "power": "12",
+  "toughness": "12",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/77b28713-ffc1-4007-af65-63b6db91e924/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4c1c1537-e519-4e2f-9bc2-d34b289d4487&unique=prints",
+  "collector_number": "4s",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "A void as cryptic as reality itself.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aleksi Briclot",
+  "artist_ids": [
+    "5e470014-31cb-41b0-b054-e23374484449"
+  ],
+  "illustration_id": "c1b94207-7fc5-407d-835a-aa61df31a086",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 1439,
+  "prices": {
+    "usd": null,
+    "usd_foil": "58.01",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "26.93",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kozilek%2C+the+Great+Distortion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kozilek%2C+the+Great+Distortion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Kozilek%2C+the+Great+Distortion",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kozilek%2C+the+Great+Distortion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111249&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kozilek%2C+the+Great+Distortion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kozilek%2C+the+Great+Distortion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

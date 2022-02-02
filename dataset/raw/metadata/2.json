@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "72230a1b-90ba-4564-9164-90cffdf34b93",
+  "oracle_id": "0cd035f0-bb53-40b7-b320-5d921268295a",
+  "multiverse_ids": [
+
+  ],
+  "name": "Goblin",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/72230a1b-90ba-4564-9164-90cffdf34b93",
+  "scryfall_uri": "https://scryfall.com/card/tgk2/6/goblin?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.png?1577661705",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Goblin",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "bf2a00e1-4517-4b44-af08-72534a9d8cb6",
+      "component": "combo_piece",
+      "name": "Rakdos Guildmage",
+      "type_line": "Creature — Zombie Shaman",
+      "uri": "https://api.scryfall.com/cards/bf2a00e1-4517-4b44-af08-72534a9d8cb6"
+    },
+    {
+      "object": "related_card",
+      "id": "72230a1b-90ba-4564-9164-90cffdf34b93",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/72230a1b-90ba-4564-9164-90cffdf34b93"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set": "tgk2",
+  "set_name": "RNA Guild Kit Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tgk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/72230a1b-90ba-4564-9164-90cffdf34b93/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0cd035f0-bb53-40b7-b320-5d921268295a&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "3531d5d7-b998-4450-bfa9-070e47320f8c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Goblin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Goblin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "9cd99e32-cbe4-44a7-82ef-7c2d86d6d013",
+  "oracle_id": "e410f80f-cf67-46ff-aeb3-da0204237d66",
+  "multiverse_ids": [
+    429895
+  ],
+  "mtgo_id": 64306,
+  "mtgo_foil_id": 64307,
+  "tcgplayer_id": 131409,
+  "cardmarket_id": 297398,
+  "name": "Victory's Herald",
+  "lang": "en",
+  "released_at": "2017-04-15",
+  "uri": "https://api.scryfall.com/cards/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013",
+  "scryfall_uri": "https://scryfall.com/card/w17/6/victorys-herald?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.jpg?1562199932",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.jpg?1562199932",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.jpg?1562199932",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.png?1562199932",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.jpg?1562199932",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/c/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013.jpg?1562199932"
+  },
+  "mana_cost": "{3}{W}{W}{W}",
+  "cmc": 6.0,
+  "type_line": "Creature — Angel",
+  "oracle_text": "Flying\nWhenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set": "w17",
+  "set_name": "Welcome Deck 2017",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aw17&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/w17?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9cd99e32-cbe4-44a7-82ef-7c2d86d6d013/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae410f80f-cf67-46ff-aeb3-da0204237d66&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "rk post",
+  "artist_ids": [
+    "81ae0f3f-1d88-4125-9aeb-b15b4c734c82"
+  ],
+  "illustration_id": "14bc9c84-2b0f-453c-9608-73a443429f5b",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "starterdeck"
+  ],
+  "edhrec_rank": 6539,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.18",
+    "eur_foil": null,
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429895",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Victory%27s+Herald&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Victory%27s+Herald&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Victory%27s+Herald",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Victory%27s+Herald"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=131409&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Victory%27s+Herald&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/64306?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

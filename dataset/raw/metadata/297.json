@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "293f7768-6279-4f26-979f-ea4e48095ae5",
+  "oracle_id": "868b758c-e21c-4079-a1fc-4c89af106f4b",
+  "multiverse_ids": [
+    153996
+  ],
+  "mtgo_id": 29675,
+  "mtgo_foil_id": 29676,
+  "tcgplayer_id": 18665,
+  "cardmarket_id": 19133,
+  "name": "Howl of the Night Pack",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/293f7768-6279-4f26-979f-ea4e48095ae5",
+  "scryfall_uri": "https://scryfall.com/card/shm/119/howl-of-the-night-pack?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.jpg?1562828104",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.jpg?1562828104",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.jpg?1562828104",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.png?1562828104",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.jpg?1562828104",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/9/293f7768-6279-4f26-979f-ea4e48095ae5.jpg?1562828104"
+  },
+  "mana_cost": "{6}{G}",
+  "cmc": 7.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 2/2 green Wolf creature token for each Forest you control.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "293f7768-6279-4f26-979f-ea4e48095ae5",
+      "component": "combo_piece",
+      "name": "Howl of the Night Pack",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/293f7768-6279-4f26-979f-ea4e48095ae5"
+    },
+    {
+      "object": "related_card",
+      "id": "9c138bf9-8be6-4f1a-a82c-a84938ab84f5",
+      "component": "token",
+      "name": "Wolf",
+      "type_line": "Token Creature — Wolf",
+      "uri": "https://api.scryfall.com/cards/9c138bf9-8be6-4f1a-a82c-a84938ab84f5"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/293f7768-6279-4f26-979f-ea4e48095ae5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A868b758c-e21c-4079-a1fc-4c89af106f4b&unique=prints",
+  "collector_number": "119",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The murderous horrors of Raven's Run are legendary, but even that haunted place goes quiet when the night wolves howl.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lars Grant-West",
+  "artist_ids": [
+    "21ed6499-c4d3-4965-ab02-6c7228275bec"
+  ],
+  "illustration_id": "7dbe93dd-d17d-40c6-9b44-9879476d98c1",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5230,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "2.90",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.40",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153996",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Howl+of+the+Night+Pack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Howl+of+the+Night+Pack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Howl+of+the+Night+Pack",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Howl+of+the+Night+Pack"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18665&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Howl+of+the+Night+Pack&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29675?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

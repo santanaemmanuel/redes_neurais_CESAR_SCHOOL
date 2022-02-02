@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "c355bf63-f456-43ad-a6df-6c2a17511f43",
+  "oracle_id": "5004b84a-33b7-4f6f-b2c2-7086b9087535",
+  "multiverse_ids": [
+    146764
+  ],
+  "mtgo_id": 29511,
+  "mtgo_foil_id": 29512,
+  "tcgplayer_id": 18654,
+  "cardmarket_id": 19286,
+  "name": "Graven Cairns",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/c355bf63-f456-43ad-a6df-6c2a17511f43",
+  "scryfall_uri": "https://scryfall.com/card/shm/272/graven-cairns?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.jpg?1562835622",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.jpg?1562835622",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.jpg?1562835622",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.png?1562835622",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.jpg?1562835622",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c355bf63-f456-43ad-a6df-6c2a17511f43.jpg?1562835622"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "C",
+    "R"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c355bf63-f456-43ad-a6df-6c2a17511f43/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5004b84a-33b7-4f6f-b2c2-7086b9087535&unique=prints",
+  "collector_number": "272",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Here did the Extinguisher steal the light from the world. Here will we sacrifice her to bring the Great Rekindling to our people.\"\n—Illulia of Nighthearth",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rob Alexander",
+  "artist_ids": [
+    "35906871-6c78-4ab2-9ed1-e6792c8efb74"
+  ],
+  "illustration_id": "e713e623-62a9-412b-8d71-5be526942501",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 509,
+  "prices": {
+    "usd": "9.65",
+    "usd_foil": "18.97",
+    "usd_etched": null,
+    "eur": "5.16",
+    "eur_foil": "8.49",
+    "tix": "0.25"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146764",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Graven+Cairns&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Graven+Cairns&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Graven+Cairns",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Graven+Cairns"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18654&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Graven+Cairns&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29511?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

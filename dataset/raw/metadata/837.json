@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "c34d66f5-e782-425c-9260-e8989a9cf50b",
+  "oracle_id": "8c52bd39-0586-48ca-b263-17210cf9feb6",
+  "multiverse_ids": [
+    425947
+  ],
+  "mtgo_id": 63323,
+  "mtgo_foil_id": 63324,
+  "tcgplayer_id": 128572,
+  "cardmarket_id": 295860,
+  "name": "Craterhoof Behemoth",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/c34d66f5-e782-425c-9260-e8989a9cf50b",
+  "scryfall_uri": "https://scryfall.com/card/mm3/122/craterhoof-behemoth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.jpg?1593813733",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.jpg?1593813733",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.jpg?1593813733",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.png?1593813733",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.jpg?1593813733",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c34d66f5-e782-425c-9260-e8989a9cf50b.jpg?1593813733"
+  },
+  "mana_cost": "{5}{G}{G}{G}",
+  "cmc": 8.0,
+  "type_line": "Creature — Beast",
+  "oracle_text": "Haste\nWhen Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c34d66f5-e782-425c-9260-e8989a9cf50b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8c52bd39-0586-48ca-b263-17210cf9feb6&unique=prints",
+  "collector_number": "122",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "0c425797-bc85-4484-9bad-0a673b2aafa9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 385,
+  "prices": {
+    "usd": "43.16",
+    "usd_foil": "132.47",
+    "usd_etched": null,
+    "eur": "36.00",
+    "eur_foil": "84.99",
+    "tix": "4.24"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425947",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Craterhoof+Behemoth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Craterhoof+Behemoth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Craterhoof+Behemoth",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Craterhoof+Behemoth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128572&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Craterhoof+Behemoth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63323?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

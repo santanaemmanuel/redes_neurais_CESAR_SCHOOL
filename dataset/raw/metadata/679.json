@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "1edeec1a-b0aa-48f6-8594-fb4d713771d1",
+  "oracle_id": "53a0923f-7da8-4e31-a231-9b275916e2a2",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111258,
+  "cardmarket_id": 287608,
+  "name": "Oath of Chandra",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/1edeec1a-b0aa-48f6-8594-fb4d713771d1",
+  "scryfall_uri": "https://scryfall.com/card/pogw/113s/oath-of-chandra?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.jpg?1562871450",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.jpg?1562871450",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.jpg?1562871450",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.png?1562871450",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.jpg?1562871450",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/e/1edeec1a-b0aa-48f6-8594-fb4d713771d1.jpg?1562871450"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Legendary Enchantment",
+  "oracle_text": "When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.\nAt the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, Oath of Chandra deals 2 damage to each opponent.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1edeec1a-b0aa-48f6-8594-fb4d713771d1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53a0923f-7da8-4e31-a231-9b275916e2a2&unique=prints",
+  "collector_number": "113s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"If it means that people can live in freedom, yeah, I'll keep watch.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wesley Burt",
+  "artist_ids": [
+    "b98c9d94-8bdb-49af-871d-7bac92274535"
+  ],
+  "illustration_id": "1224cba5-9406-4357-a489-ee73300d992c",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 7529,
+  "prices": {
+    "usd": null,
+    "usd_foil": "2.08",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "1.19",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oath+of+Chandra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oath+of+Chandra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Oath+of+Chandra",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Oath+of+Chandra"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111258&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oath+of+Chandra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oath+of+Chandra&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

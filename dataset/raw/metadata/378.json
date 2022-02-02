@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "b8cf8332-0ff2-40c5-980a-6f6be690fad0",
+  "oracle_id": "b09206a4-8b73-4125-8b79-53f6fd511b16",
+  "multiverse_ids": [
+    146762
+  ],
+  "mtgo_id": 29509,
+  "mtgo_foil_id": 29510,
+  "tcgplayer_id": 18852,
+  "cardmarket_id": 19095,
+  "name": "Wound Reflection",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/b8cf8332-0ff2-40c5-980a-6f6be690fad0",
+  "scryfall_uri": "https://scryfall.com/card/shm/81/wound-reflection?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.jpg?1562835138",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.jpg?1562835138",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.jpg?1562835138",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.png?1562835138",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.jpg?1562835138",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8cf8332-0ff2-40c5-980a-6f6be690fad0.jpg?1562835138"
+  },
+  "mana_cost": "{5}{B}",
+  "cmc": 6.0,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of each end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b8cf8332-0ff2-40c5-980a-6f6be690fad0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab09206a4-8b73-4125-8b79-53f6fd511b16&unique=prints",
+  "collector_number": "81",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "The mission of the Nighthearth, Illulia's cult of murderous cinders, is to intensify every pain suffered in Shadowmoor.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Terese Nielsen & Ron Spencer",
+  "artist_ids": [
+    "eb55171c-2342-45f4-a503-2d5a75baf752",
+    "dab52c11-0564-4207-a4a1-c1735c946a65"
+  ],
+  "illustration_id": "0fce1cc5-4a48-4baa-abc2-0bf2ec94ce4f",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1856,
+  "prices": {
+    "usd": "7.79",
+    "usd_foil": "29.09",
+    "usd_etched": null,
+    "eur": "3.99",
+    "eur_foil": "24.59",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146762",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wound+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wound+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wound+Reflection",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wound+Reflection"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18852&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wound+Reflection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29509?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

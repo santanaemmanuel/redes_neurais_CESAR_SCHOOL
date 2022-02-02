@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "c8b2875c-cb64-43da-bbf6-1c31dc25ed2f",
+  "oracle_id": "da67de0f-6b0d-4100-9260-334f8c235c59",
+  "multiverse_ids": [
+    25494
+  ],
+  "tcgplayer_id": 37810,
+  "name": "Trained Orgg",
+  "lang": "en",
+  "released_at": "2000-04-01",
+  "uri": "https://api.scryfall.com/cards/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f",
+  "scryfall_uri": "https://scryfall.com/card/s00/37/trained-orgg?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.jpg?1562133685",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.jpg?1562133685",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.jpg?1562133685",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.png?1562133685",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.jpg?1562133685",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/8/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f.jpg?1562133685"
+  },
+  "mana_cost": "{6}{R}",
+  "cmc": 7.0,
+  "type_line": "Creature — Orgg",
+  "oracle_text": "",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "1c105623-2564-40d7-a3aa-4134787fb127",
+  "set": "s00",
+  "set_name": "Starter 2000",
+  "set_type": "starter",
+  "set_uri": "https://api.scryfall.com/sets/1c105623-2564-40d7-a3aa-4134787fb127",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3As00&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/s00?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c8b2875c-cb64-43da-bbf6-1c31dc25ed2f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ada67de0f-6b0d-4100-9260-334f8c235c59&unique=prints",
+  "collector_number": "37",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "All orggs know how to kill; training teaches them *what* to kill.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eric Peterson",
+  "artist_ids": [
+    "0fc26d3b-4c0e-41d1-8eb3-286ab55a2328"
+  ],
+  "illustration_id": "aeeb9887-d1f4-4dc1-a28d-4067f8e2ec10",
+  "border_color": "white",
+  "frame": "1997",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 21644,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25494",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trained+Orgg&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trained+Orgg&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Trained+Orgg",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Trained+Orgg"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=37810&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trained+Orgg&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Trained+Orgg&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

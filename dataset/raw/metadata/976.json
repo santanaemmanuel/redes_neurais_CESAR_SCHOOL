@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "e7dd9fad-d8e3-4e46-b4d7-792d029736de",
+  "oracle_id": "395611fa-aec2-4c9e-92c3-70cf95cc00f4",
+  "multiverse_ids": [
+    425900
+  ],
+  "mtgo_id": 63497,
+  "mtgo_foil_id": 63498,
+  "tcgplayer_id": 128476,
+  "cardmarket_id": 295846,
+  "name": "Inquisition of Kozilek",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/e7dd9fad-d8e3-4e46-b4d7-792d029736de",
+  "scryfall_uri": "https://scryfall.com/card/mm3/75/inquisition-of-kozilek?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.png?1593813320",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e7dd9fad-d8e3-4e46-b4d7-792d029736de.jpg?1593813320"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Target player reveals their hand. You choose a nonland card from it with mana value 3 or less. That player discards that card.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e7dd9fad-d8e3-4e46-b4d7-792d029736de/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A395611fa-aec2-4c9e-92c3-70cf95cc00f4&unique=prints",
+  "collector_number": "75",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "After the awakening of the Eldrazi, some vampires took it upon themselves to remind the others where their loyalty should lie.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Volkan Baǵa",
+  "artist_ids": [
+    "93bec3c0-0260-4d31-8064-5d01efb4153f"
+  ],
+  "illustration_id": "916c4e5b-2b9f-4c0f-bb23-2d8c50cded2c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4233,
+  "prices": {
+    "usd": "2.72",
+    "usd_foil": "7.68",
+    "usd_etched": null,
+    "eur": "3.16",
+    "eur_foil": "7.50",
+    "tix": "3.12"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425900",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Inquisition+of+Kozilek&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Inquisition+of+Kozilek&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Inquisition+of+Kozilek",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Inquisition+of+Kozilek"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128476&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inquisition+of+Kozilek&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63497?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

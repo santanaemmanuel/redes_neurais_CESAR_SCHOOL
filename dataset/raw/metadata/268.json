@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c",
+  "oracle_id": "16c46eaf-7a31-4957-ab7c-ff07fbbd9ddc",
+  "multiverse_ids": [
+    146007
+  ],
+  "mtgo_id": 29415,
+  "mtgo_foil_id": 29416,
+  "tcgplayer_id": 18731,
+  "cardmarket_id": 19030,
+  "name": "Order of Whiteclay",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c",
+  "scryfall_uri": "https://scryfall.com/card/shm/16/order-of-whiteclay?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.png?1562826410",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/6/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c.jpg?1562826410"
+  },
+  "mana_cost": "{1}{W}{W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Kithkin Cleric",
+  "oracle_text": "{1}{W}{W}, {Q}: Return target creature card with mana value 3 or less from your graveyard to the battlefield. ({Q} is the untap symbol.)",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/06eb5f06-7f9c-4240-bbbb-6c59a49a5f0c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A16c46eaf-7a31-4957-ab7c-ff07fbbd9ddc&unique=prints",
+  "collector_number": "16",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Made from the clay of burial mounds, the face paint of the priests is a sign of their respect for those whose rest they interrupt.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Belledin",
+  "artist_ids": [
+    "f07d73b9-52a0-4fe5-858b-61f7b42174a5"
+  ],
+  "illustration_id": "be0369b6-9292-4446-af66-bc3e326ddf49",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11053,
+  "prices": {
+    "usd": "1.90",
+    "usd_foil": "6.00",
+    "usd_etched": null,
+    "eur": "1.20",
+    "eur_foil": "5.99",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146007",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Order+of+Whiteclay&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Order+of+Whiteclay&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Order+of+Whiteclay",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Order+of+Whiteclay"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18731&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Order+of+Whiteclay&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29415?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

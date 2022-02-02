@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "de4d8706-1b2f-41e9-8329-d0186b401227",
+  "oracle_id": "326ba371-124c-4949-a048-3a0c8962e567",
+  "multiverse_ids": [
+    464185
+  ],
+  "mtgo_id": 72844,
+  "tcgplayer_id": 191288,
+  "cardmarket_id": 375345,
+  "name": "Barren Moor",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/de4d8706-1b2f-41e9-8329-d0186b401227",
+  "scryfall_uri": "https://scryfall.com/card/mh1/236/barren-moor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.jpg?1562202541",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.jpg?1562202541",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.jpg?1562202541",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.png?1562202541",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.jpg?1562202541",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/e/de4d8706-1b2f-41e9-8329-d0186b401227.jpg?1562202541"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "B"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/de4d8706-1b2f-41e9-8329-d0186b401227/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A326ba371-124c-4949-a048-3a0c8962e567&unique=prints",
+  "collector_number": "236",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "illustration_id": "68653bf2-3f13-4b50-b2e6-526f67300c7b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 367,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-preview/hitting-cycle-2019-05-29?",
+    "previewed_at": "2019-05-29"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "3.87",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "1.99",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464185",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Barren+Moor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Barren+Moor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Barren+Moor",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Barren+Moor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191288&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Barren+Moor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72844?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

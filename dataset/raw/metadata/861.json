@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "e9600bdc-6a1b-4f7a-aa7d-538fb89df937",
+  "oracle_id": "069f6530-e65c-4d52-85f3-e0a2acd148c5",
+  "multiverse_ids": [
+    425944
+  ],
+  "mtgo_id": 63289,
+  "mtgo_foil_id": 63290,
+  "tcgplayer_id": 128838,
+  "cardmarket_id": 295979,
+  "name": "Avacyn's Pilgrim",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/e9600bdc-6a1b-4f7a-aa7d-538fb89df937",
+  "scryfall_uri": "https://scryfall.com/card/mm3/119/avacyns-pilgrim?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.jpg?1593813682",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.jpg?1593813682",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.jpg?1593813682",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.png?1593813682",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.jpg?1593813682",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/9/e9600bdc-6a1b-4f7a-aa7d-538fb89df937.jpg?1593813682"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature — Human Monk",
+  "oracle_text": "{T}: Add {W}.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e9600bdc-6a1b-4f7a-aa7d-538fb89df937/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A069f6530-e65c-4d52-85f3-e0a2acd148c5&unique=prints",
+  "collector_number": "119",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Avacyn's protection is everywhere. From the holy church to the sacred glade, all that we see is under her blessed watch.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jana Schirmer & Johannes Voss",
+  "artist_ids": [
+    "64c0582e-949d-41cb-8a23-a25b87850748",
+    "3593dd7e-c547-4a32-81cd-7da725f60118"
+  ],
+  "illustration_id": "f239e9d7-a2a4-467d-b821-9cce0171360b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 317,
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": "0.65",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.24",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425944",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Avacyn%27s+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Avacyn%27s+Pilgrim&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Avacyn%27s+Pilgrim",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Avacyn%27s+Pilgrim"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128838&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avacyn%27s+Pilgrim&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63289?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

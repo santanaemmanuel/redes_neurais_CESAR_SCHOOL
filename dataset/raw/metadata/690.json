@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "a8af826f-8845-4985-b7ce-0b55d4354c0b",
+  "oracle_id": "b0f19cba-1339-4518-8320-d7b1dcaf2eb0",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111241,
+  "cardmarket_id": 287627,
+  "name": "General Tazri",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/a8af826f-8845-4985-b7ce-0b55d4354c0b",
+  "scryfall_uri": "https://scryfall.com/card/pogw/19s/general-tazri?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.jpg?1562871686",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.jpg?1562871686",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.jpg?1562871686",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.png?1562871686",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.jpg?1562871686",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a8af826f-8845-4985-b7ce-0b55d4354c0b.jpg?1562871686"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5.0,
+  "type_line": "Legendary Creature — Human Ally",
+  "oracle_text": "When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle.\n{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a8af826f-8845-4985-b7ce-0b55d4354c0b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0f19cba-1339-4518-8320-d7b1dcaf2eb0&unique=prints",
+  "collector_number": "19s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Rahn",
+  "artist_ids": [
+    "7742047e-0f80-4c0f-a530-d07460165e86"
+  ],
+  "illustration_id": "d0e7ee55-39a3-489b-8099-a150f9eb23d8",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 7764,
+  "prices": {
+    "usd": null,
+    "usd_foil": "7.35",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=General+Tazri&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=General+Tazri&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=General+Tazri",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=General+Tazri"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111241&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=General+Tazri&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=General+Tazri&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

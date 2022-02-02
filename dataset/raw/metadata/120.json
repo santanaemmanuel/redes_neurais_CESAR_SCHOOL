@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "488e7c73-62bc-4d51-bcb6-8126ec559b41",
+  "oracle_id": "0acadb47-17b2-47d8-9aad-5436931bc38c",
+  "multiverse_ids": [
+    154410
+  ],
+  "mtgo_id": 29707,
+  "mtgo_foil_id": 29708,
+  "tcgplayer_id": 18840,
+  "cardmarket_id": 19283,
+  "name": "Wicker Warcrawler",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/488e7c73-62bc-4d51-bcb6-8126ec559b41",
+  "scryfall_uri": "https://scryfall.com/card/shm/269/wicker-warcrawler?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.jpg?1562829681",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.jpg?1562829681",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.jpg?1562829681",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.png?1562829681",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.jpg?1562829681",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/488e7c73-62bc-4d51-bcb6-8126ec559b41.jpg?1562829681"
+  },
+  "mana_cost": "{5}",
+  "cmc": 5.0,
+  "type_line": "Artifact Creature — Scarecrow",
+  "oracle_text": "Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/488e7c73-62bc-4d51-bcb6-8126ec559b41/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0acadb47-17b2-47d8-9aad-5436931bc38c&unique=prints",
+  "collector_number": "269",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "It's the twisted creation of a kithkin diviner who dreamed of very large crows.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "61db329a-2d33-4a24-a1f3-860542bf5d3f",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13767,
+  "prices": {
+    "usd": "0.30",
+    "usd_foil": "1.03",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.14",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154410",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wicker+Warcrawler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wicker+Warcrawler&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Wicker+Warcrawler",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Wicker+Warcrawler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18840&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wicker+Warcrawler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29707?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

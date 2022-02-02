@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "5720a5b2-60ca-49f9-83e8-b801471c92ea",
+  "oracle_id": "4cd6ad78-7441-4dd7-b486-d9575e8e0947",
+  "multiverse_ids": [
+    141988
+  ],
+  "mtgo_id": 29337,
+  "mtgo_foil_id": 29338,
+  "tcgplayer_id": 18576,
+  "cardmarket_id": 19096,
+  "name": "Blistering Dieflyn",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/5720a5b2-60ca-49f9-83e8-b801471c92ea",
+  "scryfall_uri": "https://scryfall.com/card/shm/82/blistering-dieflyn?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.jpg?1562830390",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.jpg?1562830390",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.jpg?1562830390",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.png?1562830390",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.jpg?1562830390",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5720a5b2-60ca-49f9-83e8-b801471c92ea.jpg?1562830390"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Creature — Imp",
+  "oracle_text": "Flying\n{B/R}: Blistering Dieflyn gets +1/+0 until end of turn.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5720a5b2-60ca-49f9-83e8-b801471c92ea/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4cd6ad78-7441-4dd7-b486-d9575e8e0947&unique=prints",
+  "collector_number": "82",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Any kithkin smith would love to catch a dieflyn for her kiln, relieving her of ever having to gather fuel again.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Altmann",
+  "artist_ids": [
+    "49f7fe0e-cd8f-471c-8b4e-254c8f7769a9"
+  ],
+  "illustration_id": "64d6aa6c-d359-4fce-bbbe-0dbbdaa872f4",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21565,
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.20",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.24",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=141988",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blistering+Dieflyn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blistering+Dieflyn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Blistering+Dieflyn",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Blistering+Dieflyn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18576&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blistering+Dieflyn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29337?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

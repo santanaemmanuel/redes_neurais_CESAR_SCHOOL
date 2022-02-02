@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "ec646a3c-a0f4-43ea-9753-ec7ad395894b",
+  "oracle_id": "e1cfd1cb-44a5-429f-a5c1-e6d29bad1c71",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111248,
+  "cardmarket_id": 287632,
+  "name": "Kalitas, Traitor of Ghet",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/ec646a3c-a0f4-43ea-9753-ec7ad395894b",
+  "scryfall_uri": "https://scryfall.com/card/pogw/86s/kalitas-traitor-of-ghet?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.jpg?1562871769",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.jpg?1562871769",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.jpg?1562871769",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.png?1562871769",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.jpg?1562871769",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/c/ec646a3c-a0f4-43ea-9753-ec7ad395894b.jpg?1562871769"
+  },
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature — Vampire Warrior",
+  "oracle_text": "Lifelink\nIf a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.\n{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Lifelink"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "17a278d0-f601-4d57-bc3d-2972f8602a69",
+      "component": "combo_piece",
+      "name": "Kalitas, Traitor of Ghet",
+      "type_line": "Legendary Creature — Vampire Warrior",
+      "uri": "https://api.scryfall.com/cards/17a278d0-f601-4d57-bc3d-2972f8602a69"
+    },
+    {
+      "object": "related_card",
+      "id": "e0bde78b-98d1-4864-899b-fc2f945ce06b",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/e0bde78b-98d1-4864-899b-fc2f945ce06b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ec646a3c-a0f4-43ea-9753-ec7ad395894b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1cfd1cb-44a5-429f-a5c1-e6d29bad1c71&unique=prints",
+  "collector_number": "86s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "6d9aada1-349a-40b1-8f07-d0b04f3cc4ed",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 2659,
+  "prices": {
+    "usd": null,
+    "usd_foil": "34.82",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "29.90",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kalitas%2C+Traitor+of+Ghet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kalitas%2C+Traitor+of+Ghet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Kalitas%2C+Traitor+of+Ghet",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kalitas%2C+Traitor+of+Ghet"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111248&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kalitas%2C+Traitor+of+Ghet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kalitas%2C+Traitor+of+Ghet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

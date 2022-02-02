@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "e44aa879-b63b-497c-9c1b-2333950161fa",
+  "oracle_id": "ec6e76e8-e80e-4534-990a-03c3bbeda53a",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 120442,
+  "name": "Zombie",
+  "lang": "en",
+  "released_at": "2016-07-22",
+  "uri": "https://api.scryfall.com/cards/e44aa879-b63b-497c-9c1b-2333950161fa",
+  "scryfall_uri": "https://scryfall.com/card/temn/6/zombie?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.png?1562636931",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/4/e44aa879-b63b-497c-9c1b-2333950161fa.jpg?1562636931"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Zombie",
+  "oracle_text": "",
+  "power": "*",
+  "toughness": "*",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "eb9b1158-dfc4-4fe9-b970-338be8a99662",
+      "component": "combo_piece",
+      "name": "Soul Separator",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/eb9b1158-dfc4-4fe9-b970-338be8a99662"
+    },
+    {
+      "object": "related_card",
+      "id": "e44aa879-b63b-497c-9c1b-2333950161fa",
+      "component": "token",
+      "name": "Zombie",
+      "type_line": "Token Creature — Zombie",
+      "uri": "https://api.scryfall.com/cards/e44aa879-b63b-497c-9c1b-2333950161fa"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "eaa440dd-b2b5-4228-b7da-9071818497a2",
+  "set": "temn",
+  "set_name": "Eldritch Moon Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/eaa440dd-b2b5-4228-b7da-9071818497a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atemn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/temn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e44aa879-b63b-497c-9c1b-2333950161fa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec6e76e8-e80e-4534-990a-03c3bbeda53a&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "0809e2cf-f02c-41db-aab1-748e4adfb875",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.24",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zombie&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Zombie",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Zombie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=120442&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zombie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

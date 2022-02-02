@@ -1,0 +1,142 @@
+{
+  "object": "card",
+  "id": "3369340f-d170-4566-b8e8-e4dc918f7f85",
+  "oracle_id": "9676da93-1e17-4f6c-b610-a242b78c71ab",
+  "multiverse_ids": [
+    425848
+  ],
+  "mtgo_id": 63257,
+  "mtgo_foil_id": 63258,
+  "tcgplayer_id": 128658,
+  "cardmarket_id": 295886,
+  "name": "Sensor Splicer",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/3369340f-d170-4566-b8e8-e4dc918f7f85",
+  "scryfall_uri": "https://scryfall.com/card/mm3/23/sensor-splicer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.png?1593812931",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/3/3369340f-d170-4566-b8e8-e4dc918f7f85.jpg?1593812931"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5.0,
+  "type_line": "Creature — Phyrexian Artificer",
+  "oracle_text": "When Sensor Splicer enters the battlefield, create a 3/3 colorless Phyrexian Golem artifact creature token.\nGolem creatures you control have vigilance.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3369340f-d170-4566-b8e8-e4dc918f7f85",
+      "component": "combo_piece",
+      "name": "Sensor Splicer",
+      "type_line": "Creature — Phyrexian Artificer",
+      "uri": "https://api.scryfall.com/cards/3369340f-d170-4566-b8e8-e4dc918f7f85"
+    },
+    {
+      "object": "related_card",
+      "id": "509be7b3-490d-4229-ba10-999921a6b977",
+      "component": "token",
+      "name": "Golem",
+      "type_line": "Token Artifact Creature — Golem",
+      "uri": "https://api.scryfall.com/cards/509be7b3-490d-4229-ba10-999921a6b977"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3369340f-d170-4566-b8e8-e4dc918f7f85/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9676da93-1e17-4f6c-b610-a242b78c71ab&unique=prints",
+  "collector_number": "23",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "With clarity of vision comes clarity of function.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Izzy",
+  "artist_ids": [
+    "2c3d2473-ff5d-4309-8194-e0b2def2ab65"
+  ],
+  "illustration_id": "fd460014-ecb3-4ef6-bba8-32365972f2ff",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7872,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.19",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.15",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425848",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sensor+Splicer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sensor+Splicer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sensor+Splicer",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sensor+Splicer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128658&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sensor+Splicer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63257?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

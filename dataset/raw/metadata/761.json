@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "2edb89a4-e749-4043-913c-34ed20d10b02",
+  "oracle_id": "38e274e2-bd04-48de-a1df-44f0ee987ba8",
+  "multiverse_ids": [
+    426035
+  ],
+  "mtgo_id": 63117,
+  "mtgo_foil_id": 63118,
+  "tcgplayer_id": 128900,
+  "cardmarket_id": 296043,
+  "name": "Mistmeadow Witch",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/2edb89a4-e749-4043-913c-34ed20d10b02",
+  "scryfall_uri": "https://scryfall.com/card/mm3/210/mistmeadow-witch?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.jpg?1593814816",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.jpg?1593814816",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.jpg?1593814816",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.png?1593814816",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.jpg?1593814816",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2edb89a4-e749-4043-913c-34ed20d10b02.jpg?1593814816"
+  },
+  "mana_cost": "{1}{W/U}",
+  "cmc": 2.0,
+  "type_line": "Creature — Kithkin Wizard",
+  "oracle_text": "{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2edb89a4-e749-4043-913c-34ed20d10b02/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38e274e2-bd04-48de-a1df-44f0ee987ba8&unique=prints",
+  "collector_number": "210",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Olka collected the evening mist for years, studying its secrets. Once she learned its essence, she could vanish with a thought.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Greg Staples",
+  "artist_ids": [
+    "93d65564-bf00-447b-8406-e2031f03b6b1"
+  ],
+  "illustration_id": "34eaf94a-b0cf-495d-b862-b4e71cf93474",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3200,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.57",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.30",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426035",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mistmeadow+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mistmeadow+Witch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Mistmeadow+Witch",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mistmeadow+Witch"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128900&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mistmeadow+Witch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63117?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

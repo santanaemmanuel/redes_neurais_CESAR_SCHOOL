@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "d58e2167-defb-46cc-a165-02ce6157137d",
+  "oracle_id": "bf75a3d1-f184-4b48-a913-21caee1db084",
+  "multiverse_ids": [
+    426062
+  ],
+  "mtgo_id": 63463,
+  "mtgo_foil_id": 63464,
+  "tcgplayer_id": 128293,
+  "cardmarket_id": 295802,
+  "name": "Izzet Guildgate",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/d58e2167-defb-46cc-a165-02ce6157137d",
+  "scryfall_uri": "https://scryfall.com/card/mm3/237/izzet-guildgate?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.jpg?1593815038",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.jpg?1593815038",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.jpg?1593815038",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.png?1593815038",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.jpg?1593815038",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d58e2167-defb-46cc-a165-02ce6157137d.jpg?1593815038"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land — Gate",
+  "oracle_text": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "R",
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d58e2167-defb-46cc-a165-02ce6157137d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abf75a3d1-f184-4b48-a913-21caee1db084&unique=prints",
+  "collector_number": "237",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Beyond lies the culmination of all Izzet projects, a grand experiment led by the dragon Niv-Mizzet himself.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Noah Bradley",
+  "artist_ids": [
+    "81995d11-da98-4f8b-89bd-b88ca2ddb06b"
+  ],
+  "illustration_id": "bafd5a33-14a9-4185-b867-d3b1b7529493",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 753,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.38",
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": "0.10",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426062",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Izzet+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Izzet+Guildgate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Izzet+Guildgate",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Izzet+Guildgate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128293&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Izzet+Guildgate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63463?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

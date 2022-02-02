@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "27933191-dad6-43d5-b02e-a94ad8033f2f",
+  "oracle_id": "f943c005-9b77-411a-b522-1182e22724e1",
+  "multiverse_ids": [
+    464144
+  ],
+  "mtgo_id": 72762,
+  "tcgplayer_id": 190989,
+  "cardmarket_id": 374706,
+  "name": "Cloudshredder Sliver",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/27933191-dad6-43d5-b02e-a94ad8033f2f",
+  "scryfall_uri": "https://scryfall.com/card/mh1/195/cloudshredder-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1562202289",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1562202289",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1562202289",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.png?1562202289",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1562202289",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/27933191-dad6-43d5-b02e-a94ad8033f2f.jpg?1562202289"
+  },
+  "mana_cost": "{R}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "Sliver creatures you control have flying and haste.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/27933191-dad6-43d5-b02e-a94ad8033f2f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af943c005-9b77-411a-b522-1182e22724e1&unique=prints",
+  "collector_number": "195",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Forked tails rustled. Talons clicked. A lone sliver streaked overhead like jagged lightning, and the hive thundered.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "151bf478-6726-403b-93f7-d9816ffa1f78",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2573,
+  "preview": {
+    "source": "Hunter Pence",
+    "source_uri": "https://twitter.com/hunterpence/status/1131727189601267712?s=21",
+    "previewed_at": "2019-05-23"
+  },
+  "prices": {
+    "usd": "1.65",
+    "usd_foil": "4.48",
+    "usd_etched": null,
+    "eur": "1.08",
+    "eur_foil": "3.20",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464144",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cloudshredder+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cloudshredder+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cloudshredder+Sliver",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cloudshredder+Sliver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190989&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cloudshredder+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72762?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "900c9dfd-ece1-4b09-a801-0fa05e1994b9",
+  "oracle_id": "4fc5f871-a809-4a4a-adfb-eb4cd52837c8",
+  "multiverse_ids": [
+    464148
+  ],
+  "mtgo_id": 72770,
+  "tcgplayer_id": 190993,
+  "cardmarket_id": 374964,
+  "name": "Fallen Shinobi",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/900c9dfd-ece1-4b09-a801-0fa05e1994b9",
+  "scryfall_uri": "https://scryfall.com/card/mh1/199/fallen-shinobi?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1562202313",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1562202313",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1562202313",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.png?1562202313",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1562202313",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/0/900c9dfd-ece1-4b09-a801-0fa05e1994b9.jpg?1562202313"
+  },
+  "mana_cost": "{3}{U}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature — Zombie Ninja",
+  "oracle_text": "Ninjutsu {2}{U}{B} ({2}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Fallen Shinobi deals combat damage to a player, that player exiles the top two cards of their library. Until end of turn, you may play those cards without paying their mana costs.",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+    "Ninjutsu"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/900c9dfd-ece1-4b09-a801-0fa05e1994b9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4fc5f871-a809-4a4a-adfb-eb4cd52837c8&unique=prints",
+  "collector_number": "199",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Tomasz Jedruszek",
+  "artist_ids": [
+    "bba69285-2445-4a4b-a847-59397be972ea"
+  ],
+  "illustration_id": "31c74ea1-86d8-425e-8135-c3143d2db1f2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1656,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2019-05-24"
+  },
+  "prices": {
+    "usd": "5.19",
+    "usd_foil": "20.30",
+    "usd_etched": null,
+    "eur": "4.69",
+    "eur_foil": "13.00",
+    "tix": "0.29"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464148",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fallen+Shinobi&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fallen+Shinobi&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Fallen+Shinobi",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Fallen+Shinobi"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190993&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fallen+Shinobi&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72770?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

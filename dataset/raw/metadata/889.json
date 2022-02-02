@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "9a005974-ba57-42cf-a54f-4aba41cad144",
+  "oracle_id": "c715e525-fc3a-4cab-94a0-04e0a22a5013",
+  "multiverse_ids": [
+    426023
+  ],
+  "mtgo_id": 63409,
+  "mtgo_foil_id": 63410,
+  "tcgplayer_id": 128948,
+  "cardmarket_id": 296036,
+  "name": "Urban Evolution",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/9a005974-ba57-42cf-a54f-4aba41cad144",
+  "scryfall_uri": "https://scryfall.com/card/mm3/198/urban-evolution?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.jpg?1593814714",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.jpg?1593814714",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.jpg?1593814714",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.png?1593814714",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.jpg?1593814714",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a005974-ba57-42cf-a54f-4aba41cad144.jpg?1593814714"
+  },
+  "mana_cost": "{3}{G}{U}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Draw three cards. You may play an additional land this turn.",
+  "colors": [
+    "G",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9a005974-ba57-42cf-a54f-4aba41cad144/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac715e525-fc3a-4cab-94a0-04e0a22a5013&unique=prints",
+  "collector_number": "198",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Eytan Zana",
+  "artist_ids": [
+    "0d8d6726-4051-445a-8374-a919aad98f38"
+  ],
+  "illustration_id": "95151720-7aa5-4775-8da8-e59e3a69a4e2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 983,
+  "prices": {
+    "usd": "0.18",
+    "usd_foil": "0.32",
+    "usd_etched": null,
+    "eur": "0.32",
+    "eur_foil": "0.45",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426023",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urban+Evolution&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urban+Evolution&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Urban+Evolution",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Urban+Evolution"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128948&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urban+Evolution&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63409?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

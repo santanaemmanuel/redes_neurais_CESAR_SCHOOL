@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "3f2d9bae-2753-486c-be79-2438208ac353",
+  "oracle_id": "2fd025ef-14f5-4621-831d-dd12b7c604dd",
+  "multiverse_ids": [
+    464128
+  ],
+  "mtgo_id": 72730,
+  "tcgplayer_id": 190947,
+  "cardmarket_id": 374664,
+  "name": "Scale Up",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/3f2d9bae-2753-486c-be79-2438208ac353",
+  "scryfall_uri": "https://scryfall.com/card/mh1/179/scale-up?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1562202186",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1562202186",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1562202186",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.png?1562202186",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1562202186",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/f/3f2d9bae-2753-486c-be79-2438208ac353.jpg?1562202186"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Until end of turn, target creature you control becomes a green Wurm with base power and toughness 6/4.\nOverload {4}{G}{G} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3f2d9bae-2753-486c-be79-2438208ac353/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2fd025ef-14f5-4621-831d-dd12b7c604dd&unique=prints",
+  "collector_number": "179",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Suzanne Helmigh",
+  "artist_ids": [
+    "65d77b0b-6cca-4adf-a7ee-610c96d02371"
+  ],
+  "illustration_id": "54c69aa9-215c-493b-8a50-68f5c1b3c42b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4652,
+  "preview": {
+    "source": "InvoKando",
+    "source_uri": "https://www.youtube.com/watch?v=QUGaGgw4gOs",
+    "previewed_at": "2019-05-22"
+  },
+  "prices": {
+    "usd": "0.51",
+    "usd_foil": "3.92",
+    "usd_etched": null,
+    "eur": "0.22",
+    "eur_foil": "2.00",
+    "tix": "0.09"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464128",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scale+Up&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scale+Up&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Scale+Up",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scale+Up"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190947&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scale+Up&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72730?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

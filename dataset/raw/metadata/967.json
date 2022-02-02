@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "cf7188d8-d37f-49ec-ab52-8ea080725ca7",
+  "oracle_id": "220bfa3b-0e17-4350-a967-cfcf05b754ef",
+  "multiverse_ids": [
+    426028
+  ],
+  "mtgo_id": 63163,
+  "mtgo_foil_id": 63164,
+  "tcgplayer_id": 128492,
+  "cardmarket_id": 295833,
+  "name": "Woolly Thoctar",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/cf7188d8-d37f-49ec-ab52-8ea080725ca7",
+  "scryfall_uri": "https://scryfall.com/card/mm3/203/woolly-thoctar?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.jpg?1593814757",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.jpg?1593814757",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.jpg?1593814757",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.png?1593814757",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.jpg?1593814757",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/f/cf7188d8-d37f-49ec-ab52-8ea080725ca7.jpg?1593814757"
+  },
+  "mana_cost": "{R}{G}{W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Beast",
+  "oracle_text": "",
+  "power": "5",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cf7188d8-d37f-49ec-ab52-8ea080725ca7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A220bfa3b-0e17-4350-a967-cfcf05b754ef&unique=prints",
+  "collector_number": "203",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "One of the most ferocious and deadly gargantuans, the thoctar never sees its worshippers, but it often awakens surrounded by gifts and sacrifices.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "398a8fba-0169-48a9-b58c-8166bb2d530d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12520,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.30",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426028",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Woolly+Thoctar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Woolly+Thoctar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Woolly+Thoctar",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Woolly+Thoctar"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128492&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Woolly+Thoctar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63163?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

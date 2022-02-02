@@ -1,0 +1,140 @@
+{
+  "object": "card",
+  "id": "96b496a2-11f4-4655-b9e5-0c8c37b2bb9e",
+  "oracle_id": "ee243f81-f51c-4d9a-a396-f7cef84b46c1",
+  "multiverse_ids": [
+    425946
+  ],
+  "mtgo_id": 63047,
+  "mtgo_foil_id": 63048,
+  "tcgplayer_id": 128848,
+  "cardmarket_id": 295981,
+  "name": "Call of the Herd",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e",
+  "scryfall_uri": "https://scryfall.com/card/mm3/121/call-of-the-herd?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.jpg?1593813714",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.jpg?1593813714",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.jpg?1593813714",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.png?1593813714",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.jpg?1593813714",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/6/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e.jpg?1593813714"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 3/3 green Elephant creature token.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "96b496a2-11f4-4655-b9e5-0c8c37b2bb9e",
+      "component": "combo_piece",
+      "name": "Call of the Herd",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e"
+    },
+    {
+      "object": "related_card",
+      "id": "fe0ea880-0158-4faa-8018-f6626f25dd02",
+      "component": "token",
+      "name": "Elephant",
+      "type_line": "Token Creature — Elephant",
+      "uri": "https://api.scryfall.com/cards/fe0ea880-0158-4faa-8018-f6626f25dd02"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/96b496a2-11f4-4655-b9e5-0c8c37b2bb9e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aee243f81-f51c-4d9a-a396-f7cef84b46c1&unique=prints",
+  "collector_number": "121",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Carl Critchlow",
+  "artist_ids": [
+    "17948f16-611a-44b8-8d10-9895a0bdfff1"
+  ],
+  "illustration_id": "1fe92fbb-cd7d-408a-8d39-83c79df87aae",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12865,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.15",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425946",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Call+of+the+Herd&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Call+of+the+Herd&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Call+of+the+Herd",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Call+of+the+Herd"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128848&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Call+of+the+Herd&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63047?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

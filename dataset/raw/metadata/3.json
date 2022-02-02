@@ -1,0 +1,144 @@
+{
+  "object": "card",
+  "id": "a813c741-d0d4-48cd-9bbf-8a04a544ce8e",
+  "oracle_id": "5c462040-1ae1-4c9d-bb20-69429ee66e27",
+  "multiverse_ids": [
+
+  ],
+  "name": "Bird",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/a813c741-d0d4-48cd-9bbf-8a04a544ce8e",
+  "scryfall_uri": "https://scryfall.com/card/tgk2/1/bird?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.jpg?1552078404",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.jpg?1552078404",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.jpg?1552078404",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.png?1552078404",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.jpg?1552078404",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/8/a813c741-d0d4-48cd-9bbf-8a04a544ce8e.jpg?1552078404"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Bird",
+  "oracle_text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "e2bd6ecd-a786-4c83-99c5-50515a691417",
+      "component": "combo_piece",
+      "name": "Dovescape",
+      "type_line": "Enchantment",
+      "uri": "https://api.scryfall.com/cards/e2bd6ecd-a786-4c83-99c5-50515a691417"
+    },
+    {
+      "object": "related_card",
+      "id": "48e6b67f-ebf5-4413-9417-ed45a576a390",
+      "component": "combo_piece",
+      "name": "Pride of the Clouds",
+      "type_line": "Creature — Elemental Cat",
+      "uri": "https://api.scryfall.com/cards/48e6b67f-ebf5-4413-9417-ed45a576a390"
+    },
+    {
+      "object": "related_card",
+      "id": "a813c741-d0d4-48cd-9bbf-8a04a544ce8e",
+      "component": "token",
+      "name": "Bird",
+      "type_line": "Token Creature — Bird",
+      "uri": "https://api.scryfall.com/cards/a813c741-d0d4-48cd-9bbf-8a04a544ce8e"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set": "tgk2",
+  "set_name": "RNA Guild Kit Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tgk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a813c741-d0d4-48cd-9bbf-8a04a544ce8e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5c462040-1ae1-4c9d-bb20-69429ee66e27&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "azorius",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Shishizaru",
+  "artist_ids": [
+    "f993a598-f922-49c8-bb03-6beb3b780b0d"
+  ],
+  "illustration_id": "314cad2d-2af4-4820-aecc-42c289c3a802",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bird&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bird&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Bird",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bird"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Bird&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bird&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bird&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

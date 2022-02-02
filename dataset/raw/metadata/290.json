@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "499f9987-87d8-4cd3-98c4-b6976c70739e",
+  "oracle_id": "c2ffce33-ab1a-40f1-959b-31583219ed1a",
+  "multiverse_ids": [
+    152059
+  ],
+  "mtgo_id": 29593,
+  "mtgo_foil_id": 29594,
+  "tcgplayer_id": 18734,
+  "cardmarket_id": 19059,
+  "name": "Parapet Watchers",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/499f9987-87d8-4cd3-98c4-b6976c70739e",
+  "scryfall_uri": "https://scryfall.com/card/shm/45/parapet-watchers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.jpg?1562829734",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.jpg?1562829734",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.jpg?1562829734",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.png?1562829734",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.jpg?1562829734",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/499f9987-87d8-4cd3-98c4-b6976c70739e.jpg?1562829734"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature — Kithkin Soldier",
+  "oracle_text": "{W/U}: Parapet Watchers gets +0/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/499f9987-87d8-4cd3-98c4-b6976c70739e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac2ffce33-ab1a-40f1-959b-31583219ed1a&unique=prints",
+  "collector_number": "45",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A kithkin doun is not so much a town as a fortress, built to withstand the constantly besieging darkness. Only those most watchful and trustworthy are tasked with guarding its walls.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Altmann",
+  "artist_ids": [
+    "49f7fe0e-cd8f-471c-8b4e-254c8f7769a9"
+  ],
+  "illustration_id": "b0bffa41-3756-4f89-bc0c-167c3065536a",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22202,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.25",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152059",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Parapet+Watchers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Parapet+Watchers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Parapet+Watchers",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Parapet+Watchers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18734&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Parapet+Watchers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29593?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

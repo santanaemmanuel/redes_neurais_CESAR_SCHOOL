@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "86d726e1-a363-4d77-97d4-e8c94f93fd51",
+  "oracle_id": "aa7f0f15-bcbb-4af5-ad31-ff215dd81e71",
+  "multiverse_ids": [
+    154395
+  ],
+  "mtgo_id": 29691,
+  "mtgo_foil_id": 29692,
+  "tcgplayer_id": 18659,
+  "cardmarket_id": 19267,
+  "name": "Heap Doll",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/86d726e1-a363-4d77-97d4-e8c94f93fd51",
+  "scryfall_uri": "https://scryfall.com/card/shm/253/heap-doll?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.jpg?1562832639",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.jpg?1562832639",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.jpg?1562832639",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.png?1562832639",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.jpg?1562832639",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86d726e1-a363-4d77-97d4-e8c94f93fd51.jpg?1562832639"
+  },
+  "mana_cost": "{1}",
+  "cmc": 1.0,
+  "type_line": "Artifact Creature — Scarecrow",
+  "oracle_text": "Sacrifice Heap Doll: Exile target card from a graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "restricted",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/86d726e1-a363-4d77-97d4-e8c94f93fd51/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaa7f0f15-bcbb-4af5-ad31-ff215dd81e71&unique=prints",
+  "collector_number": "253",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"I know one night it won't come back. Then I'll know it's truly done its job.\"\n—Braenna, cobblesmith",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "John Avon",
+  "artist_ids": [
+    "798f3932-30e0-4420-aa3f-db4d613f89ca"
+  ],
+  "illustration_id": "b2e0f56b-9601-4f37-ae65-690bd462c53f",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6497,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "2.21",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "1.49",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154395",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Heap+Doll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Heap+Doll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Heap+Doll",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Heap+Doll"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18659&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Heap+Doll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29691?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

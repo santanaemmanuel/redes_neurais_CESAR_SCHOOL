@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "e6aee954-2a04-425d-8d05-09dad58af656",
+  "oracle_id": "5fa3cc1a-09ee-4152-8c50-ea719510fc20",
+  "multiverse_ids": [
+    146015
+  ],
+  "mtgo_id": 29421,
+  "mtgo_foil_id": 29422,
+  "tcgplayer_id": 18650,
+  "cardmarket_id": 19265,
+  "name": "Gnarled Effigy",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/e6aee954-2a04-425d-8d05-09dad58af656",
+  "scryfall_uri": "https://scryfall.com/card/shm/251/gnarled-effigy?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.jpg?1562837513",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.jpg?1562837513",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.jpg?1562837513",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.png?1562837513",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.jpg?1562837513",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/6/e6aee954-2a04-425d-8d05-09dad58af656.jpg?1562837513"
+  },
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Artifact",
+  "oracle_text": "{4}, {T}: Put a -1/-1 counter on target creature.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e6aee954-2a04-425d-8d05-09dad58af656/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5fa3cc1a-09ee-4152-8c50-ea719510fc20&unique=prints",
+  "collector_number": "251",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Bits of fallen scarecrow, laces of elfskin leather, teeth of an axeshark merrow . . . An industrious soul can find new uses for the most mundane items.\"\n—Mowagh the Gwyllion",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ron Brown",
+  "artist_ids": [
+    "9abb9627-bfb2-4d4a-8908-164dd5433dcb"
+  ],
+  "illustration_id": "b65caa21-316d-4417-bf7a-9e211e0da33e",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16901,
+  "prices": {
+    "usd": "0.10",
+    "usd_foil": "0.33",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.10",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146015",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gnarled+Effigy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gnarled+Effigy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Gnarled+Effigy",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Gnarled+Effigy"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18650&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gnarled+Effigy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29421?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

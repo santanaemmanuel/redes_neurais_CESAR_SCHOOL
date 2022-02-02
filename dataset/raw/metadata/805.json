@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "53d4fd57-74b6-42c7-88b1-110e5a8dfc3c",
+  "oracle_id": "d64b0848-0193-4025-ba62-63ecd8fb9f50",
+  "multiverse_ids": [
+    425876
+  ],
+  "mtgo_id": 63191,
+  "mtgo_foil_id": 63192,
+  "tcgplayer_id": 128955,
+  "cardmarket_id": 295933,
+  "name": "Spell Pierce",
+  "lang": "en",
+  "released_at": "2017-03-17",
+  "uri": "https://api.scryfall.com/cards/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c",
+  "scryfall_uri": "https://scryfall.com/card/mm3/51/spell-pierce?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.png?1593813145",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/3/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c.jpg?1593813145"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Counter target noncreature spell unless its controller pays {2}.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set": "mm3",
+  "set_name": "Modern Masters 2017",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/02624962-f727-4c31-bbf2-a94fa6c5b653",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amm3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mm3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/53d4fd57-74b6-42c7-88b1-110e5a8dfc3c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad64b0848-0193-4025-ba62-63ecd8fb9f50&unique=prints",
+  "collector_number": "51",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"There's a hole in your plan.\"\n—Noyan Dar, Tazeem lullmage",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vance Kovacs",
+  "artist_ids": [
+    "b5516011-4722-4fc8-8542-102cecc52b71"
+  ],
+  "illustration_id": "4bdf8068-d062-4205-882c-d4fcd0878c1f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 735,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "2.77",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "1.50",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spell+Pierce&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spell+Pierce&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Spell+Pierce",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Spell+Pierce"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=128955&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spell+Pierce&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/63191?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

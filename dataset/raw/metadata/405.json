@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "c5c54ec5-2917-4acf-b56f-8273781477f6",
+  "oracle_id": "7c415180-c179-474b-8c58-e7096bd2c763",
+  "multiverse_ids": [
+    142045
+  ],
+  "mtgo_id": 29389,
+  "mtgo_foil_id": 29390,
+  "tcgplayer_id": 18568,
+  "cardmarket_id": 19017,
+  "name": "Ballynock Cohort",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/c5c54ec5-2917-4acf-b56f-8273781477f6",
+  "scryfall_uri": "https://scryfall.com/card/shm/3/ballynock-cohort?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.jpg?1562835753",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.jpg?1562835753",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.jpg?1562835753",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.png?1562835753",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.jpg?1562835753",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c5c54ec5-2917-4acf-b56f-8273781477f6.jpg?1562835753"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Kithkin Soldier",
+  "oracle_text": "First strike\nBallynock Cohort gets +1/+1 as long as you control another white creature.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "First strike"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5c54ec5-2917-4acf-b56f-8273781477f6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c415180-c179-474b-8c58-e7096bd2c763&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "A kithkin's worst enemy is solitude.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jesper Ejsing",
+  "artist_ids": [
+    "a5f8354a-8b51-4e59-96b2-0e3aeae4fa1d"
+  ],
+  "illustration_id": "7874616d-801c-4673-998d-84bae3e90c48",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14778,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.15",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142045",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ballynock+Cohort&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ballynock+Cohort&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ballynock+Cohort",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ballynock+Cohort"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18568&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ballynock+Cohort&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29389?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "473d37d1-1829-47d2-99d4-ed9916520c16",
+  "oracle_id": "53236dd7-845a-444c-96d5-f41ed7325d8f",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 185032,
+  "cardmarket_id": 368515,
+  "name": "Rhystic Study",
+  "lang": "en",
+  "released_at": "2018-01-01",
+  "uri": "https://api.scryfall.com/cards/473d37d1-1829-47d2-99d4-ed9916520c16",
+  "scryfall_uri": "https://scryfall.com/card/j18/7/rhystic-study?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.jpg?1592487902",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.jpg?1592487902",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.jpg?1592487902",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.png?1592487902",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.jpg?1592487902",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/7/473d37d1-1829-47d2-99d4-ed9916520c16.jpg?1592487902"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "banned",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set": "j18",
+  "set_name": "Judge Gift Cards 2018",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj18&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j18?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/473d37d1-1829-47d2-99d4-ed9916520c16/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A53236dd7-845a-444c-96d5-f41ed7325d8f&unique=prints",
+  "collector_number": "7",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "wotc",
+  "flavor_text": "Friends teach what you want to know. Enemies teach what you *need* to know.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Paul Scott Canavan",
+  "artist_ids": [
+    "c19bfb77-5099-4f7c-8585-6eaf367712c9"
+  ],
+  "illustration_id": "bab2e0d3-0820-40e8-ad6a-f4c7526d4ea4",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "judgegift"
+  ],
+  "edhrec_rank": 30,
+  "prices": {
+    "usd": null,
+    "usd_foil": "221.13",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "139.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rhystic+Study&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rhystic+Study&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Rhystic+Study",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Rhystic+Study"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=185032&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rhystic+Study&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rhystic+Study&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

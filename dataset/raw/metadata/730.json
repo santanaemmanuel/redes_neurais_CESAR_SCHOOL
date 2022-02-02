@@ -1,0 +1,119 @@
+{
+  "object": "card",
+  "id": "e0581322-d901-465e-b22c-cd99ddbb4839",
+  "oracle_id": "e4bcd4ea-e7cd-4471-8f3b-18bb51d3d70c",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 38332,
+  "cardmarket_id": 17576,
+  "name": "Pyroclasm",
+  "lang": "en",
+  "released_at": "2006-01-01",
+  "uri": "https://api.scryfall.com/cards/e0581322-d901-465e-b22c-cd99ddbb4839",
+  "scryfall_uri": "https://scryfall.com/card/p06/3/pyroclasm?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.jpg?1561758268",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.jpg?1561758268",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.jpg?1561758268",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.png?1561758268",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.jpg?1561758268",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0581322-d901-465e-b22c-cd99ddbb4839.jpg?1561758268"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Pyroclasm deals 2 damage to each creature.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set": "p06",
+  "set_name": "Magic Player Rewards 2006",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/619f656b-94dc-4772-bc99-62bac48f1eb9",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ap06&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/p06?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0581322-d901-465e-b22c-cd99ddbb4839/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4bcd4ea-e7cd-4471-8f3b-18bb51d3d70c&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Dorman",
+  "artist_ids": [
+    "9235458b-ce92-45bd-a430-a72ecd8e6176"
+  ],
+  "illustration_id": "ca98db44-47a1-4c02-ad16-c760601bdf0b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": true,
+  "textless": true,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "playerrewards"
+  ],
+  "edhrec_rank": 3131,
+  "prices": {
+    "usd": "3.63",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "1.49",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pyroclasm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pyroclasm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Pyroclasm",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pyroclasm"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=38332&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pyroclasm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pyroclasm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

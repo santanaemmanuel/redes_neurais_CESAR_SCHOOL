@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "8b118200-55e0-4d06-9e7e-ecde2814d24e",
+  "oracle_id": "fce163aa-c5d0-4147-8566-512321c0be8e",
+  "multiverse_ids": [
+    153297
+  ],
+  "mtgo_id": 29621,
+  "mtgo_foil_id": 29622,
+  "tcgplayer_id": 18855,
+  "cardmarket_id": 19176,
+  "name": "Ghastlord of Fugue",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/8b118200-55e0-4d06-9e7e-ecde2814d24e",
+  "scryfall_uri": "https://scryfall.com/card/shm/162/ghastlord-of-fugue?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.jpg?1562832851",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.jpg?1562832851",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.jpg?1562832851",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.png?1562832851",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.jpg?1562832851",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/b/8b118200-55e0-4d06-9e7e-ecde2814d24e.jpg?1562832851"
+  },
+  "mana_cost": "{U/B}{U/B}{U/B}{U/B}{U/B}",
+  "cmc": 5.0,
+  "type_line": "Creature — Spirit Avatar",
+  "oracle_text": "Ghastlord of Fugue can't be blocked.\nWhenever Ghastlord of Fugue deals combat damage to a player, that player reveals their hand. You choose a card from it. That player exiles that card.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8b118200-55e0-4d06-9e7e-ecde2814d24e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afce163aa-c5d0-4147-8566-512321c0be8e&unique=prints",
+  "collector_number": "162",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"He is a ghost that has never known life.\"\n—*The Seer's Parables*",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Dringenberg",
+  "artist_ids": [
+    "a1407afa-0f54-43f8-938b-88b268074f91"
+  ],
+  "illustration_id": "a740cd5e-ca0b-4dac-b6f8-3999b283269d",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10657,
+  "prices": {
+    "usd": "5.33",
+    "usd_foil": "28.04",
+    "usd_etched": null,
+    "eur": "1.70",
+    "eur_foil": "4.50",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153297",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ghastlord+of+Fugue&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ghastlord+of+Fugue&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Ghastlord+of+Fugue",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ghastlord+of+Fugue"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18855&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ghastlord+of+Fugue&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29621?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

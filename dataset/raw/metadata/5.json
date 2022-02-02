@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "d5013fdc-fae8-4170-8320-1ed13902f319",
+  "oracle_id": "606c46d7-18a5-4cce-9975-029899b82b34",
+  "multiverse_ids": [
+
+  ],
+  "name": "Dragon",
+  "lang": "en",
+  "released_at": "2019-02-15",
+  "uri": "https://api.scryfall.com/cards/d5013fdc-fae8-4170-8320-1ed13902f319",
+  "scryfall_uri": "https://scryfall.com/card/tgk2/5/dragon?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.png?1552078407",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d5013fdc-fae8-4170-8320-1ed13902f319.jpg?1552078407"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Dragon",
+  "oracle_text": "Flying",
+  "power": "6",
+  "toughness": "6",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "f2ad4005-a511-4151-90c9-ace197b86759",
+      "component": "combo_piece",
+      "name": "Utvara Hellkite",
+      "type_line": "Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/f2ad4005-a511-4151-90c9-ace197b86759"
+    },
+    {
+      "object": "related_card",
+      "id": "d5013fdc-fae8-4170-8320-1ed13902f319",
+      "component": "token",
+      "name": "Dragon",
+      "type_line": "Token Creature — Dragon",
+      "uri": "https://api.scryfall.com/cards/d5013fdc-fae8-4170-8320-1ed13902f319"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set": "tgk2",
+  "set_name": "RNA Guild Kit Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/e679befd-f788-46ab-a000-bcd1b0c56ff2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atgk2&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tgk2?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d5013fdc-fae8-4170-8320-1ed13902f319/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A606c46d7-18a5-4cce-9975-029899b82b34&unique=prints",
+  "collector_number": "5",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "rakdos",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Zug",
+  "artist_ids": [
+    "48e2b98c-5467-4671-bd42-4c3746115117"
+  ],
+  "illustration_id": "425de6aa-d8d8-46a2-94a0-2a286b4b26fe",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Dragon",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dragon"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

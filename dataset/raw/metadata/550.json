@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b022a628-4883-427a-8477-0e87d1a71028",
+  "oracle_id": "9082d364-9fe4-47bd-9097-8888ae75b2e1",
+  "multiverse_ids": [
+    464172
+  ],
+  "mtgo_id": 72818,
+  "tcgplayer_id": 191740,
+  "cardmarket_id": 375723,
+  "name": "Fountain of Ichor",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/b022a628-4883-427a-8477-0e87d1a71028",
+  "scryfall_uri": "https://scryfall.com/card/mh1/223/fountain-of-ichor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.png?1562202462",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/0/b022a628-4883-427a-8477-0e87d1a71028.jpg?1562202462"
+  },
+  "mana_cost": "{3}",
+  "cmc": 3.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add one mana of any color.\n{3}: Fountain of Ichor becomes a 3/3 Dinosaur artifact creature until end of turn.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b022a628-4883-427a-8477-0e87d1a71028/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9082d364-9fe4-47bd-9097-8888ae75b2e1&unique=prints",
+  "collector_number": "223",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Sun Empire priests thought they were digging a well. What they tapped was something different entirely.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Grzegorz Rutkowski",
+  "artist_ids": [
+    "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+  ],
+  "illustration_id": "fb86ab45-eadf-430c-9ad8-2a42eb59be72",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6632,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.25",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464172",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fountain+of+Ichor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fountain+of+Ichor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Fountain+of+Ichor",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Fountain+of+Ichor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191740&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fountain+of+Ichor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72818?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "283221d1-bac0-45d7-b586-ddc230227f12",
+  "oracle_id": "91f34686-cb96-49c0-b4a7-49dd1fd076e2",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111266,
+  "cardmarket_id": 287624,
+  "name": "Sea Gate Wreckage",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/283221d1-bac0-45d7-b586-ddc230227f12",
+  "scryfall_uri": "https://scryfall.com/card/pogw/177s/sea-gate-wreckage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.jpg?1562871464",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.jpg?1562871464",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.jpg?1562871464",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.png?1562871464",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.jpg?1562871464",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/8/283221d1-bac0-45d7-b586-ddc230227f12.jpg?1562871464"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}. ({C} represents colorless mana.)\n{2}{C}, {T}: Draw a card. Activate only if you have no cards in hand.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/283221d1-bac0-45d7-b586-ddc230227f12/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A91f34686-cb96-49c0-b4a7-49dd1fd076e2&unique=prints",
+  "collector_number": "177s",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Once a center for knowledge, Sea Gate now serves as a reminder of what was lost.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zack Stella",
+  "artist_ids": [
+    "17bc7f55-958b-43f4-bb40-09746d05b3f9"
+  ],
+  "illustration_id": "bd7a866e-9605-42d3-a89b-cac0acd6b5d3",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3303,
+  "prices": {
+    "usd": null,
+    "usd_foil": "1.86",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "2.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sea+Gate+Wreckage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sea+Gate+Wreckage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Sea+Gate+Wreckage",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sea+Gate+Wreckage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111266&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sea+Gate+Wreckage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sea+Gate+Wreckage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

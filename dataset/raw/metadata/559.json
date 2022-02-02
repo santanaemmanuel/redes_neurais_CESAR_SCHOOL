@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "ea751fe2-b64a-4265-8885-a9016b29b5b3",
+  "oracle_id": "4acb6612-54e8-428d-acb6-c7259a5ad6a8",
+  "multiverse_ids": [
+    464146
+  ],
+  "mtgo_id": 72766,
+  "tcgplayer_id": 191062,
+  "cardmarket_id": 375060,
+  "name": "Eladamri's Call",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/ea751fe2-b64a-4265-8885-a9016b29b5b3",
+  "scryfall_uri": "https://scryfall.com/card/mh1/197/eladamris-call?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.png?1562202300",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/a/ea751fe2-b64a-4265-8885-a9016b29b5b3.jpg?1562202300"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Search your library for a creature card, reveal that card, put it into your hand, then shuffle.",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea751fe2-b64a-4265-8885-a9016b29b5b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4acb6612-54e8-428d-acb6-c7259a5ad6a8&unique=prints",
+  "collector_number": "197",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Tribal rivalries and petty disputes were laid aside at Eladamri's summons.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kev Walker",
+  "artist_ids": [
+    "f366a0ee-a0cd-466d-ba6a-90058c7a31a6"
+  ],
+  "illustration_id": "675a3cfb-6c62-4ec6-a9dc-14b68679242f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 261,
+  "preview": {
+    "source": "Commanderin",
+    "source_uri": "https://www.patreon.com/posts/e170-modern-card-27142060",
+    "previewed_at": "2019-05-27"
+  },
+  "prices": {
+    "usd": "6.66",
+    "usd_foil": "12.93",
+    "usd_etched": null,
+    "eur": "4.59",
+    "eur_foil": "7.50",
+    "tix": "1.31"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464146",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Eladamri%27s+Call&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Eladamri%27s+Call&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Eladamri%27s+Call",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Eladamri%27s+Call"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191062&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Eladamri%27s+Call&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72766?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "265d7eed-38ee-42de-904d-56c837186198",
+  "oracle_id": "67f43ac6-2a58-4b53-b5d7-0330e2a252e2",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 18759,
+  "name": "Reflecting Pool",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/265d7eed-38ee-42de-904d-56c837186198",
+  "scryfall_uri": "https://scryfall.com/card/shm/278%E2%98%85/reflecting-pool?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/6/265d7eed-38ee-42de-904d-56c837186198.jpg?1616251537",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/6/265d7eed-38ee-42de-904d-56c837186198.jpg?1616251537",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/6/265d7eed-38ee-42de-904d-56c837186198.jpg?1616251537",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/265d7eed-38ee-42de-904d-56c837186198.png?1616251537",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/6/265d7eed-38ee-42de-904d-56c837186198.jpg?1616251537",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/6/265d7eed-38ee-42de-904d-56c837186198.jpg?1616251537"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add one mana of any type that a land you control could produce.",
+  "colors": [
+
+  ],
+  "color_identity": [
+
+  ],
+  "keywords": [
+
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/265d7eed-38ee-42de-904d-56c837186198/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67f43ac6-2a58-4b53-b5d7-0330e2a252e2&unique=prints",
+  "collector_number": "278★",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Does it reflect the future that once was or the past that can never be?",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fred Fields",
+  "artist_ids": [
+    "9c77c81a-3b3f-4e94-a834-327d01cd6b35"
+  ],
+  "illustration_id": "9e683509-302e-4e39-872e-b0739925f6e0",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 240,
+  "prices": {
+    "usd": null,
+    "usd_foil": "101.99",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reflecting+Pool&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reflecting+Pool&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Reflecting+Pool",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Reflecting+Pool"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18759&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reflecting+Pool&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reflecting+Pool&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

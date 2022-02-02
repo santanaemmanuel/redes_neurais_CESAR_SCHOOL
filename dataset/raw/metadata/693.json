@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c",
+  "oracle_id": "deeb7e22-b207-42de-b9d4-f790403d52a9",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 111276,
+  "cardmarket_id": 287635,
+  "name": "World Breaker",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c",
+  "scryfall_uri": "https://scryfall.com/card/pogw/126s/world-breaker?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.jpg?1562871705",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.jpg?1562871705",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.jpg?1562871705",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.png?1562871705",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.jpg?1562871705",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/5/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c.jpg?1562871705"
+  },
+  "mana_cost": "{6}{G}",
+  "cmc": 7.0,
+  "type_line": "Creature — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nWhen you cast this spell, exile target artifact, enchantment, or land.\nReach\n{2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)",
+  "power": "5",
+  "toughness": "7",
+  "colors": [
+
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Devoid"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b59cbc7b-cee5-4dc3-bc9d-ba8bd7a52c2c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adeeb7e22-b207-42de-b9d4-f790403d52a9&unique=prints",
+  "collector_number": "126s",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "92c9d95d-ea26-46c8-b473-1a3393b3a1c2",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "prerelease",
+    "datestamped"
+  ],
+  "edhrec_rank": 3380,
+  "prices": {
+    "usd": null,
+    "usd_foil": "10.97",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "8.00",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=World+Breaker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=World+Breaker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=World+Breaker",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=World+Breaker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=111276&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=World+Breaker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=World+Breaker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

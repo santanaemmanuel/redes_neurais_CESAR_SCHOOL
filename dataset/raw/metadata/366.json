@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "bea1e2c4-1671-4322-b8ba-e4e1a879cf37",
+  "oracle_id": "e4ecd56c-216d-4c3a-9dfa-09ae1be03e4f",
+  "multiverse_ids": [
+    158694
+  ],
+  "mtgo_id": 29795,
+  "mtgo_foil_id": 29796,
+  "tcgplayer_id": 18725,
+  "cardmarket_id": 19029,
+  "name": "Niveous Wisps",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/bea1e2c4-1671-4322-b8ba-e4e1a879cf37",
+  "scryfall_uri": "https://scryfall.com/card/shm/15/niveous-wisps?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.png?1562835473",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/e/bea1e2c4-1671-4322-b8ba-e4e1a879cf37.jpg?1562835473"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature becomes white until end of turn. Tap that creature.\nDraw a card.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bea1e2c4-1671-4322-b8ba-e4e1a879cf37/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4ecd56c-216d-4c3a-9dfa-09ae1be03e4f&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "In a world devoid of sun, illumination comes from cheerless fires or the wandering spirits of the dead.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jim Nelson",
+  "artist_ids": [
+    "aa9f64d1-29e1-4c82-877e-44c18183f40b"
+  ],
+  "illustration_id": "8d2651c2-dc8d-40cc-9d4c-b93571b16593",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6469,
+  "prices": {
+    "usd": "0.37",
+    "usd_foil": "3.79",
+    "usd_etched": null,
+    "eur": "0.26",
+    "eur_foil": "1.60",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158694",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Niveous+Wisps&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Niveous+Wisps&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Niveous+Wisps",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Niveous+Wisps"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18725&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Niveous+Wisps&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29795?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

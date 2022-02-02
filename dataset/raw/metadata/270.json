@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "2fa67c32-aeca-473d-994f-58ffc3a6a310",
+  "oracle_id": "de41081e-713c-4005-90f7-65d9426208f1",
+  "multiverse_ids": [
+    142036
+  ],
+  "mtgo_id": 29383,
+  "mtgo_foil_id": 29384,
+  "tcgplayer_id": 18622,
+  "cardmarket_id": 19200,
+  "name": "Everlasting Torment",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/2fa67c32-aeca-473d-994f-58ffc3a6a310",
+  "scryfall_uri": "https://scryfall.com/card/shm/186/everlasting-torment?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.jpg?1562828383",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.jpg?1562828383",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.jpg?1562828383",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.png?1562828383",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.jpg?1562828383",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/f/2fa67c32-aeca-473d-994f-58ffc3a6a310.jpg?1562828383"
+  },
+  "mana_cost": "{2}{B/R}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Players can't gain life.\nDamage can't be prevented.\nAll damage is dealt as though its source had wither. (A source with wither deals damage to creatures in the form of -1/-1 counters.)",
+  "colors": [
+    "B",
+    "R"
+  ],
+  "color_identity": [
+    "B",
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2fa67c32-aeca-473d-994f-58ffc3a6a310/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade41081e-713c-4005-90f7-65d9426208f1&unique=prints",
+  "collector_number": "186",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "When night fell, the plane itself was scarred.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Kane Ferguson",
+  "artist_ids": [
+    "191620ed-2361-444e-96a6-1fe7ce32ef3b"
+  ],
+  "illustration_id": "f317c441-317c-4a69-923a-30a4206b87fb",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6594,
+  "prices": {
+    "usd": "2.80",
+    "usd_foil": "11.65",
+    "usd_etched": null,
+    "eur": "0.99",
+    "eur_foil": "2.49",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142036",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Everlasting+Torment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Everlasting+Torment&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Everlasting+Torment",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Everlasting+Torment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18622&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Everlasting+Torment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29383?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

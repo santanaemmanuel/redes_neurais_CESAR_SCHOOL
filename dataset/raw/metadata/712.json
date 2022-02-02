@@ -1,0 +1,120 @@
+{
+  "object": "card",
+  "id": "0ddbcd23-e206-4a12-968a-3854693d1e60",
+  "oracle_id": "046b6989-5b56-4b52-a655-109b1eb26a93",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 110834,
+  "cardmarket_id": 287196,
+  "name": "Immolating Glare",
+  "lang": "en",
+  "released_at": "2016-01-22",
+  "uri": "https://api.scryfall.com/cards/0ddbcd23-e206-4a12-968a-3854693d1e60",
+  "scryfall_uri": "https://scryfall.com/card/pogw/20/immolating-glare?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.jpg?1562870987",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.jpg?1562870987",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.jpg?1562870987",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.png?1562870987",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.jpg?1562870987",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/0/d/0ddbcd23-e206-4a12-968a-3854693d1e60.jpg?1562870987"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target attacking creature.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set": "pogw",
+  "set_name": "Oath of the Gatewatch Promos",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Apogw&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/pogw?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0ddbcd23-e206-4a12-968a-3854693d1e60/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A046b6989-5b56-4b52-a655-109b1eb26a93&unique=prints",
+  "collector_number": "20",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Alexander Lee",
+  "artist_ids": [
+    "f4d194b4-958a-4830-8d87-1a84e0b9ffbc"
+  ],
+  "illustration_id": "176713d3-56bb-4690-8733-8b98db1fb61c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": true,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo",
+    "gameday"
+  ],
+  "edhrec_rank": 12082,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.15",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Immolating+Glare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Immolating+Glare&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Immolating+Glare",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Immolating+Glare"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=110834&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Immolating+Glare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Immolating+Glare&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

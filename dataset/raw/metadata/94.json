@@ -1,0 +1,137 @@
+{
+  "object": "card",
+  "id": "ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0",
+  "oracle_id": "bd386399-69f0-4653-96a1-fd05b8fd148c",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 120444,
+  "name": "Spider",
+  "lang": "en",
+  "released_at": "2016-07-22",
+  "uri": "https://api.scryfall.com/cards/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0",
+  "scryfall_uri": "https://scryfall.com/card/temn/8/spider?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.png?1562636904",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/e/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0.jpg?1562636904"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Spider",
+  "oracle_text": "Reach",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "2a6c5a98-2fe5-4671-a6a8-98a47c09c5a7",
+      "component": "combo_piece",
+      "name": "Ishkanah, Grafwidow",
+      "type_line": "Legendary Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/2a6c5a98-2fe5-4671-a6a8-98a47c09c5a7"
+    },
+    {
+      "object": "related_card",
+      "id": "ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0",
+      "component": "token",
+      "name": "Spider",
+      "type_line": "Token Creature — Spider",
+      "uri": "https://api.scryfall.com/cards/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "eaa440dd-b2b5-4228-b7da-9071818497a2",
+  "set": "temn",
+  "set_name": "Eldritch Moon Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/eaa440dd-b2b5-4228-b7da-9071818497a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atemn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/temn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ce90c48f-74fb-4e87-9e46-7f8c3d79cbb0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd386399-69f0-4653-96a1-fd05b8fd148c&unique=prints",
+  "collector_number": "8",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Christine Choi",
+  "artist_ids": [
+    "b8266529-1ffe-41e7-9969-fcf39f61426b"
+  ],
+  "illustration_id": "99bbecd3-64be-468d-aa4b-02f72272980a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "setpromo"
+  ],
+  "prices": {
+    "usd": "0.26",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Spider",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Spider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=120444&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

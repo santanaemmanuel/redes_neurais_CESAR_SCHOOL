@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "99ef4f41-211c-4302-b112-1d85ab33952f",
+  "oracle_id": "23985249-c54e-4bfa-b69a-512422a46a77",
+  "multiverse_ids": [
+    464021
+  ],
+  "mtgo_id": 72516,
+  "tcgplayer_id": 191056,
+  "cardmarket_id": 375057,
+  "name": "String of Disappearances",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/99ef4f41-211c-4302-b112-1d85ab33952f",
+  "scryfall_uri": "https://scryfall.com/card/mh1/72/string-of-disappearances?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.jpg?1562201521",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.jpg?1562201521",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.jpg?1562201521",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.png?1562201521",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.jpg?1562201521",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/99ef4f41-211c-4302-b112-1d85ab33952f.jpg?1562201521"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Return target creature to its owner's hand. Then that creature's controller may pay {U}{U}. If the player does, they may copy this spell and may choose a new target for that copy.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/99ef4f41-211c-4302-b112-1d85ab33952f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A23985249-c54e-4bfa-b69a-512422a46a77&unique=prints",
+  "collector_number": "72",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Seb McKinnon",
+  "artist_ids": [
+    "ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb"
+  ],
+  "illustration_id": "9a928b80-45ac-431b-92d8-280b25f2b864",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 8480,
+  "preview": {
+    "source": "Snack Time",
+    "source_uri": "https://www.youtube.com/watch?v=6jIga2ai36c",
+    "previewed_at": "2019-05-27"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "1.00",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464021",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=String+of+Disappearances&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=String+of+Disappearances&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=String+of+Disappearances",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=String+of+Disappearances"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191056&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=String+of+Disappearances&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72516?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3",
+  "oracle_id": "e8863518-0bfa-49c3-8c6e-6c9116a81051",
+  "multiverse_ids": [
+    509342
+  ],
+  "tcgplayer_id": 221309,
+  "cardmarket_id": 491944,
+  "name": "Worldly Tutor",
+  "lang": "en",
+  "released_at": "2020-12-04",
+  "uri": "https://api.scryfall.com/cards/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3",
+  "scryfall_uri": "https://scryfall.com/card/cc1/6/worldly-tutor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.jpg?1610161852",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.jpg?1610161852",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.jpg?1610161852",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.png?1610161852",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.jpg?1610161852",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/b/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3.jpg?1610161852"
+  },
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Search your library for a creature card, reveal it, then shuffle and put the card on top.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set": "cc1",
+  "set_name": "Commander Collection: Green",
+  "set_type": "arsenal",
+  "set_uri": "https://api.scryfall.com/sets/4de7b6af-43e2-4cd8-990e-3927b65ba62f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Acc1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/cc1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fb6b6fbe-cb6f-4d0d-b3eb-f9629d6784b3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae8863518-0bfa-49c3-8c6e-6c9116a81051&unique=prints",
+  "collector_number": "6",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"A single chord brings them to heel. A whole song, and they dance.\"\n—Yisan, the wanderer bard",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Cristi Balanescu",
+  "artist_ids": [
+    "c09ede88-a1b5-4a18-9895-dc8a965d28a5"
+  ],
+  "illustration_id": "81f8a8cb-950a-4461-a6b8-d0b0f5e704f0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 120,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2020-08-22"
+  },
+  "prices": {
+    "usd": "25.64",
+    "usd_foil": "59.37",
+    "usd_etched": null,
+    "eur": "14.92",
+    "eur_foil": "38.63",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=509342",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Worldly+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Worldly+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Worldly+Tutor",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Worldly+Tutor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=221309&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Worldly+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Worldly+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

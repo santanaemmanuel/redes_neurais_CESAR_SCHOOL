@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5eaa4199-df9b-494a-af7a-2491e8b0ef70",
+  "oracle_id": "67a3541c-8408-40c8-b44f-90035b860f57",
+  "multiverse_ids": [
+    464004
+  ],
+  "mtgo_id": 72482,
+  "tcgplayer_id": 190872,
+  "cardmarket_id": 374565,
+  "name": "Man-o'-War",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/5eaa4199-df9b-494a-af7a-2491e8b0ef70",
+  "scryfall_uri": "https://scryfall.com/card/mh1/55/man-o-war?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.jpg?1562201399",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.jpg?1562201399",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.jpg?1562201399",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.png?1562201399",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.jpg?1562201399",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/e/5eaa4199-df9b-494a-af7a-2491e8b0ef70.jpg?1562201399"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature — Jellyfish",
+  "oracle_text": "When Man-o'-War enters the battlefield, return target creature to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5eaa4199-df9b-494a-af7a-2491e8b0ef70/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67a3541c-8408-40c8-b44f-90035b860f57&unique=prints",
+  "collector_number": "55",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Beauty to the eye does not always translate to the touch.\"\n—Naimah, Femeref philosopher",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jon J Muth",
+  "artist_ids": [
+    "32e6b862-3f86-4408-a351-fe4edef5e7b2"
+  ],
+  "illustration_id": "df411fa7-63c2-4243-a970-44c1884532c5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2988,
+  "preview": {
+    "source": "Marshall Sutcliffe",
+    "source_uri": "https://twitter.com/Marshall_LR/status/1131093228063641601",
+    "previewed_at": "2019-05-22"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.21",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.33",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464004",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Man-o%27-War&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Man-o%27-War",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Man-o%27-War"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190872&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Man-o%27-War&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72482?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "51b657f0-6636-4d8a-9176-81027816e0ec",
+  "oracle_id": "9b33059c-c862-4452-8609-14a0e2551fb3",
+  "multiverse_ids": [
+    464070
+  ],
+  "mtgo_id": 72614,
+  "tcgplayer_id": 191749,
+  "cardmarket_id": 375663,
+  "name": "Cleaving Sliver",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/51b657f0-6636-4d8a-9176-81027816e0ec",
+  "scryfall_uri": "https://scryfall.com/card/mh1/121/cleaving-sliver?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.jpg?1562201815",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.jpg?1562201815",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.jpg?1562201815",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.png?1562201815",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.jpg?1562201815",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/1/51b657f0-6636-4d8a-9176-81027816e0ec.jpg?1562201815"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4.0,
+  "type_line": "Creature — Sliver",
+  "oracle_text": "Sliver creatures you control get +2/+0.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/51b657f0-6636-4d8a-9176-81027816e0ec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b33059c-c862-4452-8609-14a0e2551fb3&unique=prints",
+  "collector_number": "121",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "When it wriggled closer to a thrum of slivers, their talons hardened and glinted in the sun. One took a playful swipe at a tree trunk, and its new blade cut clean through.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "David Gaillet",
+  "artist_ids": [
+    "3496c5b4-57bf-4e5e-8bac-a1e05a911a2d"
+  ],
+  "illustration_id": "49c4c530-a9ee-4508-8ce0-2b8e209377a1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6635,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.29",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.40",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464070",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cleaving+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cleaving+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Cleaving+Sliver",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cleaving+Sliver"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=191749&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cleaving+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72614?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

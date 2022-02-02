@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "4c679459-939a-4040-b6a3-e02a11f4071c",
+  "oracle_id": "86cebe2a-95e7-4f22-99cc-e805aeaf347e",
+  "multiverse_ids": [
+
+  ],
+  "tcgplayer_id": 166624,
+  "cardmarket_id": 357066,
+  "name": "Merchant Scroll",
+  "lang": "en",
+  "released_at": "2018-01-01",
+  "uri": "https://api.scryfall.com/cards/4c679459-939a-4040-b6a3-e02a11f4071c",
+  "scryfall_uri": "https://scryfall.com/card/j18/1/merchant-scroll?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.jpg?1561757099",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.jpg?1561757099",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.jpg?1561757099",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.png?1561757099",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.jpg?1561757099",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/c/4c679459-939a-4040-b6a3-e02a11f4071c.jpg?1561757099"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "restricted",
+    "penny": "not_legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": false,
+  "finishes": [
+    "foil"
+  ],
+  "oversized": false,
+  "promo": true,
+  "reprint": true,
+  "variation": false,
+  "set_id": "71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set": "j18",
+  "set_name": "Judge Gift Cards 2018",
+  "set_type": "promo",
+  "set_uri": "https://api.scryfall.com/sets/71da38d2-c15a-45c4-97b2-a791a2fd695b",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aj18&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/j18?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4c679459-939a-4040-b6a3-e02a11f4071c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86cebe2a-95e7-4f22-99cc-e805aeaf347e&unique=prints",
+  "collector_number": "1",
+  "digital": false,
+  "rarity": "rare",
+  "watermark": "wotc",
+  "flavor_text": "A rare find, suitable for the most discerning collector.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Scott Murphy",
+  "artist_ids": [
+    "07c7ac65-dfa6-4273-9c66-ec9d8f3e2226"
+  ],
+  "illustration_id": "55d30e69-927e-4533-a8d2-92c2083ce3ce",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "judgegift"
+  ],
+  "edhrec_rank": 743,
+  "prices": {
+    "usd": null,
+    "usd_foil": "37.33",
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": "29.99",
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Merchant+Scroll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Merchant+Scroll&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Merchant+Scroll",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Merchant+Scroll"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=166624&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Merchant+Scroll&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Merchant+Scroll&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

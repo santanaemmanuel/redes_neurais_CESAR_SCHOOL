@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "3287775f-7bec-4e8f-bb8d-daf5ce92e4a8",
+  "oracle_id": "80e9a42e-f4f4-4bfc-91a2-ad124737dca2",
+  "multiverse_ids": [
+    464110
+  ],
+  "mtgo_id": 72694,
+  "tcgplayer_id": 190648,
+  "cardmarket_id": 374421,
+  "name": "Deep Forest Hermit",
+  "lang": "en",
+  "released_at": "2019-06-14",
+  "uri": "https://api.scryfall.com/cards/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8",
+  "scryfall_uri": "https://scryfall.com/card/mh1/161/deep-forest-hermit?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.png?1562202056",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/2/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8.jpg?1562202056"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature — Elf Druid",
+  "oracle_text": "Vanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhen Deep Forest Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.\nSquirrels you control get +1/+1.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Vanishing"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "3287775f-7bec-4e8f-bb8d-daf5ce92e4a8",
+      "component": "combo_piece",
+      "name": "Deep Forest Hermit",
+      "type_line": "Creature — Elf Druid",
+      "uri": "https://api.scryfall.com/cards/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8"
+    },
+    {
+      "object": "related_card",
+      "id": "7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46",
+      "component": "token",
+      "name": "Squirrel",
+      "type_line": "Token Creature — Squirrel",
+      "uri": "https://api.scryfall.com/cards/7b997fe7-69f3-4ccd-b3a7-ef5e0cb7db46"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set": "mh1",
+  "set_name": "Modern Horizons",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/d7efccd6-55bc-4fb8-9138-e72577510a99",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh1&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh1?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3287775f-7bec-4e8f-bb8d-daf5ce92e4a8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80e9a42e-f4f4-4bfc-91a2-ad124737dca2&unique=prints",
+  "collector_number": "161",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Chris Seaman",
+  "artist_ids": [
+    "b9c49463-6f55-4039-9d32-c02a658af100"
+  ],
+  "illustration_id": "1bd17a5e-b1a5-41ab-a22c-e39b513efff9",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2370,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/427047692",
+    "previewed_at": "2019-05-19"
+  },
+  "prices": {
+    "usd": "1.94",
+    "usd_foil": "2.93",
+    "usd_etched": null,
+    "eur": "1.13",
+    "eur_foil": "3.00",
+    "tix": "0.01"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464110",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deep+Forest+Hermit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deep+Forest+Hermit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Deep+Forest+Hermit",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Deep+Forest+Hermit"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=190648&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deep+Forest+Hermit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/72694?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

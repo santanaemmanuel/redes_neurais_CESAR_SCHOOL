@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "71d3f64a-ffb9-4f66-91c0-463b5d2d381b",
+  "oracle_id": "367ec7c5-8c76-4af6-b941-a3a8c2ff67ff",
+  "multiverse_ids": [
+    154396
+  ],
+  "mtgo_id": 29693,
+  "mtgo_foil_id": 29694,
+  "tcgplayer_id": 18781,
+  "cardmarket_id": 19189,
+  "name": "Scarscale Ritual",
+  "lang": "en",
+  "released_at": "2008-05-02",
+  "uri": "https://api.scryfall.com/cards/71d3f64a-ffb9-4f66-91c0-463b5d2d381b",
+  "scryfall_uri": "https://scryfall.com/card/shm/175/scarscale-ritual?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612",
+    "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612",
+    "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612",
+    "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.png?1562831612",
+    "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612",
+    "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612"
+  },
+  "mana_cost": "{1}{U/B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.\nDraw two cards.",
+  "colors": [
+    "B",
+    "U"
+  ],
+  "color_identity": [
+    "B",
+    "U"
+  ],
+  "keywords": [
+
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "brawl": "not_legal",
+    "historicbrawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set": "shm",
+  "set_name": "Shadowmoor",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c18c0ba1-2081-4808-9b2e-549bc3a666f3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ashm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/shm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/71d3f64a-ffb9-4f66-91c0-463b5d2d381b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A367ec7c5-8c76-4af6-b941-a3a8c2ff67ff&unique=prints",
+  "collector_number": "175",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Some words are too important to trust to something as fragile as memory.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Sardinha",
+  "artist_ids": [
+    "a3cce4f0-fbf5-4883-aac7-fb28b993b132"
+  ],
+  "illustration_id": "25f2bac4-75e2-48ae-8695-68cab083d1e8",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15341,
+  "prices": {
+    "usd": "0.17",
+    "usd_foil": "1.55",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.05",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154396",
+    "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scarscale+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scarscale+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "edhrec": "https://edhrec.com/route/?cc=Scarscale+Ritual",
+    "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scarscale+Ritual"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=18781&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scarscale+Ritual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/29693?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
